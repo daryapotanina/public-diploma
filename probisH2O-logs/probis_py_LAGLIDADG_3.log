@@ -1,0 +1,1778 @@
+12:22:38,290 PyQt5.uic.uiparser DEBUG uiname is MainWindow
+12:22:38,290 PyQt5.uic.uiparser DEBUG toplevel widget is QMainWindow
+12:22:38,290 PyQt5.uic.properties DEBUG setting property geometry
+12:22:38,291 PyQt5.uic.properties DEBUG setting property minimumSize
+12:22:38,291 PyQt5.uic.properties DEBUG setting property windowTitle
+12:22:38,291 PyQt5.uic.uiparser DEBUG push QMainWindow MainWindow
+12:22:38,291 PyQt5.uic.uiparser DEBUG push QWidget centralwidget
+12:22:38,291 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout
+12:22:38,291 PyQt5.uic.properties DEBUG setting property text
+12:22:38,291 PyQt5.uic.properties DEBUG setting property pixmap
+12:22:38,292 PyQt5.uic.properties DEBUG setting property alignment
+12:22:38,292 PyQt5.uic.properties DEBUG setting property wordWrap
+12:22:38,292 PyQt5.uic.uiparser DEBUG push QLabel LabelLogo
+12:22:38,292 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelLogo
+12:22:38,292 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f98a75f0>
+12:22:38,292 PyQt5.uic.properties DEBUG setting property currentIndex
+12:22:38,292 PyQt5.uic.uiparser DEBUG push QTabWidget Tabs
+12:22:38,292 PyQt5.uic.uiparser DEBUG push QWidget TabDefine
+12:22:38,292 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_4
+12:22:38,292 PyQt5.uic.properties DEBUG setting property text
+12:22:38,292 PyQt5.uic.properties DEBUG setting property checked
+12:22:38,292 PyQt5.uic.uiparser DEBUG push QCheckBox CheckAnalyze
+12:22:38,292 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckAnalyze
+12:22:38,292 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,292 PyQt5.uic.properties DEBUG setting property text
+12:22:38,292 PyQt5.uic.uiparser DEBUG push QCheckBox CheckAligned
+12:22:38,292 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckAligned
+12:22:38,292 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,293 PyQt5.uic.properties DEBUG setting property text
+12:22:38,293 PyQt5.uic.properties DEBUG setting property scaledContents
+12:22:38,293 PyQt5.uic.uiparser DEBUG push QLabel LabelPDB
+12:22:38,293 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelPDB
+12:22:38,293 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,293 PyQt5.uic.properties DEBUG setting property text
+12:22:38,293 PyQt5.uic.uiparser DEBUG push QPushButton PushDownlad
+12:22:38,293 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushDownlad
+12:22:38,293 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,293 PyQt5.uic.properties DEBUG setting property minimumSize
+12:22:38,293 PyQt5.uic.properties DEBUG setting property maximumSize
+12:22:38,293 PyQt5.uic.properties DEBUG setting property currentIndex
+12:22:38,293 PyQt5.uic.uiparser DEBUG push QComboBox ComboBlastclust
+12:22:38,293 PyQt5.uic.uiparser DEBUG pop widget QComboBox ComboBlastclust
+12:22:38,293 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,293 PyQt5.uic.properties DEBUG setting property text
+12:22:38,293 PyQt5.uic.uiparser DEBUG push QPushButton PushFind
+12:22:38,293 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushFind
+12:22:38,293 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,293 PyQt5.uic.properties DEBUG setting property text
+12:22:38,293 PyQt5.uic.uiparser DEBUG push QCheckBox CheckDebye
+12:22:38,293 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckDebye
+12:22:38,293 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,293 PyQt5.uic.properties DEBUG setting property sizePolicy
+12:22:38,293 PyQt5.uic.properties DEBUG setting property minimumSize
+12:22:38,294 PyQt5.uic.properties DEBUG setting property maximumSize
+12:22:38,294 PyQt5.uic.properties DEBUG setting property text
+12:22:38,294 PyQt5.uic.uiparser DEBUG push QPushButton PushGo
+12:22:38,294 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushGo
+12:22:38,294 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,294 PyQt5.uic.properties DEBUG setting property text
+12:22:38,294 PyQt5.uic.uiparser DEBUG push QPushButton PushIdentify
+12:22:38,294 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushIdentify
+12:22:38,294 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,294 PyQt5.uic.properties DEBUG setting property text
+12:22:38,294 PyQt5.uic.properties DEBUG setting property wordWrap
+12:22:38,294 PyQt5.uic.uiparser DEBUG push QLabel LabelSelect
+12:22:38,294 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelSelect
+12:22:38,294 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,294 PyQt5.uic.uiparser DEBUG push QLineEdit LineFind
+12:22:38,294 PyQt5.uic.uiparser DEBUG pop widget QLineEdit LineFind
+12:22:38,294 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,294 PyQt5.uic.properties DEBUG setting property text
+12:22:38,294 PyQt5.uic.uiparser DEBUG push QCheckBox CheckCompare
+12:22:38,294 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckCompare
+12:22:38,294 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,294 PyQt5.uic.properties DEBUG setting property text
+12:22:38,294 PyQt5.uic.uiparser DEBUG push QCheckBox CheckWater
+12:22:38,294 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckWater
+12:22:38,294 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,294 PyQt5.uic.properties DEBUG setting property text
+12:22:38,294 PyQt5.uic.uiparser DEBUG push QPushButton PushCustom
+12:22:38,294 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushCustom
+12:22:38,294 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,295 PyQt5.uic.uiparser DEBUG push QListWidget ListIdentify
+12:22:38,295 PyQt5.uic.uiparser DEBUG pop widget QListWidget ListIdentify
+12:22:38,295 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,295 PyQt5.uic.properties DEBUG setting property text
+12:22:38,295 PyQt5.uic.uiparser DEBUG push QLabel LabelFound
+12:22:38,295 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelFound
+12:22:38,295 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,295 PyQt5.uic.properties DEBUG setting property minimumSize
+12:22:38,295 PyQt5.uic.properties DEBUG setting property maximumSize
+12:22:38,295 PyQt5.uic.properties DEBUG setting property placeholderText
+12:22:38,295 PyQt5.uic.uiparser DEBUG push QLineEdit LineProtein
+12:22:38,295 PyQt5.uic.uiparser DEBUG pop widget QLineEdit LineProtein
+12:22:38,295 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f99129b0>
+12:22:38,295 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_4
+12:22:38,295 PyQt5.uic.uiparser DEBUG pop widget QWidget TabDefine
+12:22:38,295 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QTabWidget object at 0x7fc7f9912910>
+12:22:38,297 PyQt5.uic.uiparser DEBUG push QWidget TabAnalysis
+12:22:38,297 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_3
+12:22:38,297 PyQt5.uic.properties DEBUG setting property text
+12:22:38,297 PyQt5.uic.uiparser DEBUG push QPushButton PushBSite
+12:22:38,297 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushBSite
+12:22:38,297 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924730>
+12:22:38,297 PyQt5.uic.properties DEBUG setting property text
+12:22:38,297 PyQt5.uic.uiparser DEBUG push QLabel LabeInfo
+12:22:38,297 PyQt5.uic.uiparser DEBUG pop widget QLabel LabeInfo
+12:22:38,297 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924730>
+12:22:38,297 PyQt5.uic.properties DEBUG setting property text
+12:22:38,297 PyQt5.uic.uiparser DEBUG push QPushButton PushFetch
+12:22:38,297 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushFetch
+12:22:38,297 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924730>
+12:22:38,297 PyQt5.uic.properties DEBUG setting property text
+12:22:38,297 PyQt5.uic.properties DEBUG setting property tristate
+12:22:38,297 PyQt5.uic.uiparser DEBUG push QCheckBox CheckKeep
+12:22:38,297 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckKeep
+12:22:38,297 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924730>
+12:22:38,297 PyQt5.uic.properties DEBUG setting property text
+12:22:38,297 PyQt5.uic.uiparser DEBUG push QPushButton PushDisplay
+12:22:38,297 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushDisplay
+12:22:38,297 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924730>
+12:22:38,297 PyQt5.uic.properties DEBUG setting property text
+12:22:38,297 PyQt5.uic.properties DEBUG setting property scaledContents
+12:22:38,297 PyQt5.uic.properties DEBUG setting property wordWrap
+12:22:38,297 PyQt5.uic.uiparser DEBUG push QLabel LabelCalculated
+12:22:38,297 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelCalculated
+12:22:38,297 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924730>
+12:22:38,297 PyQt5.uic.properties DEBUG setting property text
+12:22:38,297 PyQt5.uic.uiparser DEBUG push QPushButton PushContacts
+12:22:38,297 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushContacts
+12:22:38,297 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924730>
+12:22:38,298 PyQt5.uic.uiparser DEBUG push QPlainTextEdit PlainInfo
+12:22:38,298 PyQt5.uic.uiparser DEBUG pop widget QPlainTextEdit PlainInfo
+12:22:38,298 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924730>
+12:22:38,298 PyQt5.uic.properties DEBUG setting property text
+12:22:38,298 PyQt5.uic.uiparser DEBUG push QPushButton PushChain
+12:22:38,298 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushChain
+12:22:38,298 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924730>
+12:22:38,298 PyQt5.uic.properties DEBUG setting property alternatingRowColors
+12:22:38,298 PyQt5.uic.uiparser DEBUG push QListWidget ListCalculated
+12:22:38,298 PyQt5.uic.uiparser DEBUG pop widget QListWidget ListCalculated
+12:22:38,298 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924730>
+12:22:38,298 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_3
+12:22:38,298 PyQt5.uic.uiparser DEBUG pop widget QWidget TabAnalysis
+12:22:38,298 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QTabWidget object at 0x7fc7f9912910>
+12:22:38,298 PyQt5.uic.uiparser DEBUG push QWidget TabSettings
+12:22:38,298 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_5
+12:22:38,298 PyQt5.uic.properties DEBUG setting property title
+12:22:38,298 PyQt5.uic.uiparser DEBUG push QGroupBox BoxDBScan
+12:22:38,298 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_7
+12:22:38,298 PyQt5.uic.properties DEBUG setting property text
+12:22:38,298 PyQt5.uic.properties DEBUG setting property scaledContents
+12:22:38,298 PyQt5.uic.properties DEBUG setting property wordWrap
+12:22:38,298 PyQt5.uic.uiparser DEBUG push QLabel LabelDB
+12:22:38,298 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelDB
+12:22:38,298 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e050>
+12:22:38,298 PyQt5.uic.properties DEBUG setting property correctionMode
+12:22:38,298 PyQt5.uic.properties DEBUG setting property decimals
+12:22:38,299 PyQt5.uic.properties DEBUG setting property minimum
+12:22:38,299 PyQt5.uic.properties DEBUG setting property maximum
+12:22:38,299 PyQt5.uic.properties DEBUG setting property singleStep
+12:22:38,299 PyQt5.uic.properties DEBUG setting property value
+12:22:38,299 PyQt5.uic.uiparser DEBUG push QDoubleSpinBox SpinDB
+12:22:38,299 PyQt5.uic.uiparser DEBUG pop widget QDoubleSpinBox SpinDB
+12:22:38,299 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e050>
+12:22:38,299 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_7
+12:22:38,299 PyQt5.uic.uiparser DEBUG pop widget QGroupBox BoxDBScan
+12:22:38,299 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924eb0>
+12:22:38,299 PyQt5.uic.properties DEBUG setting property title
+12:22:38,299 PyQt5.uic.uiparser DEBUG push QGroupBox BoxCluster
+12:22:38,299 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_6
+12:22:38,299 PyQt5.uic.properties DEBUG setting property text
+12:22:38,299 PyQt5.uic.uiparser DEBUG push QLabel LabelDlFrom
+12:22:38,299 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelDlFrom
+12:22:38,299 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e410>
+12:22:38,299 PyQt5.uic.uiparser DEBUG push QLineEdit LineDlTo
+12:22:38,299 PyQt5.uic.uiparser DEBUG pop widget QLineEdit LineDlTo
+12:22:38,299 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e410>
+12:22:38,299 PyQt5.uic.properties DEBUG setting property text
+12:22:38,299 PyQt5.uic.uiparser DEBUG push QPushButton PushDefault
+12:22:38,299 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushDefault
+12:22:38,299 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e410>
+12:22:38,299 PyQt5.uic.properties DEBUG setting property text
+12:22:38,299 PyQt5.uic.uiparser DEBUG push QPushButton PushSetMachine
+12:22:38,299 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushSetMachine
+12:22:38,299 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e410>
+12:22:38,299 PyQt5.uic.properties DEBUG setting property text
+12:22:38,299 PyQt5.uic.uiparser DEBUG push QLabel LabelDlTo
+12:22:38,299 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelDlTo
+12:22:38,299 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e410>
+12:22:38,299 PyQt5.uic.uiparser DEBUG push QLineEdit LineDlFrom
+12:22:38,299 PyQt5.uic.uiparser DEBUG pop widget QLineEdit LineDlFrom
+12:22:38,299 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e410>
+12:22:38,299 PyQt5.uic.properties DEBUG setting property text
+12:22:38,300 PyQt5.uic.uiparser DEBUG push QPushButton PushSetDL
+12:22:38,300 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushSetDL
+12:22:38,300 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e410>
+12:22:38,300 PyQt5.uic.properties DEBUG setting property sizePolicy
+12:22:38,300 PyQt5.uic.properties DEBUG setting property minimumSize
+12:22:38,300 PyQt5.uic.properties DEBUG setting property text
+12:22:38,300 PyQt5.uic.uiparser DEBUG push QPushButton PushSetup
+12:22:38,300 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushSetup
+12:22:38,300 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e410>
+12:22:38,300 PyQt5.uic.properties DEBUG setting property text
+12:22:38,300 PyQt5.uic.uiparser DEBUG push QPushButton PushCurrentDL
+12:22:38,300 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushCurrentDL
+12:22:38,300 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e410>
+12:22:38,300 PyQt5.uic.properties DEBUG setting property text
+12:22:38,300 PyQt5.uic.uiparser DEBUG push QPushButton PushCurrentMachine
+12:22:38,300 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushCurrentMachine
+12:22:38,300 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fc7f992e410>
+12:22:38,300 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_6
+12:22:38,300 PyQt5.uic.uiparser DEBUG pop widget QGroupBox BoxCluster
+12:22:38,300 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f9924eb0>
+12:22:38,300 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_5
+12:22:38,300 PyQt5.uic.uiparser DEBUG pop widget QWidget TabSettings
+12:22:38,300 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QTabWidget object at 0x7fc7f9912910>
+12:22:38,300 PyQt5.uic.uiparser DEBUG push QWidget TabAbout
+12:22:38,300 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_2
+12:22:38,300 PyQt5.uic.properties DEBUG setting property text
+12:22:38,300 PyQt5.uic.uiparser DEBUG push QLabel label_3
+12:22:38,300 PyQt5.uic.uiparser DEBUG pop widget QLabel label_3
+12:22:38,300 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f992ecd0>
+12:22:38,300 PyQt5.uic.properties DEBUG setting property text
+12:22:38,300 PyQt5.uic.uiparser DEBUG push QLabel LabelCurrent
+12:22:38,300 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelCurrent
+12:22:38,300 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f992ecd0>
+12:22:38,300 PyQt5.uic.properties DEBUG setting property font
+12:22:38,300 PyQt5.uic.properties DEBUG setting property readOnly
+12:22:38,300 PyQt5.uic.properties DEBUG setting property plainText
+12:22:38,301 PyQt5.uic.uiparser DEBUG push QPlainTextEdit PlainAbout
+12:22:38,301 PyQt5.uic.uiparser DEBUG pop widget QPlainTextEdit PlainAbout
+12:22:38,301 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f992ecd0>
+12:22:38,301 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_2
+12:22:38,301 PyQt5.uic.uiparser DEBUG pop widget QWidget TabAbout
+12:22:38,301 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QTabWidget object at 0x7fc7f9912910>
+12:22:38,301 PyQt5.uic.uiparser DEBUG push QWidget TabHelp
+12:22:38,301 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_8
+12:22:38,301 PyQt5.uic.properties DEBUG setting property text
+12:22:38,302 PyQt5.uic.properties DEBUG setting property pixmap
+12:22:38,302 PyQt5.uic.uiparser DEBUG push QLabel label
+12:22:38,302 PyQt5.uic.uiparser DEBUG pop widget QLabel label
+12:22:38,302 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f98a77d0>
+12:22:38,302 PyQt5.uic.properties DEBUG setting property text
+12:22:38,302 PyQt5.uic.properties DEBUG setting property pixmap
+12:22:38,302 PyQt5.uic.uiparser DEBUG push QLabel label_2
+12:22:38,302 PyQt5.uic.uiparser DEBUG pop widget QLabel label_2
+12:22:38,302 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f98a77d0>
+12:22:38,302 PyQt5.uic.properties DEBUG setting property html
+12:22:38,302 PyQt5.uic.uiparser DEBUG push QTextEdit PlainHelp
+12:22:38,302 PyQt5.uic.uiparser DEBUG pop widget QTextEdit PlainHelp
+12:22:38,303 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f98a77d0>
+12:22:38,303 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_8
+12:22:38,303 PyQt5.uic.uiparser DEBUG pop widget QWidget TabHelp
+12:22:38,303 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QTabWidget object at 0x7fc7f9912910>
+12:22:38,303 PyQt5.uic.uiparser DEBUG pop widget QTabWidget Tabs
+12:22:38,303 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fc7f98a75f0>
+12:22:38,303 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout
+12:22:38,303 PyQt5.uic.uiparser DEBUG pop widget QWidget centralwidget
+12:22:38,303 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QMainWindow object at 0x7fc7e8fdc910>
+12:22:38,303 PyQt5.uic.uiparser DEBUG pop widget QMainWindow MainWindow
+12:22:38,303 PyQt5.uic.uiparser DEBUG new topwidget None
+
+
+12:23:28,430 root INFO report_list_1 
+
+
+Examined complex: 2VS7
+12:23:28,430 root INFO report_list_1 Whole chain setting used: True
+12:23:28,430 root INFO report_list_1 Whole chain selection: A
+12:23:28,430 root INFO report_list_1 Binding site selection: / (not used)
+12:23:28,430 root INFO report_list_1 Chain selection: A
+12:23:28,430 root INFO report_list_1 Used PDB clusters with: Custom Cluster %
+12:23:28,430 root INFO report_list_1 Unique structures in identified cluster: ['5O6I', '2VS8', '1MOW', '2VS7']
+
+
+
+12:23:28,430 root INFO report_list_1 4 compl. in cluster no.:[1] (sequence identity pre-cluster)
+12:23:28,430 root INFO report_list_1 Maximum occupied cluster contains 4 H2O molecules 
+ binding site: no binding site used in analysis
+12:23:28,430 root INFO report_list_1 Master water list includes 1154 waters
+12:23:28,430 root INFO report_list_1 System volume is: 129176 cubic A
+
+12:23:28,430 root INFO report_list_1 IDENTIFIED CLUSTERS: 
+
+12:23:28,430 root INFO report_list_1 -------------------------
+12:23:28,430 root INFO report_list_1 48 clusters with 2 H2O molecules. consv. 0.5           [*****     ]
+12:23:28,430 root INFO report_list_1 15 clusters with 3 H2O molecules. consv. 0.75          [********  ]
+12:23:28,430 root INFO report_list_1 1 cluster with 4 H2O molecules. consv. 1.0             [**********]
+12:23:28,430 root INFO report_list_1 -------------------------
+12:23:28,430 root INFO report_list_1 
+Binding site info (name, avg x, y, z, min x, max x, min y, max y, min z, max z; box 4 A around extremes): 
+['no binding site used in analysis']
+12:23:28,430 root INFO report_list_1 
+Examined cluster with 2 H2O molecules
+
+12:23:28,430 root INFO report_list_1 -------------------------
+12:23:28,430 root INFO report_list_1 [[-100.223, -2.402, 27.371], 0, 1.9399552814176624, '2vs7A_5o6iF.0.rota.pdb location: 303']
+12:23:28,430 root INFO report_list_1 [[-86.589, 14.267, 19.81], 1, 2.2506976867050934, '2vs7A_5o6iF.0.rota.pdb location: 306']
+12:23:28,430 root INFO report_list_1 [[-99.575, -14.422, 35.316], 2, 2.1551897857007924, '2vs7A_5o6iF.0.rota.pdb location: 308']
+12:23:28,430 root INFO report_list_1 [[-102.21, 3.248, 26.535], 3, 2.0689242687034715, '2vs7A_5o6iF.0.rota.pdb location: 309']
+12:23:28,430 root INFO report_list_1 [[-94.027, -7.255, 45.486], 4, 2.17292627659508, '2vs7A_5o6iF.0.rota.pdb location: 311']
+12:23:28,430 root INFO report_list_1 [[-83.364, 12.311, 19.058], 5, 2.2314989037150936, '2vs7A_5o6iF.0.rota.pdb location: 312']
+12:23:28,430 root INFO report_list_1 [[-96.153, -5.144, 31.307], 6, 2.094287787000767, '2vs7A_5o6iF.0.rota.pdb location: 315']
+12:23:28,430 root INFO report_list_1 [[-112.655, 0.448, 39.674], 7, 2.0628378252401465, '2vs7A_5o6iF.0.rota.pdb location: 318']
+12:23:28,430 root INFO report_list_1 [[-111.702, -3.502, 44.638], 8, 2.2052673936717926, '2vs7A_5o6iF.0.rota.pdb location: 319']
+12:23:28,430 root INFO report_list_1 [[-80.851, 4.129, 37.172], 9, 2.0902628963504366, '2vs7A_5o6iF.0.rota.pdb location: 320']
+12:23:28,430 root INFO report_list_1 [[-82.553, -0.057, 16.259], 10, 2.128557719612041, '2vs7A_5o6iF.0.rota.pdb location: 321']
+12:23:28,430 root INFO report_list_1 [[-87.471, -3.305, 19.568], 11, 2.1092669996441447, '2vs7A_5o6iF.0.rota.pdb location: 323']
+12:23:28,430 root INFO report_list_1 [[-107.101, -1.442, 50.011], 12, 2.0867678718861873, '2vs7A_5o6iF.0.rota.pdb location: 325']
+12:23:28,430 root INFO report_list_1 [[-80.784, -11.74, 21.273], 13, 2.1819676101230208, '2vs7A_5o6iF.0.rota.pdb location: 327']
+12:23:28,430 root INFO report_list_1 [[-111.816, 10.088, 46.872], 14, 2.203062471968078, '2vs7A_5o6iF.0.rota.pdb location: 328']
+12:23:28,430 root INFO report_list_1 [[-105.01, -3.816, 49.172], 15, 2.1639437268410973, '2vs7A_5o6iF.0.rota.pdb location: 331']
+12:23:28,430 root INFO report_list_1 [[-69.103, -8.112, 13.506], 16, 2.189864031512826, '2vs7A_5o6iF.0.rota.pdb location: 334']
+12:23:28,430 root INFO report_list_1 [[-91.324, 3.745, 9.877], 17, 2.178070737313111, '2vs7A_5o6iF.0.rota.pdb location: 335']
+12:23:28,430 root INFO report_list_1 [[-83.775, -8.89, 26.951], 18, 2.1540149147815764, '2vs7A_5o6iF.0.rota.pdb location: 336']
+12:23:28,430 root INFO report_list_1 [[-95.69, -12.366, 39.054], 19, 2.198475765486599, '2vs7A_5o6iF.0.rota.pdb location: 337']
+12:23:28,430 root INFO report_list_1 [[-87.564, 7.564, 12.886], 20, 2.226533774693123, '2vs7A_5o6iF.0.rota.pdb location: 338']
+12:23:28,430 root INFO report_list_1 [[-107.726, -14.127, 42.411], 21, 2.1470964264335146, '2vs7A_5o6iF.0.rota.pdb location: 339']
+12:23:28,430 root INFO report_list_1 [[-112.393, -6.45, 35.996], 22, 2.134530668451256, '2vs7A_5o6iF.0.rota.pdb location: 341']
+12:23:28,431 root INFO report_list_1 [[-95.507, -7.066, 31.663], 23, 2.097654381425273, '2vs7A_5o6iF.0.rota.pdb location: 345']
+12:23:28,431 root INFO report_list_1 [[-113.619, 11.224, 37.656], 24, 2.205817681406801, '2vs7A_5o6iF.0.rota.pdb location: 347']
+12:23:28,431 root INFO report_list_1 [[-98.145, -7.686, 23.675], 25, 2.1147811332964017, '2vs7A_5o6iF.0.rota.pdb location: 202']
+12:23:28,431 root INFO report_list_1 [[-112.456, -5.49, 38.532], 26, 2.1450593499047295, '2vs7A_5o6iF.0.rota.pdb location: 212']
+12:23:28,431 root INFO report_list_1 [[-89.768, -12.31, 16.347], 27, 2.3260438262052374, '2vs7A_5o6iF.0.rota.pdb location: 215']
+12:23:28,431 root INFO report_list_1 [[-74.964, 3.934, 25.25], 28, 2.084273717095106, '2vs7A_5o6iF.0.rota.pdb location: 105']
+12:23:28,431 root INFO report_list_1 [[-77.529, -0.414, 21.394], 29, 2.004579333081882, '2vs7A_5o6iF.0.rota.pdb location: 107']
+12:23:28,431 root INFO report_list_1 [[-101.326, -6.504, 24.902], 30, 2.1271656806625643, '2vs7A_5o6iF.0.rota.pdb location: 110']
+12:23:28,431 root INFO report_list_1 [[-111.815, -0.53, 29.636], 31, 2.171039587194728, '2vs7A_5o6iF.0.rota.pdb location: 112']
+12:23:28,431 root INFO report_list_1 [[-104.529, 0.702, 25.821], 32, 2.115578040350921, '2vs7A_5o6iF.0.rota.pdb location: 116']
+12:23:28,431 root INFO report_list_1 [[-77.755, 3.544, 36.688], 33, 2.094834829334094, '2vs7A_2vs8K.0.rota.pdb location: 2002']
+12:23:28,431 root INFO report_list_1 [[-100.77, -2.514, 27.622], 0, 1.9577239763377372, '2vs7A_2vs8K.0.rota.pdb location: 2002']
+12:23:28,431 root INFO report_list_1 [[-92.869, -4.692, 29.242], 34, 2.1748900983755077, '2vs7A_2vs8K.0.rota.pdb location: 2003']
+12:23:28,431 root INFO report_list_1 [[-89.625, -6.05, 28.95], 35, 2.152164981345784, '2vs7A_2vs8K.0.rota.pdb location: 2004']
+12:23:28,431 root INFO report_list_1 [[-82.72, -0.208, 16.233], 10, 2.081677547290265, '2vs7A_2vs8K.0.rota.pdb location: 2009']
+12:23:28,431 root INFO report_list_1 [[-84.823, -5.998, 32.738], 36, 2.236510265645255, '2vs7A_2vs8K.0.rota.pdb location: 2010']
+12:23:28,431 root INFO report_list_1 [[-80.126, -6.513, 34.084], 37, 2.2334766735474836, '2vs7A_2vs8K.0.rota.pdb location: 2011']
+12:23:28,431 root INFO report_list_1 [[-83.255, 11.706, 19.184], 5, 2.1254218755609675, '2vs7A_2vs8K.0.rota.pdb location: 2018']
+12:23:28,431 root INFO report_list_1 [[-113.318, 10.895, 37.327], 24, 2.251441758995251, '2vs7A_2vs8K.0.rota.pdb location: 2024']
+12:23:28,431 root INFO report_list_1 [[-80.398, 12.261, 20.77], 38, 2.2430706395379922, '2vs7A_2vs8K.0.rota.pdb location: 2025']
+12:23:28,431 root INFO report_list_1 [[-81.695, 4.765, 18.782], 39, 2.028006932547563, '2vs7A_2vs8K.0.rota.pdb location: 2027']
+12:23:28,431 root INFO report_list_1 [[-87.061, 7.57, 13.506], 20, 2.161868578424811, '2vs7A_2vs8K.0.rota.pdb location: 2028']
+12:23:28,431 root INFO report_list_1 [[-91.26, 3.034, 10.151], 17, 2.1919457852315842, '2vs7A_2vs8K.0.rota.pdb location: 2030']
+12:23:28,431 root INFO report_list_1 [[-76.019, 6.012, 24.441], 40, 2.1234113031413555, '2vs7A_2vs8K.0.rota.pdb location: 2032']
+12:23:28,431 root INFO report_list_1 [[-70.962, -4.669, 29.833], 41, 2.280473569361078, '2vs7A_2vs8K.0.rota.pdb location: 2033']
+12:23:28,431 root INFO report_list_1 [[-80.585, 3.979, 37.108], 9, 2.0835329604859814, '2vs7A_2vs8K.0.rota.pdb location: 2036']
+12:23:28,431 root INFO report_list_1 [[-80.862, 2.925, 39.732], 42, 2.2292873651348897, '2vs7A_2vs8K.0.rota.pdb location: 2038']
+12:23:28,431 root INFO report_list_1 [[-105.021, 7.948, 31.924], 43, 2.2230788322685626, '2vs7A_2vs8K.0.rota.pdb location: 2045']
+12:23:28,431 root INFO report_list_1 [[-111.992, -0.74, 30.403], 31, 2.131939723275668, '2vs7A_2vs8K.0.rota.pdb location: 2046']
+12:23:28,431 root INFO report_list_1 [[-95.719, -7.282, 32.43], 23, 2.100191314820001, '2vs7A_2vs8K.0.rota.pdb location: 2049']
+12:23:28,431 root INFO report_list_1 [[-99.263, -13.882, 35.649], 2, 2.1320262358607196, '2vs7A_2vs8K.0.rota.pdb location: 2051']
+12:23:28,431 root INFO report_list_1 [[-95.426, -12.272, 39.87], 19, 2.1466724937962853, '2vs7A_2vs8K.0.rota.pdb location: 2054']
+12:23:28,431 root INFO report_list_1 [[-94.351, -7.663, 45.502], 4, 2.1792906033414376, '2vs7A_2vs8K.0.rota.pdb location: 2058']
+12:23:28,431 root INFO report_list_1 [[-106.973, -1.53, 50.256], 12, 2.1377136352534816, '2vs7A_2vs8K.0.rota.pdb location: 2059']
+12:23:28,431 root INFO report_list_1 [[-105.288, -4.072, 49.713], 15, 2.175951759966167, '2vs7A_2vs8K.0.rota.pdb location: 2060']
+12:23:28,431 root INFO report_list_1 [[-107.322, -14.549, 42.304], 21, 2.2072309844770484, '2vs7A_2vs8K.0.rota.pdb location: 2064']
+12:23:28,431 root INFO report_list_1 [[-111.932, -6.685, 36.009], 22, 2.1399421234848592, '2vs7A_2vs8K.0.rota.pdb location: 2065']
+12:23:28,431 root INFO report_list_1 [[-111.589, -3.038, 44.896], 8, 2.2101283645467813, '2vs7A_2vs8K.0.rota.pdb location: 2068']
+12:23:28,431 root INFO report_list_1 [[-112.783, 0.574, 39.943], 7, 2.103349613729697, '2vs7A_2vs8K.0.rota.pdb location: 2069']
+12:23:28,431 root INFO report_list_1 [[-111.507, 9.94, 47.639], 14, 2.2284469613060844, '2vs7A_2vs8K.0.rota.pdb location: 2072']
+12:23:28,431 root INFO report_list_1 [[-96.654, -4.84, 30.971], 6, 2.083254969709018, '2vs7A_2vs8K.0.rota.pdb location: 2077']
+12:23:28,431 root INFO report_list_1 [[-112.386, -5.724, 38.894], 26, 2.147350670588036, '2vs7A_2vs8K.0.rota.pdb location: 2004']
+12:23:28,431 root INFO report_list_1 [[-98.946, -7.551, 23.854], 25, 2.190745442321849, '2vs7A_2vs8K.0.rota.pdb location: 2001']
+12:23:28,431 root INFO report_list_1 [[-85.546, -9.527, 22.962], 44, 2.172188555817268, '2vs7A_2vs8K.0.rota.pdb location: 2005']
+12:23:28,431 root INFO report_list_1 [[-89.38, -12.929, 15.895], 27, 2.2821262326748672, '2vs7A_2vs8K.0.rota.pdb location: 2006']
+12:23:28,431 root INFO report_list_1 [[-87.954, -3.506, 19.64], 11, 2.1146925332175615, '2vs7A_2vs8K.0.rota.pdb location: 2007']
+12:23:28,431 root INFO report_list_1 [[-77.442, -0.823, 21.662], 29, 2.0178410470116948, '2vs7A_2vs8K.0.rota.pdb location: 2007']
+12:23:28,431 root INFO report_list_1 [[-74.666, 3.553, 25.114], 28, 2.105596886417831, '2vs7A_2vs8K.0.rota.pdb location: 2008']
+12:23:28,431 root INFO report_list_1 [[-85.608, -9.998, 22.884], 44, 2.1677473450551945, '2vs7A_1mowD.0.rota.pdb location: 2215']
+12:23:28,431 root INFO report_list_1 [[-98.456, -7.86, 23.827], 25, 2.066078173245368, '2vs7A_1mowD.0.rota.pdb location: 2254']
+12:23:28,431 root INFO report_list_1 [[-77.53, -0.782, 21.117], 29, 1.9427626934859257, '2vs7A_1mowD.0.rota.pdb location: 2002']
+12:23:28,432 root INFO report_list_1 [[-81.233, 4.369, 18.664], 39, 2.021621801512757, '2vs7A_1mowD.0.rota.pdb location: 2013']
+12:23:28,432 root INFO report_list_1 [[-74.867, 3.222, 25.463], 28, 2.0097940176546336, '2vs7A_1mowD.0.rota.pdb location: 2042']
+12:23:28,432 root INFO report_list_1 [[-96.859, -4.657, 30.487], 6, 2.0728885787421993, '2vs7A_1mowD.0.rota.pdb location: 2173']
+12:23:28,432 root INFO report_list_1 [[-101.212, -6.14, 24.805], 30, 2.0432498610177827, '2vs7A_1mowD.0.rota.pdb location: 2331']
+12:23:28,432 root INFO report_list_1 [[-103.733, 0.487, 25.669], 32, 2.185522761211817, '2vs7A_1mowD.0.rota.pdb location: 2410']
+12:23:28,432 root INFO report_list_1 [[-80.624, 3.466, 37.373], 9, 1.9386636609757009, '2vs7A_1mowD.0.rota.pdb location: 2001']
+12:23:28,432 root INFO report_list_1 [[-82.647, -0.309, 16.398], 10, 1.9540786825318976, '2vs7A_1mowD.0.rota.pdb location: 2011']
+12:23:28,432 root INFO report_list_1 [[-87.619, -3.523, 19.598], 11, 2.002901108239889, '2vs7A_1mowD.0.rota.pdb location: 2030']
+12:23:28,432 root INFO report_list_1 [[-82.949, 11.6, 18.927], 5, 2.0724178626448975, '2vs7A_1mowD.0.rota.pdb location: 2062']
+12:23:28,432 root INFO report_list_1 [[-84.361, -9.43, 26.217], 18, 2.253224885050944, '2vs7A_1mowD.0.rota.pdb location: 2098']
+12:23:28,432 root INFO report_list_1 [[-93.028, -4.884, 29.651], 34, 2.1305541286147207, '2vs7A_1mowD.0.rota.pdb location: 2132']
+12:23:28,432 root INFO report_list_1 [[-88.991, -5.977, 28.654], 35, 2.22076745777473, '2vs7A_1mowD.0.rota.pdb location: 2148']
+12:23:28,432 root INFO report_list_1 [[-77.096, -8.117, 31.647], 45, 2.2462943441095273, '2vs7A_1mowD.0.rota.pdb location: 2156']
+12:23:28,432 root INFO report_list_1 [[-80.216, 12.272, 20.799], 38, 2.2200727750791494, '2vs7A_1mowD.0.rota.pdb location: 2158']
+12:23:28,432 root INFO report_list_1 [[-69.661, -8.303, 12.946], 16, 2.1127405449999115, '2vs7A_1mowD.0.rota.pdb location: 2163']
+12:23:28,432 root INFO report_list_1 [[-86.553, 14.182, 19.651], 1, 2.1651033515111577, '2vs7A_1mowD.0.rota.pdb location: 2167']
+12:23:28,432 root INFO report_list_1 [[-101.925, 2.882, 26.098], 3, 2.019376566852348, '2vs7A_1mowD.0.rota.pdb location: 2224']
+12:23:28,432 root INFO report_list_1 [[-87.126, -8.312, 28.408], 46, 2.1844740525649327, '2vs7A_1mowD.0.rota.pdb location: 2233']
+12:23:28,432 root INFO report_list_1 [[-81.489, -12.073, 20.945], 13, 2.1908255218645447, '2vs7A_1mowD.0.rota.pdb location: 2237']
+12:23:28,432 root INFO report_list_1 [[-75.207, 5.808, 24.739], 40, 2.216668042307086, '2vs7A_1mowD.0.rota.pdb location: 2269']
+12:23:28,432 root INFO report_list_1 [[-84.392, -6.193, 32.853], 36, 2.248386915445575, '2vs7A_1mowD.0.rota.pdb location: 2314']
+12:23:28,432 root INFO report_list_1 [[-70.435, -4.608, 29.438], 41, 2.5053537095640657, '2vs7A_1mowD.0.rota.pdb location: 2362']
+12:23:28,432 root INFO report_list_1 [[-87.199, 8.159, 13.451], 20, 2.1385715418525386, '2vs7A_1mowD.0.rota.pdb location: 2425']
+12:23:28,432 root INFO report_list_1 [[-80.195, -11.577, 26.005], 47, 2.3428503248034445, '2vs7A_1mowD.0.rota.pdb location: 2450']
+12:23:28,432 root INFO report_list_1 [[-96.314, -5.209, 30.719], 6, 2.163446205637665, '2vs7.pdb location: 2002']
+12:23:28,432 root INFO report_list_1 [[-92.749, -4.825, 29.273], 34, 2.1381427131907973, '2vs7.pdb location: 2003']
+12:23:28,432 root INFO report_list_1 [[-87.003, -8.304, 28.07], 46, 2.1981584693224763, '2vs7.pdb location: 2004']
+12:23:28,432 root INFO report_list_1 [[-77.357, -7.873, 31.776], 45, 2.1957747154594767, '2vs7.pdb location: 2006']
+12:23:28,432 root INFO report_list_1 [[-79.402, -11.552, 25.845], 47, 2.251292996565707, '2vs7.pdb location: 2007']
+12:23:28,432 root INFO report_list_1 [[-83.659, -9.331, 26.426], 18, 2.432975660523214, '2vs7.pdb location: 2008']
+12:23:28,432 root INFO report_list_1 [[-81.082, -11.996, 21.334], 13, 2.2394574630274358, '2vs7.pdb location: 2010']
+12:23:28,432 root INFO report_list_1 [[-69.026, -8.511, 13.994], 16, 2.1159319365349445, '2vs7.pdb location: 2013']
+12:23:28,432 root INFO report_list_1 [[-80.955, -6.419, 34.236], 37, 2.285279252819969, '2vs7.pdb location: 2017']
+12:23:28,432 root INFO report_list_1 [[-80.895, 2.764, 40.202], 42, 2.3175941565135574, '2vs7.pdb location: 2018']
+12:23:28,432 root INFO report_list_1 [[-77.798, 3.447, 37.042], 33, 2.1433575218489413, '2vs7.pdb location: 2019']
+12:23:28,432 root INFO report_list_1 [[-84.919, -5.569, 32.899], 36, 2.292687576561356, '2vs7.pdb location: 2020']
+12:23:28,432 root INFO report_list_1 [[-101.946, 2.882, 26.456], 3, 2.0529233340715707, '2vs7.pdb location: 2022']
+12:23:28,432 root INFO report_list_1 [[-105.2, 7.824, 31.418], 43, 2.2707099153011825, '2vs7.pdb location: 2023']
+12:23:28,432 root INFO ______________________________!!!!!!!!!!!!!!!!!!______________________________
+12:24:31,539 root INFO RUN PROBIS ['/Users/admin/.probisH2O/Probis_H2O/probis.exe', '-ncpu', '8', '-extract', '-f1', '2vs7.pdb', '-c1', 'A', '-srffile', '2vs7.srf']
+
+
+12:24:46,989 root INFO report_list_1 
+
+
+Examined complex: 2VS7
+12:24:46,989 root INFO report_list_1 Whole chain setting used: True
+12:24:46,989 root INFO report_list_1 Whole chain selection: A
+12:24:46,989 root INFO report_list_1 Binding site selection: / (not used)
+12:24:46,989 root INFO report_list_1 Chain selection: A
+12:24:46,989 root INFO report_list_1 Used PDB clusters with: Custom Cluster %
+12:24:46,989 root INFO report_list_1 Unique structures in identified cluster: ['5O6I', '2VS8', '1MOW', '2VS7']
+
+
+
+12:24:46,989 root INFO report_list_1 4 compl. in cluster no.:[1] (sequence identity pre-cluster)
+12:24:46,989 root INFO report_list_1 Maximum occupied cluster contains 5 H2O molecules 
+ binding site: no binding site used in analysis
+12:24:46,989 root INFO report_list_1 Maximum occupied cluster contains 4 H2O molecules 
+ binding site: no binding site used in analysis
+12:24:46,989 root INFO report_list_1 Master water list includes 1154 waters
+12:24:46,989 root INFO report_list_1 System volume is: 129176 cubic A
+
+
+
+12:24:46,989 root INFO report_list_1 -------------------------
+12:24:46,989 root INFO report_list_1 48 clusters with 2 H2O molecules. consv. 0.5           [*****     ]
+12:24:46,989 root INFO report_list_1 15 clusters with 3 H2O molecules. consv. 0.75          [********  ]
+12:24:46,989 root INFO report_list_1 1 cluster with 4 H2O molecules. consv. 1.0             [**********]
+12:24:46,989 root INFO report_list_1 -------------------------
+12:24:46,989 root INFO report_list_1 
+Binding site info (name, avg x, y, z, min x, max x, min y, max y, min z, max z; box 4 A around extremes): 
+['no binding site used in analysis']
+12:24:46,989 root INFO report_list_1 
+Examined cluster with 2 H2O molecules
+
+12:24:46,989 root INFO report_list_1 -------------------------
+12:24:46,989 root INFO report_list_1 [[-100.223, -2.402, 27.371], 0, 1.9399552814176624, '2vs7A_5o6iF.0.rota.pdb location: 303']
+12:24:46,989 root INFO report_list_1 [[-86.589, 14.267, 19.81], 1, 2.2506976867050934, '2vs7A_5o6iF.0.rota.pdb location: 306']
+12:24:46,989 root INFO report_list_1 [[-99.575, -14.422, 35.316], 2, 2.1551897857007924, '2vs7A_5o6iF.0.rota.pdb location: 308']
+12:24:46,989 root INFO report_list_1 [[-102.21, 3.248, 26.535], 3, 2.0689242687034715, '2vs7A_5o6iF.0.rota.pdb location: 309']
+12:24:46,989 root INFO report_list_1 [[-94.027, -7.255, 45.486], 4, 2.17292627659508, '2vs7A_5o6iF.0.rota.pdb location: 311']
+12:24:46,989 root INFO report_list_1 [[-83.364, 12.311, 19.058], 5, 2.2314989037150936, '2vs7A_5o6iF.0.rota.pdb location: 312']
+12:24:46,989 root INFO report_list_1 [[-96.153, -5.144, 31.307], 6, 2.094287787000767, '2vs7A_5o6iF.0.rota.pdb location: 315']
+12:24:46,989 root INFO report_list_1 [[-112.655, 0.448, 39.674], 7, 2.0628378252401465, '2vs7A_5o6iF.0.rota.pdb location: 318']
+12:24:46,989 root INFO report_list_1 [[-111.702, -3.502, 44.638], 8, 2.2052673936717926, '2vs7A_5o6iF.0.rota.pdb location: 319']
+12:24:46,989 root INFO report_list_1 [[-80.851, 4.129, 37.172], 9, 2.0902628963504366, '2vs7A_5o6iF.0.rota.pdb location: 320']
+12:24:46,989 root INFO report_list_1 [[-82.553, -0.057, 16.259], 10, 2.128557719612041, '2vs7A_5o6iF.0.rota.pdb location: 321']
+12:24:46,989 root INFO report_list_1 [[-87.471, -3.305, 19.568], 11, 2.1092669996441447, '2vs7A_5o6iF.0.rota.pdb location: 323']
+12:24:46,989 root INFO report_list_1 [[-107.101, -1.442, 50.011], 12, 2.0867678718861873, '2vs7A_5o6iF.0.rota.pdb location: 325']
+12:24:46,989 root INFO report_list_1 [[-80.784, -11.74, 21.273], 13, 2.1819676101230208, '2vs7A_5o6iF.0.rota.pdb location: 327']
+12:24:46,989 root INFO report_list_1 [[-111.816, 10.088, 46.872], 14, 2.203062471968078, '2vs7A_5o6iF.0.rota.pdb location: 328']
+12:24:46,989 root INFO report_list_1 [[-105.01, -3.816, 49.172], 15, 2.1639437268410973, '2vs7A_5o6iF.0.rota.pdb location: 331']
+12:24:46,989 root INFO report_list_1 [[-69.103, -8.112, 13.506], 16, 2.189864031512826, '2vs7A_5o6iF.0.rota.pdb location: 334']
+12:24:46,989 root INFO report_list_1 [[-91.324, 3.745, 9.877], 17, 2.178070737313111, '2vs7A_5o6iF.0.rota.pdb location: 335']
+12:24:46,989 root INFO report_list_1 [[-83.775, -8.89, 26.951], 18, 2.1540149147815764, '2vs7A_5o6iF.0.rota.pdb location: 336']
+12:24:46,989 root INFO report_list_1 [[-95.69, -12.366, 39.054], 19, 2.198475765486599, '2vs7A_5o6iF.0.rota.pdb location: 337']
+12:24:46,990 root INFO report_list_1 [[-87.564, 7.564, 12.886], 20, 2.226533774693123, '2vs7A_5o6iF.0.rota.pdb location: 338']
+12:24:46,990 root INFO report_list_1 [[-107.726, -14.127, 42.411], 21, 2.1470964264335146, '2vs7A_5o6iF.0.rota.pdb location: 339']
+12:24:46,990 root INFO report_list_1 [[-112.393, -6.45, 35.996], 22, 2.134530668451256, '2vs7A_5o6iF.0.rota.pdb location: 341']
+12:24:46,990 root INFO report_list_1 [[-95.507, -7.066, 31.663], 23, 2.097654381425273, '2vs7A_5o6iF.0.rota.pdb location: 345']
+12:24:46,990 root INFO report_list_1 [[-113.619, 11.224, 37.656], 24, 2.205817681406801, '2vs7A_5o6iF.0.rota.pdb location: 347']
+12:24:46,990 root INFO report_list_1 [[-98.145, -7.686, 23.675], 25, 2.1147811332964017, '2vs7A_5o6iF.0.rota.pdb location: 202']
+12:24:46,990 root INFO report_list_1 [[-112.456, -5.49, 38.532], 26, 2.1450593499047295, '2vs7A_5o6iF.0.rota.pdb location: 212']
+12:24:46,990 root INFO report_list_1 [[-89.768, -12.31, 16.347], 27, 2.3260438262052374, '2vs7A_5o6iF.0.rota.pdb location: 215']
+12:24:46,990 root INFO report_list_1 [[-74.964, 3.934, 25.25], 28, 2.084273717095106, '2vs7A_5o6iF.0.rota.pdb location: 105']
+12:24:46,990 root INFO report_list_1 [[-77.529, -0.414, 21.394], 29, 2.004579333081882, '2vs7A_5o6iF.0.rota.pdb location: 107']
+12:24:46,990 root INFO report_list_1 [[-101.326, -6.504, 24.902], 30, 2.1271656806625643, '2vs7A_5o6iF.0.rota.pdb location: 110']
+12:24:46,990 root INFO report_list_1 [[-111.815, -0.53, 29.636], 31, 2.171039587194728, '2vs7A_5o6iF.0.rota.pdb location: 112']
+12:24:46,990 root INFO report_list_1 [[-104.529, 0.702, 25.821], 32, 2.115578040350921, '2vs7A_5o6iF.0.rota.pdb location: 116']
+12:24:46,990 root INFO report_list_1 [[-77.755, 3.544, 36.688], 33, 2.094834829334094, '2vs7A_2vs8K.0.rota.pdb location: 2002']
+12:24:46,990 root INFO report_list_1 [[-100.77, -2.514, 27.622], 0, 1.9577239763377372, '2vs7A_2vs8K.0.rota.pdb location: 2002']
+12:24:46,990 root INFO report_list_1 [[-92.869, -4.692, 29.242], 34, 2.1748900983755077, '2vs7A_2vs8K.0.rota.pdb location: 2003']
+12:24:46,990 root INFO report_list_1 [[-89.625, -6.05, 28.95], 35, 2.152164981345784, '2vs7A_2vs8K.0.rota.pdb location: 2004']
+12:24:46,990 root INFO report_list_1 [[-82.72, -0.208, 16.233], 10, 2.081677547290265, '2vs7A_2vs8K.0.rota.pdb location: 2009']
+12:24:46,990 root INFO report_list_1 [[-84.823, -5.998, 32.738], 36, 2.236510265645255, '2vs7A_2vs8K.0.rota.pdb location: 2010']
+12:24:46,990 root INFO report_list_1 [[-80.126, -6.513, 34.084], 37, 2.2334766735474836, '2vs7A_2vs8K.0.rota.pdb location: 2011']
+12:24:46,990 root INFO report_list_1 [[-83.255, 11.706, 19.184], 5, 2.1254218755609675, '2vs7A_2vs8K.0.rota.pdb location: 2018']
+12:24:46,990 root INFO report_list_1 [[-113.318, 10.895, 37.327], 24, 2.251441758995251, '2vs7A_2vs8K.0.rota.pdb location: 2024']
+12:24:46,990 root INFO report_list_1 [[-80.398, 12.261, 20.77], 38, 2.2430706395379922, '2vs7A_2vs8K.0.rota.pdb location: 2025']
+12:24:46,990 root INFO report_list_1 [[-81.695, 4.765, 18.782], 39, 2.028006932547563, '2vs7A_2vs8K.0.rota.pdb location: 2027']
+12:24:46,990 root INFO report_list_1 [[-87.061, 7.57, 13.506], 20, 2.161868578424811, '2vs7A_2vs8K.0.rota.pdb location: 2028']
+12:24:46,990 root INFO report_list_1 [[-91.26, 3.034, 10.151], 17, 2.1919457852315842, '2vs7A_2vs8K.0.rota.pdb location: 2030']
+12:24:46,990 root INFO report_list_1 [[-76.019, 6.012, 24.441], 40, 2.1234113031413555, '2vs7A_2vs8K.0.rota.pdb location: 2032']
+12:24:46,990 root INFO report_list_1 [[-70.962, -4.669, 29.833], 41, 2.280473569361078, '2vs7A_2vs8K.0.rota.pdb location: 2033']
+12:24:46,990 root INFO report_list_1 [[-80.585, 3.979, 37.108], 9, 2.0835329604859814, '2vs7A_2vs8K.0.rota.pdb location: 2036']
+12:24:46,990 root INFO report_list_1 [[-80.862, 2.925, 39.732], 42, 2.2292873651348897, '2vs7A_2vs8K.0.rota.pdb location: 2038']
+12:24:46,990 root INFO report_list_1 [[-105.021, 7.948, 31.924], 43, 2.2230788322685626, '2vs7A_2vs8K.0.rota.pdb location: 2045']
+12:24:46,990 root INFO report_list_1 [[-111.992, -0.74, 30.403], 31, 2.131939723275668, '2vs7A_2vs8K.0.rota.pdb location: 2046']
+12:24:46,990 root INFO report_list_1 [[-95.719, -7.282, 32.43], 23, 2.100191314820001, '2vs7A_2vs8K.0.rota.pdb location: 2049']
+12:24:46,990 root INFO report_list_1 [[-99.263, -13.882, 35.649], 2, 2.1320262358607196, '2vs7A_2vs8K.0.rota.pdb location: 2051']
+12:24:46,990 root INFO report_list_1 [[-95.426, -12.272, 39.87], 19, 2.1466724937962853, '2vs7A_2vs8K.0.rota.pdb location: 2054']
+12:24:46,990 root INFO report_list_1 [[-94.351, -7.663, 45.502], 4, 2.1792906033414376, '2vs7A_2vs8K.0.rota.pdb location: 2058']
+12:24:46,990 root INFO report_list_1 [[-106.973, -1.53, 50.256], 12, 2.1377136352534816, '2vs7A_2vs8K.0.rota.pdb location: 2059']
+12:24:46,990 root INFO report_list_1 [[-105.288, -4.072, 49.713], 15, 2.175951759966167, '2vs7A_2vs8K.0.rota.pdb location: 2060']
+12:24:46,990 root INFO report_list_1 [[-107.322, -14.549, 42.304], 21, 2.2072309844770484, '2vs7A_2vs8K.0.rota.pdb location: 2064']
+12:24:46,990 root INFO report_list_1 [[-111.932, -6.685, 36.009], 22, 2.1399421234848592, '2vs7A_2vs8K.0.rota.pdb location: 2065']
+12:24:46,990 root INFO report_list_1 [[-111.589, -3.038, 44.896], 8, 2.2101283645467813, '2vs7A_2vs8K.0.rota.pdb location: 2068']
+12:24:46,990 root INFO report_list_1 [[-112.783, 0.574, 39.943], 7, 2.103349613729697, '2vs7A_2vs8K.0.rota.pdb location: 2069']
+12:24:46,990 root INFO report_list_1 [[-111.507, 9.94, 47.639], 14, 2.2284469613060844, '2vs7A_2vs8K.0.rota.pdb location: 2072']
+12:24:46,990 root INFO report_list_1 [[-96.654, -4.84, 30.971], 6, 2.083254969709018, '2vs7A_2vs8K.0.rota.pdb location: 2077']
+12:24:46,990 root INFO report_list_1 [[-112.386, -5.724, 38.894], 26, 2.147350670588036, '2vs7A_2vs8K.0.rota.pdb location: 2004']
+12:24:46,990 root INFO report_list_1 [[-98.946, -7.551, 23.854], 25, 2.190745442321849, '2vs7A_2vs8K.0.rota.pdb location: 2001']
+12:24:46,990 root INFO report_list_1 [[-85.546, -9.527, 22.962], 44, 2.172188555817268, '2vs7A_2vs8K.0.rota.pdb location: 2005']
+12:24:46,990 root INFO report_list_1 [[-89.38, -12.929, 15.895], 27, 2.2821262326748672, '2vs7A_2vs8K.0.rota.pdb location: 2006']
+12:24:46,990 root INFO report_list_1 [[-87.954, -3.506, 19.64], 11, 2.1146925332175615, '2vs7A_2vs8K.0.rota.pdb location: 2007']
+12:24:46,990 root INFO report_list_1 [[-77.442, -0.823, 21.662], 29, 2.0178410470116948, '2vs7A_2vs8K.0.rota.pdb location: 2007']
+12:24:46,991 root INFO report_list_1 [[-74.666, 3.553, 25.114], 28, 2.105596886417831, '2vs7A_2vs8K.0.rota.pdb location: 2008']
+12:24:46,991 root INFO report_list_1 [[-85.608, -9.998, 22.884], 44, 2.1677473450551945, '2vs7A_1mowD.0.rota.pdb location: 2215']
+12:24:46,991 root INFO report_list_1 [[-98.456, -7.86, 23.827], 25, 2.066078173245368, '2vs7A_1mowD.0.rota.pdb location: 2254']
+12:24:46,991 root INFO report_list_1 [[-77.53, -0.782, 21.117], 29, 1.9427626934859257, '2vs7A_1mowD.0.rota.pdb location: 2002']
+12:24:46,991 root INFO report_list_1 [[-81.233, 4.369, 18.664], 39, 2.021621801512757, '2vs7A_1mowD.0.rota.pdb location: 2013']
+12:24:46,991 root INFO report_list_1 [[-74.867, 3.222, 25.463], 28, 2.0097940176546336, '2vs7A_1mowD.0.rota.pdb location: 2042']
+12:24:46,991 root INFO report_list_1 [[-96.859, -4.657, 30.487], 6, 2.0728885787421993, '2vs7A_1mowD.0.rota.pdb location: 2173']
+12:24:46,991 root INFO report_list_1 [[-101.212, -6.14, 24.805], 30, 2.0432498610177827, '2vs7A_1mowD.0.rota.pdb location: 2331']
+12:24:46,991 root INFO report_list_1 [[-103.733, 0.487, 25.669], 32, 2.185522761211817, '2vs7A_1mowD.0.rota.pdb location: 2410']
+12:24:46,991 root INFO report_list_1 [[-80.624, 3.466, 37.373], 9, 1.9386636609757009, '2vs7A_1mowD.0.rota.pdb location: 2001']
+12:24:46,991 root INFO report_list_1 [[-82.647, -0.309, 16.398], 10, 1.9540786825318976, '2vs7A_1mowD.0.rota.pdb location: 2011']
+12:24:46,991 root INFO report_list_1 [[-87.619, -3.523, 19.598], 11, 2.002901108239889, '2vs7A_1mowD.0.rota.pdb location: 2030']
+12:24:46,991 root INFO report_list_1 [[-82.949, 11.6, 18.927], 5, 2.0724178626448975, '2vs7A_1mowD.0.rota.pdb location: 2062']
+12:24:46,991 root INFO report_list_1 [[-84.361, -9.43, 26.217], 18, 2.253224885050944, '2vs7A_1mowD.0.rota.pdb location: 2098']
+12:24:46,991 root INFO report_list_1 [[-93.028, -4.884, 29.651], 34, 2.1305541286147207, '2vs7A_1mowD.0.rota.pdb location: 2132']
+12:24:46,991 root INFO report_list_1 [[-88.991, -5.977, 28.654], 35, 2.22076745777473, '2vs7A_1mowD.0.rota.pdb location: 2148']
+12:24:46,991 root INFO report_list_1 [[-77.096, -8.117, 31.647], 45, 2.2462943441095273, '2vs7A_1mowD.0.rota.pdb location: 2156']
+12:24:46,991 root INFO report_list_1 [[-80.216, 12.272, 20.799], 38, 2.2200727750791494, '2vs7A_1mowD.0.rota.pdb location: 2158']
+12:24:46,991 root INFO report_list_1 [[-69.661, -8.303, 12.946], 16, 2.1127405449999115, '2vs7A_1mowD.0.rota.pdb location: 2163']
+12:24:46,991 root INFO report_list_1 [[-86.553, 14.182, 19.651], 1, 2.1651033515111577, '2vs7A_1mowD.0.rota.pdb location: 2167']
+12:24:46,991 root INFO report_list_1 [[-101.925, 2.882, 26.098], 3, 2.019376566852348, '2vs7A_1mowD.0.rota.pdb location: 2224']
+12:24:46,991 root INFO report_list_1 [[-87.126, -8.312, 28.408], 46, 2.1844740525649327, '2vs7A_1mowD.0.rota.pdb location: 2233']
+12:24:46,991 root INFO report_list_1 [[-81.489, -12.073, 20.945], 13, 2.1908255218645447, '2vs7A_1mowD.0.rota.pdb location: 2237']
+12:24:46,991 root INFO report_list_1 [[-75.207, 5.808, 24.739], 40, 2.216668042307086, '2vs7A_1mowD.0.rota.pdb location: 2269']
+12:24:46,991 root INFO report_list_1 [[-84.392, -6.193, 32.853], 36, 2.248386915445575, '2vs7A_1mowD.0.rota.pdb location: 2314']
+12:24:46,991 root INFO report_list_1 [[-70.435, -4.608, 29.438], 41, 2.5053537095640657, '2vs7A_1mowD.0.rota.pdb location: 2362']
+12:24:46,991 root INFO report_list_1 [[-87.199, 8.159, 13.451], 20, 2.1385715418525386, '2vs7A_1mowD.0.rota.pdb location: 2425']
+12:24:46,991 root INFO report_list_1 [[-80.195, -11.577, 26.005], 47, 2.3428503248034445, '2vs7A_1mowD.0.rota.pdb location: 2450']
+12:24:46,991 root INFO report_list_1 [[-96.314, -5.209, 30.719], 6, 2.163446205637665, '2vs7.pdb location: 2002']
+12:24:46,991 root INFO report_list_1 [[-92.749, -4.825, 29.273], 34, 2.1381427131907973, '2vs7.pdb location: 2003']
+12:24:46,991 root INFO report_list_1 [[-87.003, -8.304, 28.07], 46, 2.1981584693224763, '2vs7.pdb location: 2004']
+12:24:46,991 root INFO report_list_1 [[-77.357, -7.873, 31.776], 45, 2.1957747154594767, '2vs7.pdb location: 2006']
+12:24:46,991 root INFO report_list_1 [[-79.402, -11.552, 25.845], 47, 2.251292996565707, '2vs7.pdb location: 2007']
+12:24:46,991 root INFO report_list_1 [[-83.659, -9.331, 26.426], 18, 2.432975660523214, '2vs7.pdb location: 2008']
+12:24:46,991 root INFO report_list_1 [[-81.082, -11.996, 21.334], 13, 2.2394574630274358, '2vs7.pdb location: 2010']
+12:24:46,991 root INFO report_list_1 [[-69.026, -8.511, 13.994], 16, 2.1159319365349445, '2vs7.pdb location: 2013']
+12:24:46,991 root INFO report_list_1 [[-80.955, -6.419, 34.236], 37, 2.285279252819969, '2vs7.pdb location: 2017']
+12:24:46,991 root INFO report_list_1 [[-80.895, 2.764, 40.202], 42, 2.3175941565135574, '2vs7.pdb location: 2018']
+12:24:46,991 root INFO report_list_1 [[-77.798, 3.447, 37.042], 33, 2.1433575218489413, '2vs7.pdb location: 2019']
+12:24:46,991 root INFO report_list_1 [[-84.919, -5.569, 32.899], 36, 2.292687576561356, '2vs7.pdb location: 2020']
+12:24:46,991 root INFO report_list_1 [[-101.946, 2.882, 26.456], 3, 2.0529233340715707, '2vs7.pdb location: 2022']
+12:24:46,991 root INFO report_list_1 [[-105.2, 7.824, 31.418], 43, 2.2707099153011825, '2vs7.pdb location: 2023']
+12:24:46,991 root INFO report_list_1 
+
+
+Examined complex: 2VS7
+12:24:46,991 root INFO report_list_1 Whole chain setting used: True
+12:24:46,991 root INFO report_list_1 Whole chain selection: A
+12:24:46,991 root INFO report_list_1 Binding site selection: / (not used)
+12:24:46,991 root INFO report_list_1 Chain selection: A
+12:24:46,991 root INFO report_list_1 Used PDB clusters with: Custom Cluster %
+12:24:46,991 root INFO report_list_1 Unique structures in identified cluster: ['4UNA', '4UNC', '4D6O', '2VS7']
+
+
+
+12:24:46,991 root INFO report_list_1 4 compl. in cluster no.:[1] (sequence identity pre-cluster)
+12:24:46,991 root INFO report_list_1 Master water list includes 640 waters
+12:24:46,991 root INFO report_list_1 System volume is: 104903 cubic A
+
+
+
+
+12:24:46,992 root INFO report_list_1 -------------------------
+12:24:46,992 root INFO report_list_1 39 clusters with 2 H2O molecules. consv. 0.4           [****      ]
+12:24:46,992 root INFO report_list_1 15 clusters with 3 H2O molecules. consv. 0.6           [******    ]
+12:24:46,992 root INFO report_list_1 5 clusters with 4 H2O molecules. consv. 0.8            [********  ]
+12:24:46,992 root INFO report_list_1 2 clusters with 5 H2O molecules. consv. 1.0            [**********]
+12:24:46,992 root INFO report_list_1 -------------------------
+12:24:46,992 root INFO report_list_1 
+Binding site info (name, avg x, y, z, min x, max x, min y, max y, min z, max z; box 4 A around extremes): 
+['no binding site used in analysis']
+12:24:46,992 root INFO report_list_1 
+Examined cluster with 2 H2O molecules
+
+12:24:46,992 root INFO report_list_1 -------------------------
+12:24:46,992 root INFO report_list_1 [[-64.43, 1.806, 51.06], 0, 2.161868578424811, '2vs7A_4unaG.0.rota.pdb location: 2007']
+12:24:46,992 root INFO report_list_1 [[-70.918, 3.835, 45.173], 1, 2.231727347944061, '2vs7A_4unaG.0.rota.pdb location: 2007']
+12:24:46,992 root INFO report_list_1 [[-76.617, 3.655, 32.994], 2, 2.193144311547, '2vs7A_4unaG.0.rota.pdb location: 2008']
+12:24:46,992 root INFO report_list_1 [[-96.247, -5.609, 30.767], 3, 2.086029808403876, '2vs7A_4unaG.0.rota.pdb location: 2001']
+12:24:46,992 root INFO report_list_1 [[-102.012, 2.656, 26.415], 4, 2.1061351676554954, '2vs7A_4unaG.0.rota.pdb location: 2002']
+12:24:46,992 root INFO report_list_1 [[-84.884, -6.199, 32.67], 5, 2.2454708455036716, '2vs7A_4unaG.0.rota.pdb location: 2004']
+12:24:46,992 root INFO report_list_1 [[-82.265, -0.564, 16.205], 6, 2.1380569175592883, '2vs7A_4unaG.0.rota.pdb location: 2005']
+12:24:46,992 root INFO report_list_1 [[-77.546, -1.063, 21.418], 7, 2.0983801599117085, '2vs7A_4unaG.0.rota.pdb location: 2006']
+12:24:46,992 root INFO report_list_1 [[-87.511, -3.421, 19.648], 8, 2.1112285211761206, '2vs7A_4unaG.0.rota.pdb location: 2007']
+12:24:46,992 root INFO report_list_1 [[-103.67, 5.758, 24.775], 9, 2.224846499755135, '2vs7A_4unaG.0.rota.pdb location: 2008']
+12:24:46,992 root INFO report_list_1 [[-97.23, -16.162, 34.152], 10, 2.20918981042065, '2vs7A_4unaG.0.rota.pdb location: 2009']
+12:24:46,992 root INFO report_list_1 [[-81.466, 4.537, 18.751], 11, 2.1781521212092922, '2vs7A_4unaG.0.rota.pdb location: 2013']
+12:24:46,992 root INFO report_list_1 [[-87.145, -3.739, 44.344], 12, 2.1987929356144944, '2vs7A_4unaG.0.rota.pdb location: 2015']
+12:24:46,992 root INFO report_list_1 [[-112.732, 0.034, 39.379], 13, 2.1351339083815404, '2vs7A_4unaG.0.rota.pdb location: 2018']
+12:24:46,992 root INFO report_list_1 [[-112.497, -7.125, 35.568], 14, 2.203220167104005, '2vs7A_4unaG.0.rota.pdb location: 2019']
+12:24:46,992 root INFO report_list_1 [[-95.628, -7.779, 31.747], 15, 2.1182280113021577, '2vs7A_4unaG.0.rota.pdb location: 2020']
+12:24:46,992 root INFO report_list_1 [[-98.981, -14.628, 34.982], 16, 2.1633632539119203, '2vs7A_4unaG.0.rota.pdb location: 2021']
+12:24:46,992 root INFO report_list_1 [[-96.907, -13.494, 38.144], 17, 2.188098252585, '2vs7A_4unaG.0.rota.pdb location: 2022']
+12:24:46,992 root INFO report_list_1 [[-95.293, -12.321, 39.445], 18, 2.1596210508162037, '2vs7A_4unaG.0.rota.pdb location: 2023']
+12:24:46,992 root INFO report_list_1 [[-107.052, -1.703, 49.75], 19, 2.1960134120749912, '2vs7A_4unaG.0.rota.pdb location: 2024']
+12:24:46,992 root INFO report_list_1 [[-105.375, -4.49, 49.079], 20, 2.184554772228939, '2vs7A_4unaG.0.rota.pdb location: 2025']
+12:24:46,992 root INFO report_list_1 [[-115.198, -1.137, 40.396], 21, 2.186489558822285, '2vs7A_4unaG.0.rota.pdb location: 2028']
+12:24:46,992 root INFO report_list_1 [[-87.828, 15.013, 36.593], 22, 2.2768700772439385, '2vs7A_4uncA.0.rota.pdb location: 2002']
+12:24:46,992 root INFO report_list_1 [[-96.517, -5.191, 31.182], 3, 2.0529233340715707, '2vs7A_4uncA.0.rota.pdb location: 2003']
+12:24:46,992 root INFO report_list_1 [[-101.782, 2.775, 26.456], 4, 2.0679769176138834, '2vs7A_4uncA.0.rota.pdb location: 2004']
+12:24:46,992 root INFO report_list_1 [[-77.538, -0.855, 21.446], 7, 2.093375090685332, '2vs7A_4uncA.0.rota.pdb location: 2006']
+12:24:46,992 root INFO report_list_1 [[-77.656, 3.597, 37.239], 23, 2.168901233288802, '2vs7A_4uncA.0.rota.pdb location: 2007']
+12:24:46,992 root INFO report_list_1 [[-86.191, 13.887, 19.986], 24, 2.2992606390504413, '2vs7A_4uncA.0.rota.pdb location: 2009']
+12:24:46,992 root INFO report_list_1 [[-83.273, 11.87, 19.207], 25, 2.2069171310497584, '2vs7A_4uncA.0.rota.pdb location: 2010']
+12:24:46,992 root INFO report_list_1 [[-81.382, 4.561, 18.887], 11, 2.1221847359221417, '2vs7A_4uncA.0.rota.pdb location: 2012']
+12:24:46,992 root INFO report_list_1 [[-74.556, 3.352, 25.457], 26, 2.189864031512826, '2vs7A_4uncA.0.rota.pdb location: 2015']
+12:24:46,992 root INFO report_list_1 [[-76.627, 3.772, 33.209], 2, 2.171121713156211, '2vs7A_4uncA.0.rota.pdb location: 2016']
+12:24:46,992 root INFO report_list_1 [[-76.984, 1.89, 35.136], 27, 2.100372172711386, '2vs7A_4uncA.0.rota.pdb location: 2017']
+12:24:46,992 root INFO report_list_1 [[-80.327, 3.704, 37.347], 28, 2.1127405449999115, '2vs7A_4uncA.0.rota.pdb location: 2018']
+12:24:46,992 root INFO report_list_1 [[-112.877, 0.964, 39.827], 13, 2.0979266368039973, '2vs7A_4uncA.0.rota.pdb location: 2020']
+12:24:46,992 root INFO report_list_1 [[-94.338, -7.244, 45.866], 29, 2.2327165487440785, '2vs7A_4uncA.0.rota.pdb location: 2025']
+12:24:46,992 root INFO report_list_1 [[-104.955, -3.61, 49.692], 20, 2.2321840482702, '2vs7A_4uncA.0.rota.pdb location: 2027']
+12:24:46,992 root INFO report_list_1 [[-107.059, -0.687, 50.175], 19, 2.1753802766628265, '2vs7A_4uncA.0.rota.pdb location: 2029']
+12:24:46,992 root INFO report_list_1 [[-64.001, 1.846, 50.723], 0, 2.060732661534847, '2vs7A_4d6oG.0.rota.pdb location: 2011']
+12:24:46,992 root INFO report_list_1 [[-77.513, 3.225, 37.074], 23, 2.1437833439162, '2vs7A_4d6oG.0.rota.pdb location: 2009']
+12:24:46,992 root INFO report_list_1 [[-70.784, 3.736, 45.061], 1, 2.1858451592394323, '2vs7A_4d6oG.0.rota.pdb location: 2016']
+12:24:46,992 root INFO report_list_1 [[-76.765, 2.113, 34.755], 27, 2.1052378040096302, '2vs7A_4d6oG.0.rota.pdb location: 2019']
+12:24:46,993 root INFO report_list_1 [[-77.17, -7.899, 31.728], 30, 2.1459088078820274, '2vs7A_4d6oG.0.rota.pdb location: 2001']
+12:24:46,993 root INFO report_list_1 [[-87.813, 14.774, 36.574], 22, 2.2455457421548797, '2vs7A_4d6oG.0.rota.pdb location: 2002']
+12:24:46,993 root INFO report_list_1 [[-96.427, -5.024, 30.887], 3, 2.109088410443367, '2vs7A_4d6oG.0.rota.pdb location: 2004']
+12:24:46,993 root INFO report_list_1 [[-101.702, 2.919, 26.382], 4, 2.095927623974199, '2vs7A_4d6oG.0.rota.pdb location: 2006']
+12:24:46,993 root INFO report_list_1 [[-84.104, -9.362, 26.96], 31, 2.2008514796490033, '2vs7A_4d6oG.0.rota.pdb location: 2007']
+12:24:46,993 root INFO report_list_1 [[-82.403, -0.807, 16.294], 6, 2.029618242271177, '2vs7A_4d6oG.0.rota.pdb location: 2011']
+12:24:46,993 root INFO report_list_1 [[-77.444, -1.335, 21.371], 7, 2.023858955747315, '2vs7A_4d6oG.0.rota.pdb location: 2012']
+12:24:46,993 root INFO report_list_1 [[-87.467, -3.717, 19.57], 8, 2.0627422810486244, '2vs7A_4d6oG.0.rota.pdb location: 2013']
+12:24:46,993 root INFO report_list_1 [[-80.718, 2.955, 39.7], 32, 2.186650576238, '2vs7A_4d6oG.0.rota.pdb location: 2014']
+12:24:46,993 root INFO report_list_1 [[-97.003, -16.025, 34.573], 10, 2.2542633230941953, '2vs7A_4d6oG.0.rota.pdb location: 2017']
+12:24:46,993 root INFO report_list_1 [[-86.278, 13.831, 19.453], 24, 2.2198410833736975, '2vs7A_4d6oG.0.rota.pdb location: 2019']
+12:24:46,993 root INFO report_list_1 [[-82.863, 11.389, 19.054], 25, 2.1547703988823645, '2vs7A_4d6oG.0.rota.pdb location: 2020']
+12:24:46,993 root INFO report_list_1 [[-81.368, 4.164, 18.658], 11, 2.079630742336975, '2vs7A_4d6oG.0.rota.pdb location: 2022']
+12:24:46,993 root INFO report_list_1 [[-91.424, -1.931, 15.178], 33, 2.1509010500522754, '2vs7A_4d6oG.0.rota.pdb location: 2024']
+12:24:46,993 root INFO report_list_1 [[-74.538, 2.953, 25.272], 26, 2.0861221097575937, '2vs7A_4d6oG.0.rota.pdb location: 2025']
+12:24:46,993 root INFO report_list_1 [[-80.045, 3.684, 37.111], 28, 2.1503948814406266, '2vs7A_4d6oG.0.rota.pdb location: 2026']
+12:24:46,993 root INFO report_list_1 [[-84.108, -5.055, 35.839], 34, 2.1868920405838637, '2vs7A_4d6oG.0.rota.pdb location: 2027']
+12:24:46,993 root INFO report_list_1 [[-86.791, -3.313, 44.395], 12, 2.147350670588036, '2vs7A_4d6oG.0.rota.pdb location: 2029']
+12:24:46,993 root INFO report_list_1 [[-103.606, 6.219, 24.61], 9, 2.3166965511190925, '2vs7A_4d6oG.0.rota.pdb location: 2035']
+12:24:46,993 root INFO report_list_1 [[-112.533, 0.599, 39.603], 13, 2.064174000757955, '2vs7A_4d6oG.0.rota.pdb location: 2036']
+12:24:46,993 root INFO report_list_1 [[-112.401, -6.545, 35.882], 14, 2.1276880073292177, '2vs7A_4d6oG.0.rota.pdb location: 2037']
+12:24:46,993 root INFO report_list_1 [[-95.534, -7.257, 31.772], 15, 2.2181400060119256, '2vs7A_4d6oG.0.rota.pdb location: 2038']
+12:24:46,993 root INFO report_list_1 [[-97.393, -13.554, 38.406], 17, 2.154350778902812, '2vs7A_4d6oG.0.rota.pdb location: 2039']
+12:24:46,993 root INFO report_list_1 [[-99.137, -14.154, 35.187], 16, 2.1233237601746, '2vs7A_4d6oG.0.rota.pdb location: 2040']
+12:24:46,993 root INFO report_list_1 [[-95.421, -12.227, 39.75], 18, 2.2004560169417386, '2vs7A_4d6oG.0.rota.pdb location: 2041']
+12:24:46,993 root INFO report_list_1 [[-92.711, -7.224, 34.226], 35, 2.279754051737136, '2vs7A_4d6oG.0.rota.pdb location: 2042']
+12:24:46,993 root INFO report_list_1 [[-94.386, -7.711, 45.428], 29, 2.15560893974633, '2vs7A_4d6oG.0.rota.pdb location: 2043']
+12:24:46,993 root INFO report_list_1 [[-105.163, -3.99, 49.105], 20, 2.1768489557627495, '2vs7A_4d6oG.0.rota.pdb location: 2044']
+12:24:46,993 root INFO report_list_1 [[-107.115, -1.526, 50.077], 19, 2.1822105200776623, '2vs7A_4d6oG.0.rota.pdb location: 2046']
+12:24:46,993 root INFO report_list_1 [[-114.872, -0.414, 40.656], 21, 2.1267301216653163, '2vs7A_4d6oG.0.rota.pdb location: 2053']
+12:24:46,993 root INFO report_list_1 [[-98.311, -7.92, 23.692], 36, 2.1189330205627472, '2vs7A_4d6oG.0.rota.pdb location: 2007']
+12:24:46,993 root INFO report_list_1 [[-96.273, -9.096, 30.609], 37, 2.1552736351193262, '2vs7A_4d6oG.0.rota.pdb location: 2006']
+12:24:46,993 root INFO report_list_1 [[-96.132, -5.14, 30.934], 3, 2.125683713459969, '2vs7A_4unaD.0.rota.pdb location: 2002']
+12:24:46,993 root INFO report_list_1 [[-101.767, 2.558, 26.482], 4, 2.142163920286926, '2vs7A_4unaD.0.rota.pdb location: 2004']
+12:24:46,993 root INFO report_list_1 [[-88.674, -5.193, 29.97], 38, 2.2143384719753207, '2vs7A_4unaD.0.rota.pdb location: 2005']
+12:24:46,993 root INFO report_list_1 [[-83.708, -8.732, 26.267], 31, 2.244421594870093, '2vs7A_4unaD.0.rota.pdb location: 2007']
+12:24:46,993 root INFO report_list_1 [[-77.354, -0.129, 21.542], 7, 2.1428462131639914, '2vs7A_4unaD.0.rota.pdb location: 2009']
+12:24:46,993 root INFO report_list_1 [[-87.482, -2.67, 19.481], 8, 2.116462453048304, '2vs7A_4unaD.0.rota.pdb location: 2010']
+12:24:46,993 root INFO report_list_1 [[-103.796, 5.361, 24.216], 9, 2.230889412041686, '2vs7A_4unaD.0.rota.pdb location: 2011']
+12:24:46,993 root INFO report_list_1 [[-91.297, -1.195, 15.023], 33, 2.1395140895949973, '2vs7A_4unaD.0.rota.pdb location: 2019']
+12:24:46,993 root INFO report_list_1 [[-76.513, 4.154, 32.986], 2, 2.170546647610707, '2vs7A_4unaD.0.rota.pdb location: 2021']
+12:24:46,993 root INFO report_list_1 [[-76.653, 2.822, 34.928], 27, 2.1328908000404585, '2vs7A_4unaD.0.rota.pdb location: 2022']
+12:24:46,993 root INFO report_list_1 [[-80.493, 4.202, 37.443], 28, 2.140027700553726, '2vs7A_4unaD.0.rota.pdb location: 2023']
+12:24:46,993 root INFO report_list_1 [[-83.973, -4.246, 36.076], 34, 2.1597877623403914, '2vs7A_4unaD.0.rota.pdb location: 2025']
+12:24:46,993 root INFO report_list_1 [[-112.758, 0.33, 39.862], 13, 2.269399810197725, '2vs7A_4unaD.0.rota.pdb location: 2026']
+12:24:46,993 root INFO report_list_1 [[-95.669, -7.207, 32.025], 15, 2.182857911473462, '2vs7A_4unaD.0.rota.pdb location: 2027']
+12:24:46,993 root INFO report_list_1 [[-92.73, -7.07, 34.037], 35, 2.183989560051874, '2vs7A_4unaD.0.rota.pdb location: 2028']
+12:24:46,993 root INFO report_list_1 [[-105.11, -3.803, 49.146], 20, 2.2550042923748785, '2vs7A_4unaD.0.rota.pdb location: 2029']
+12:24:46,993 root INFO report_list_1 [[-98.009, -7.327, 23.697], 36, 2.184393324594298, '2vs7A_4unaD.0.rota.pdb location: 2002']
+12:24:46,993 root INFO report_list_1 [[-96.548, -9.342, 30.455], 37, 2.216668042307086, '2vs7A_4unaD.0.rota.pdb location: 2003']
+12:24:46,993 root INFO report_list_1 [[-96.314, -5.209, 30.719], 3, 2.163446205637665, '2vs7.pdb location: 2002']
+12:24:46,994 root INFO report_list_1 [[-89.077, -4.972, 30.701], 38, 2.287565323127924, '2vs7.pdb location: 2005']
+12:24:46,994 root INFO report_list_1 [[-77.357, -7.873, 31.776], 30, 2.1957747154594767, '2vs7.pdb location: 2006']
+12:24:46,994 root INFO report_list_1 [[-83.659, -9.331, 26.426], 31, 2.432975660523214, '2vs7.pdb location: 2008']
+12:24:46,994 root INFO report_list_1 [[-80.895, 2.764, 40.202], 32, 2.3175941565135574, '2vs7.pdb location: 2018']
+12:24:46,994 root INFO report_list_1 [[-77.798, 3.447, 37.042], 23, 2.1433575218489413, '2vs7.pdb location: 2019']
+12:24:46,994 root INFO report_list_1 [[-84.919, -5.569, 32.899], 5, 2.292687576561356, '2vs7.pdb location: 2020']
+12:24:46,994 root INFO report_list_1 [[-101.946, 2.882, 26.456], 4, 2.0529233340715707, '2vs7.pdb location: 2022']
+12:24:46,994 root INFO ______________________________!!!!!!!!!!!!!!!!!!______________________________
+12:25:57,617 PyQt5.uic.uiparser DEBUG uiname is MainWindow
+12:25:57,617 PyQt5.uic.uiparser DEBUG toplevel widget is QMainWindow
+12:25:57,617 PyQt5.uic.properties DEBUG setting property geometry
+12:25:57,617 PyQt5.uic.properties DEBUG setting property minimumSize
+12:25:57,617 PyQt5.uic.properties DEBUG setting property windowTitle
+12:25:57,617 PyQt5.uic.uiparser DEBUG push QMainWindow MainWindow
+12:25:57,618 PyQt5.uic.uiparser DEBUG push QWidget centralwidget
+12:25:57,618 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout
+12:25:57,618 PyQt5.uic.properties DEBUG setting property text
+12:25:57,618 PyQt5.uic.properties DEBUG setting property pixmap
+12:25:57,619 PyQt5.uic.properties DEBUG setting property alignment
+12:25:57,619 PyQt5.uic.properties DEBUG setting property wordWrap
+12:25:57,619 PyQt5.uic.uiparser DEBUG push QLabel LabelLogo
+12:25:57,619 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelLogo
+12:25:57,619 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899375f0>
+12:25:57,619 PyQt5.uic.properties DEBUG setting property currentIndex
+12:25:57,619 PyQt5.uic.uiparser DEBUG push QTabWidget Tabs
+12:25:57,619 PyQt5.uic.uiparser DEBUG push QWidget TabDefine
+12:25:57,619 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_4
+12:25:57,619 PyQt5.uic.properties DEBUG setting property text
+12:25:57,619 PyQt5.uic.properties DEBUG setting property checked
+12:25:57,619 PyQt5.uic.uiparser DEBUG push QCheckBox CheckAnalyze
+12:25:57,620 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckAnalyze
+12:25:57,620 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,620 PyQt5.uic.properties DEBUG setting property text
+12:25:57,620 PyQt5.uic.uiparser DEBUG push QCheckBox CheckAligned
+12:25:57,620 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckAligned
+12:25:57,620 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,620 PyQt5.uic.properties DEBUG setting property text
+12:25:57,620 PyQt5.uic.properties DEBUG setting property scaledContents
+12:25:57,620 PyQt5.uic.uiparser DEBUG push QLabel LabelPDB
+12:25:57,620 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelPDB
+12:25:57,620 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,620 PyQt5.uic.properties DEBUG setting property text
+12:25:57,620 PyQt5.uic.uiparser DEBUG push QPushButton PushDownlad
+12:25:57,620 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushDownlad
+12:25:57,620 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,620 PyQt5.uic.properties DEBUG setting property minimumSize
+12:25:57,620 PyQt5.uic.properties DEBUG setting property maximumSize
+12:25:57,620 PyQt5.uic.properties DEBUG setting property currentIndex
+12:25:57,620 PyQt5.uic.uiparser DEBUG push QComboBox ComboBlastclust
+12:25:57,620 PyQt5.uic.uiparser DEBUG pop widget QComboBox ComboBlastclust
+12:25:57,620 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,620 PyQt5.uic.properties DEBUG setting property text
+12:25:57,620 PyQt5.uic.uiparser DEBUG push QPushButton PushFind
+12:25:57,620 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushFind
+12:25:57,620 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,620 PyQt5.uic.properties DEBUG setting property text
+12:25:57,620 PyQt5.uic.uiparser DEBUG push QCheckBox CheckDebye
+12:25:57,621 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckDebye
+12:25:57,621 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,621 PyQt5.uic.properties DEBUG setting property sizePolicy
+12:25:57,621 PyQt5.uic.properties DEBUG setting property minimumSize
+12:25:57,621 PyQt5.uic.properties DEBUG setting property maximumSize
+12:25:57,621 PyQt5.uic.properties DEBUG setting property text
+12:25:57,621 PyQt5.uic.uiparser DEBUG push QPushButton PushGo
+12:25:57,621 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushGo
+12:25:57,621 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,621 PyQt5.uic.properties DEBUG setting property text
+12:25:57,621 PyQt5.uic.uiparser DEBUG push QPushButton PushIdentify
+12:25:57,621 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushIdentify
+12:25:57,621 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,621 PyQt5.uic.properties DEBUG setting property text
+12:25:57,621 PyQt5.uic.properties DEBUG setting property wordWrap
+12:25:57,621 PyQt5.uic.uiparser DEBUG push QLabel LabelSelect
+12:25:57,621 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelSelect
+12:25:57,621 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,621 PyQt5.uic.uiparser DEBUG push QLineEdit LineFind
+12:25:57,621 PyQt5.uic.uiparser DEBUG pop widget QLineEdit LineFind
+12:25:57,621 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,621 PyQt5.uic.properties DEBUG setting property text
+12:25:57,621 PyQt5.uic.uiparser DEBUG push QCheckBox CheckCompare
+12:25:57,621 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckCompare
+12:25:57,621 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,621 PyQt5.uic.properties DEBUG setting property text
+12:25:57,621 PyQt5.uic.uiparser DEBUG push QCheckBox CheckWater
+12:25:57,621 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckWater
+12:25:57,621 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,621 PyQt5.uic.properties DEBUG setting property text
+12:25:57,621 PyQt5.uic.uiparser DEBUG push QPushButton PushCustom
+12:25:57,621 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushCustom
+12:25:57,621 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,622 PyQt5.uic.uiparser DEBUG push QListWidget ListIdentify
+12:25:57,622 PyQt5.uic.uiparser DEBUG pop widget QListWidget ListIdentify
+12:25:57,622 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,622 PyQt5.uic.properties DEBUG setting property text
+12:25:57,622 PyQt5.uic.uiparser DEBUG push QLabel LabelFound
+12:25:57,622 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelFound
+12:25:57,622 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,622 PyQt5.uic.properties DEBUG setting property minimumSize
+12:25:57,622 PyQt5.uic.properties DEBUG setting property maximumSize
+12:25:57,622 PyQt5.uic.properties DEBUG setting property placeholderText
+12:25:57,622 PyQt5.uic.uiparser DEBUG push QLineEdit LineProtein
+12:25:57,622 PyQt5.uic.uiparser DEBUG pop widget QLineEdit LineProtein
+12:25:57,622 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899a29b0>
+12:25:57,622 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_4
+12:25:57,622 PyQt5.uic.uiparser DEBUG pop widget QWidget TabDefine
+12:25:57,622 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QTabWidget object at 0x7fef899a2910>
+12:25:57,624 PyQt5.uic.uiparser DEBUG push QWidget TabAnalysis
+12:25:57,624 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_3
+12:25:57,624 PyQt5.uic.properties DEBUG setting property text
+12:25:57,624 PyQt5.uic.uiparser DEBUG push QPushButton PushBSite
+12:25:57,624 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushBSite
+12:25:57,624 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4730>
+12:25:57,624 PyQt5.uic.properties DEBUG setting property text
+12:25:57,624 PyQt5.uic.uiparser DEBUG push QLabel LabeInfo
+12:25:57,624 PyQt5.uic.uiparser DEBUG pop widget QLabel LabeInfo
+12:25:57,624 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4730>
+12:25:57,624 PyQt5.uic.properties DEBUG setting property text
+12:25:57,624 PyQt5.uic.uiparser DEBUG push QPushButton PushFetch
+12:25:57,624 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushFetch
+12:25:57,624 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4730>
+12:25:57,624 PyQt5.uic.properties DEBUG setting property text
+12:25:57,624 PyQt5.uic.properties DEBUG setting property tristate
+12:25:57,624 PyQt5.uic.uiparser DEBUG push QCheckBox CheckKeep
+12:25:57,624 PyQt5.uic.uiparser DEBUG pop widget QCheckBox CheckKeep
+12:25:57,624 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4730>
+12:25:57,624 PyQt5.uic.properties DEBUG setting property text
+12:25:57,624 PyQt5.uic.uiparser DEBUG push QPushButton PushDisplay
+12:25:57,624 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushDisplay
+12:25:57,624 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4730>
+12:25:57,624 PyQt5.uic.properties DEBUG setting property text
+12:25:57,624 PyQt5.uic.properties DEBUG setting property scaledContents
+12:25:57,624 PyQt5.uic.properties DEBUG setting property wordWrap
+12:25:57,624 PyQt5.uic.uiparser DEBUG push QLabel LabelCalculated
+12:25:57,624 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelCalculated
+12:25:57,624 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4730>
+12:25:57,624 PyQt5.uic.properties DEBUG setting property text
+12:25:57,625 PyQt5.uic.uiparser DEBUG push QPushButton PushContacts
+12:25:57,625 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushContacts
+12:25:57,625 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4730>
+12:25:57,625 PyQt5.uic.uiparser DEBUG push QPlainTextEdit PlainInfo
+12:25:57,625 PyQt5.uic.uiparser DEBUG pop widget QPlainTextEdit PlainInfo
+12:25:57,625 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4730>
+12:25:57,625 PyQt5.uic.properties DEBUG setting property text
+12:25:57,625 PyQt5.uic.uiparser DEBUG push QPushButton PushChain
+12:25:57,625 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushChain
+12:25:57,625 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4730>
+12:25:57,625 PyQt5.uic.properties DEBUG setting property alternatingRowColors
+12:25:57,625 PyQt5.uic.uiparser DEBUG push QListWidget ListCalculated
+12:25:57,625 PyQt5.uic.uiparser DEBUG pop widget QListWidget ListCalculated
+12:25:57,625 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4730>
+12:25:57,625 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_3
+12:25:57,625 PyQt5.uic.uiparser DEBUG pop widget QWidget TabAnalysis
+12:25:57,625 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QTabWidget object at 0x7fef899a2910>
+12:25:57,625 PyQt5.uic.uiparser DEBUG push QWidget TabSettings
+12:25:57,625 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_5
+12:25:57,625 PyQt5.uic.properties DEBUG setting property title
+12:25:57,625 PyQt5.uic.uiparser DEBUG push QGroupBox BoxDBScan
+12:25:57,625 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_7
+12:25:57,625 PyQt5.uic.properties DEBUG setting property text
+12:25:57,626 PyQt5.uic.properties DEBUG setting property scaledContents
+12:25:57,626 PyQt5.uic.properties DEBUG setting property wordWrap
+12:25:57,626 PyQt5.uic.uiparser DEBUG push QLabel LabelDB
+12:25:57,626 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelDB
+12:25:57,626 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd050>
+12:25:57,626 PyQt5.uic.properties DEBUG setting property correctionMode
+12:25:57,626 PyQt5.uic.properties DEBUG setting property decimals
+12:25:57,626 PyQt5.uic.properties DEBUG setting property minimum
+12:25:57,626 PyQt5.uic.properties DEBUG setting property maximum
+12:25:57,626 PyQt5.uic.properties DEBUG setting property singleStep
+12:25:57,626 PyQt5.uic.properties DEBUG setting property value
+12:25:57,626 PyQt5.uic.uiparser DEBUG push QDoubleSpinBox SpinDB
+12:25:57,626 PyQt5.uic.uiparser DEBUG pop widget QDoubleSpinBox SpinDB
+12:25:57,626 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd050>
+12:25:57,626 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_7
+12:25:57,626 PyQt5.uic.uiparser DEBUG pop widget QGroupBox BoxDBScan
+12:25:57,626 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4eb0>
+12:25:57,626 PyQt5.uic.properties DEBUG setting property title
+12:25:57,626 PyQt5.uic.uiparser DEBUG push QGroupBox BoxCluster
+12:25:57,626 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_6
+12:25:57,626 PyQt5.uic.properties DEBUG setting property text
+12:25:57,626 PyQt5.uic.uiparser DEBUG push QLabel LabelDlFrom
+12:25:57,626 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelDlFrom
+12:25:57,626 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd410>
+12:25:57,626 PyQt5.uic.uiparser DEBUG push QLineEdit LineDlTo
+12:25:57,626 PyQt5.uic.uiparser DEBUG pop widget QLineEdit LineDlTo
+12:25:57,626 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd410>
+12:25:57,626 PyQt5.uic.properties DEBUG setting property text
+12:25:57,626 PyQt5.uic.uiparser DEBUG push QPushButton PushDefault
+12:25:57,626 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushDefault
+12:25:57,627 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd410>
+12:25:57,627 PyQt5.uic.properties DEBUG setting property text
+12:25:57,627 PyQt5.uic.uiparser DEBUG push QPushButton PushSetMachine
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushSetMachine
+12:25:57,627 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd410>
+12:25:57,627 PyQt5.uic.properties DEBUG setting property text
+12:25:57,627 PyQt5.uic.uiparser DEBUG push QLabel LabelDlTo
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelDlTo
+12:25:57,627 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd410>
+12:25:57,627 PyQt5.uic.uiparser DEBUG push QLineEdit LineDlFrom
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop widget QLineEdit LineDlFrom
+12:25:57,627 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd410>
+12:25:57,627 PyQt5.uic.properties DEBUG setting property text
+12:25:57,627 PyQt5.uic.uiparser DEBUG push QPushButton PushSetDL
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushSetDL
+12:25:57,627 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd410>
+12:25:57,627 PyQt5.uic.properties DEBUG setting property sizePolicy
+12:25:57,627 PyQt5.uic.properties DEBUG setting property minimumSize
+12:25:57,627 PyQt5.uic.properties DEBUG setting property text
+12:25:57,627 PyQt5.uic.uiparser DEBUG push QPushButton PushSetup
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushSetup
+12:25:57,627 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd410>
+12:25:57,627 PyQt5.uic.properties DEBUG setting property text
+12:25:57,627 PyQt5.uic.uiparser DEBUG push QPushButton PushCurrentDL
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushCurrentDL
+12:25:57,627 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd410>
+12:25:57,627 PyQt5.uic.properties DEBUG setting property text
+12:25:57,627 PyQt5.uic.uiparser DEBUG push QPushButton PushCurrentMachine
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop widget QPushButton PushCurrentMachine
+12:25:57,627 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QGroupBox object at 0x7fef899bd410>
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_6
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop widget QGroupBox BoxCluster
+12:25:57,627 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899b4eb0>
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_5
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop widget QWidget TabSettings
+12:25:57,627 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QTabWidget object at 0x7fef899a2910>
+12:25:57,627 PyQt5.uic.uiparser DEBUG push QWidget TabAbout
+12:25:57,627 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_2
+12:25:57,627 PyQt5.uic.properties DEBUG setting property text
+12:25:57,627 PyQt5.uic.uiparser DEBUG push QLabel label_3
+12:25:57,627 PyQt5.uic.uiparser DEBUG pop widget QLabel label_3
+12:25:57,627 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899bdcd0>
+12:25:57,628 PyQt5.uic.properties DEBUG setting property text
+12:25:57,628 PyQt5.uic.uiparser DEBUG push QLabel LabelCurrent
+12:25:57,628 PyQt5.uic.uiparser DEBUG pop widget QLabel LabelCurrent
+12:25:57,628 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899bdcd0>
+12:25:57,628 PyQt5.uic.properties DEBUG setting property font
+12:25:57,628 PyQt5.uic.properties DEBUG setting property readOnly
+12:25:57,628 PyQt5.uic.properties DEBUG setting property plainText
+12:25:57,629 PyQt5.uic.uiparser DEBUG push QPlainTextEdit PlainAbout
+12:25:57,629 PyQt5.uic.uiparser DEBUG pop widget QPlainTextEdit PlainAbout
+12:25:57,629 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899bdcd0>
+12:25:57,629 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_2
+12:25:57,629 PyQt5.uic.uiparser DEBUG pop widget QWidget TabAbout
+12:25:57,629 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QTabWidget object at 0x7fef899a2910>
+12:25:57,629 PyQt5.uic.uiparser DEBUG push QWidget TabHelp
+12:25:57,629 PyQt5.uic.uiparser DEBUG push QGridLayout gridLayout_8
+12:25:57,629 PyQt5.uic.properties DEBUG setting property text
+12:25:57,629 PyQt5.uic.properties DEBUG setting property pixmap
+12:25:57,629 PyQt5.uic.uiparser DEBUG push QLabel label
+12:25:57,629 PyQt5.uic.uiparser DEBUG pop widget QLabel label
+12:25:57,629 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899377d0>
+12:25:57,629 PyQt5.uic.properties DEBUG setting property text
+12:25:57,629 PyQt5.uic.properties DEBUG setting property pixmap
+12:25:57,629 PyQt5.uic.uiparser DEBUG push QLabel label_2
+12:25:57,629 PyQt5.uic.uiparser DEBUG pop widget QLabel label_2
+12:25:57,629 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899377d0>
+12:25:57,629 PyQt5.uic.properties DEBUG setting property html
+12:25:57,630 PyQt5.uic.uiparser DEBUG push QTextEdit PlainHelp
+12:25:57,630 PyQt5.uic.uiparser DEBUG pop widget QTextEdit PlainHelp
+12:25:57,630 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899377d0>
+12:25:57,630 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout_8
+12:25:57,630 PyQt5.uic.uiparser DEBUG pop widget QWidget TabHelp
+12:25:57,630 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QTabWidget object at 0x7fef899a2910>
+12:25:57,630 PyQt5.uic.uiparser DEBUG pop widget QTabWidget Tabs
+12:25:57,630 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QWidget object at 0x7fef899375f0>
+12:25:57,630 PyQt5.uic.uiparser DEBUG pop layout QGridLayout gridLayout
+12:25:57,630 PyQt5.uic.uiparser DEBUG pop widget QWidget centralwidget
+12:25:57,630 PyQt5.uic.uiparser DEBUG new topwidget <PyQt5.QtWidgets.QMainWindow object at 0x7fef794a5910>
+12:25:57,630 PyQt5.uic.uiparser DEBUG pop widget QMainWindow MainWindow
+12:25:57,630 PyQt5.uic.uiparser DEBUG new topwidget None
+12:26:42,793 root INFO RUN PROBIS ['/Users/admin/.probisH2O/Probis_H2O/probis.exe', '-ncpu', '8', '-extract', '-f1', '2vs7.pdb', '-c1', 'A', '-srffile', '2vs7.srf']
+12:26:56,91 root INFO pyMOL_fetch_system 2 [False, '2vs7']
+12:26:58,806 root INFO report_list_1 ProBiS H2O REPORT file
+12:26:58,806 root INFO report_list_1 -------------------------
+
+
+12:26:58,806 root INFO report_list_1 
+
+
+Examined complex: 2vs7
+12:26:58,806 root INFO report_list_1 Whole chain setting used: True
+12:26:58,806 root INFO report_list_1 Whole chain selection: A
+12:26:58,806 root INFO report_list_1 Binding site selection: / (not used)
+12:26:58,806 root INFO report_list_1 Chain selection: A
+12:26:58,806 root INFO report_list_1 Used PDB clusters with: Custom Cluster %
+12:26:58,806 root INFO report_list_1 Unique structures in identified cluster: ['4UT0', '5AKF', '2VS7', '5A0W']
+
+
+
+12:26:58,806 root INFO report_list_1 4 compl. in cluster no.:[1] (sequence identity pre-cluster)
+12:26:58,806 root INFO report_list_1 Maximum occupied cluster contains 5 H2O molecules 
+ binding site: no binding site used in analysis
+12:26:58,806 root INFO report_list_1 Master water list includes 1564 waters
+12:26:58,806 root INFO report_list_1 System volume is: 127649 cubic A
+
+
+12:26:58,806 root INFO report_list_1 -------------------------
+12:26:58,806 root INFO report_list_1 112 clusters with 2 H2O molecules. consv. 0.33         [***       ]
+12:26:58,806 root INFO report_list_1 62 clusters with 3 H2O molecules. consv. 0.5           [*****     ]
+12:26:58,806 root INFO report_list_1 29 clusters with 4 H2O molecules. consv. 0.67          [*******   ]
+12:26:58,806 root INFO report_list_1 5 clusters with 5 H2O molecules. consv. 0.83           [********  ]
+12:26:58,806 root INFO report_list_1 -------------------------
+12:26:58,806 root INFO report_list_1 
+Binding site info (name, avg x, y, z, min x, max x, min y, max y, min z, max z; box 4 A around extremes): 
+['no binding site used in analysis']
+12:26:58,806 root INFO report_list_1 
+Examined cluster with 2 H2O molecules
+
+12:26:58,806 root INFO report_list_1 -------------------------
+12:26:58,806 root INFO report_list_1 [[-64.417, 1.255, 51.0], 0, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2005']
+12:26:58,806 root INFO report_list_1 [[-67.157, -1.72, 36.494], 1, 2.1408829275819254, '2vs7A_4ut0K.0.rota.pdb location: 2002']
+12:26:58,806 root INFO report_list_1 [[-76.404, 3.26, 32.884], 2, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2003']
+12:26:58,806 root INFO report_list_1 [[-76.711, 1.628, 34.596], 3, 2.1149583005152075, '2vs7A_4ut0K.0.rota.pdb location: 2004']
+12:26:58,806 root INFO report_list_1 [[-68.06, 1.99, 41.076], 4, 2.236131668537994, '2vs7A_4ut0K.0.rota.pdb location: 2001']
+12:26:58,806 root INFO report_list_1 [[-96.265, -5.342, 31.028], 5, 2.0530203148866724, '2vs7A_4ut0K.0.rota.pdb location: 2002']
+12:26:58,806 root INFO report_list_1 [[-100.349, -2.733, 27.299], 6, 2.067597600764662, '2vs7A_4ut0K.0.rota.pdb location: 2003']
+12:26:58,806 root INFO report_list_1 [[-101.516, 2.872, 26.147], 7, 2.1046089694628183, '2vs7A_4ut0K.0.rota.pdb location: 2004']
+12:26:58,806 root INFO report_list_1 [[-83.921, -9.738, 26.107], 8, 2.169724380118345, '2vs7A_4ut0K.0.rota.pdb location: 2005']
+12:26:58,806 root INFO report_list_1 [[-66.68, -13.599, 16.802], 9, 2.288349801088658, '2vs7A_4ut0K.0.rota.pdb location: 2006']
+12:26:58,806 root INFO report_list_1 [[-82.228, 0.045, 16.325], 10, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2007']
+12:26:58,807 root INFO report_list_1 [[-77.258, -1.447, 21.387], 11, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2008']
+12:26:58,807 root INFO report_list_1 [[-87.468, -3.224, 19.261], 12, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2009']
+12:26:58,807 root INFO report_list_1 [[-82.564, 11.71, 18.736], 13, 2.222847986987829, '2vs7A_4ut0K.0.rota.pdb location: 2010']
+12:26:58,807 root INFO report_list_1 [[-81.265, 4.81, 18.783], 14, 2.1882589413933955, '2vs7A_4ut0K.0.rota.pdb location: 2011']
+12:26:58,807 root INFO report_list_1 [[-74.276, 2.891, 25.226], 15, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2012']
+12:26:58,807 root INFO report_list_1 [[-80.289, -7.234, 32.735], 16, 2.2213844602732733, '2vs7A_4ut0K.0.rota.pdb location: 2013']
+12:26:58,807 root INFO report_list_1 [[-80.216, 3.372, 37.374], 17, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2014']
+12:26:58,807 root INFO report_list_1 [[-83.809, 4.903, 42.056], 18, 2.3516081540231744, '2vs7A_4ut0K.0.rota.pdb location: 2015']
+12:26:58,807 root INFO report_list_1 [[-111.887, -0.616, 29.815], 19, 2.1689835876223844, '2vs7A_4ut0K.0.rota.pdb location: 2016']
+12:26:58,807 root INFO report_list_1 [[-112.324, 0.657, 39.888], 20, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2017']
+12:26:58,807 root INFO report_list_1 [[-112.498, -6.65, 35.957], 21, 2.247341275747568, '2vs7A_4ut0K.0.rota.pdb location: 2018']
+12:26:58,807 root INFO report_list_1 [[-90.863, -7.03, 39.879], 22, 2.298344715413421, '2vs7A_4ut0K.0.rota.pdb location: 2020']
+12:26:58,807 root INFO report_list_1 [[-102.946, -6.456, 48.079], 23, 2.2897031792714713, '2vs7A_4ut0K.0.rota.pdb location: 2021']
+12:26:58,807 root INFO report_list_1 [[-105.279, -4.237, 49.146], 24, 2.227682217340542, '2vs7A_4ut0K.0.rota.pdb location: 2022']
+12:26:58,807 root INFO report_list_1 [[-109.309, -7.07, 41.891], 25, 2.118316175300685, '2vs7A_4ut0K.0.rota.pdb location: 2023']
+12:26:58,807 root INFO report_list_1 [[-111.031, -15.597, 32.296], 26, 2.238702758691618, '2vs7A_4ut0K.0.rota.pdb location: 2024']
+12:26:58,807 root INFO report_list_1 [[-111.578, 10.226, 46.965], 27, 2.301932621190973, '2vs7A_4ut0K.0.rota.pdb location: 2025']
+12:26:58,807 root INFO report_list_1 [[-113.464, -6.888, 46.115], 28, 2.2452461157308172, '2vs7A_4ut0K.0.rota.pdb location: 2001']
+12:26:58,807 root INFO report_list_1 [[-96.252, -7.787, 28.602], 29, 2.2052673936717926, '2vs7A_4ut0K.0.rota.pdb location: 2001']
+12:26:58,807 root INFO report_list_1 [[-93.857, -12.825, 21.878], 30, 2.1909055932991515, '2vs7A_4ut0K.0.rota.pdb location: 2002']
+12:26:58,807 root INFO report_list_1 [[-64.519, -6.148, 21.32], 31, 2.2242320888693152, '2vs7A_4ut0K.0.rota.pdb location: 2001']
+12:26:58,807 root INFO report_list_1 [[-96.464, -8.954, 30.247], 32, 2.1701356236055664, '2vs7A_4ut0K.0.rota.pdb location: 2002']
+12:26:58,807 root INFO report_list_1 [[-109.537, -3.279, 23.316], 33, 2.1852808758292657, '2vs7A_4ut0K.0.rota.pdb location: 2001']
+12:26:58,807 root INFO report_list_1 [[-85.107, -6.009, 32.267], 34, 2.226380528418571, '2vs7A_5akfI.0.rota.pdb location: 2006']
+12:26:58,807 root INFO report_list_1 [[-93.04, -5.091, 28.775], 35, 2.200693318004398, '2vs7A_5akfI.0.rota.pdb location: 2008']
+12:26:58,807 root INFO report_list_1 [[-95.949, -5.683, 31.032], 5, 2.0263914779552423, '2vs7A_5akfI.0.rota.pdb location: 2009']
+12:26:58,807 root INFO report_list_1 [[-100.182, -3.061, 26.838], 6, 2.066078173245368, '2vs7A_5akfI.0.rota.pdb location: 2011']
+12:26:58,807 root INFO report_list_1 [[-89.398, -6.601, 28.134], 36, 2.063506249349588, '2vs7A_5akfI.0.rota.pdb location: 2016']
+12:26:58,807 root INFO report_list_1 [[-83.96, -7.438, 29.287], 37, 2.263992951640766, '2vs7A_5akfI.0.rota.pdb location: 2017']
+12:26:58,807 root INFO report_list_1 [[-73.871, -6.347, 28.348], 38, 2.1647722095992994, '2vs7A_5akfI.0.rota.pdb location: 2018']
+12:26:58,807 root INFO report_list_1 [[-81.425, -12.685, 21.651], 39, 2.2036142695599366, '2vs7A_5akfI.0.rota.pdb location: 2020']
+12:26:58,807 root INFO report_list_1 [[-67.188, -13.896, 16.338], 9, 2.176522822685504, '2vs7A_5akfI.0.rota.pdb location: 2021']
+12:26:58,807 root INFO report_list_1 [[-101.147, 1.37, 13.705], 40, 2.245171192527574, '2vs7A_5akfI.0.rota.pdb location: 2028']
+12:26:58,807 root INFO report_list_1 [[-74.853, 2.879, 24.549], 15, 2.158286039150311, '2vs7A_5akfI.0.rota.pdb location: 2041']
+12:26:58,807 root INFO report_list_1 [[-70.824, -5.232, 29.372], 41, 2.1651861145977227, '2vs7A_5akfI.0.rota.pdb location: 2042']
+12:26:58,807 root INFO report_list_1 [[-80.231, -7.003, 32.568], 16, 2.175216918338742, '2vs7A_5akfI.0.rota.pdb location: 2043']
+12:26:58,807 root INFO report_list_1 [[-77.158, -7.724, 31.319], 42, 2.149888371169319, '2vs7A_5akfI.0.rota.pdb location: 2045']
+12:26:58,807 root INFO report_list_1 [[-83.992, -5.103, 35.118], 43, 2.1379711119532834, '2vs7A_5akfI.0.rota.pdb location: 2047']
+12:26:58,807 root INFO report_list_1 [[-86.771, -2.579, 43.892], 44, 2.1198133111099047, '2vs7A_5akfI.0.rota.pdb location: 2048']
+12:26:58,807 root INFO report_list_1 [[-94.257, -7.073, 45.154], 45, 2.094014104136049, '2vs7A_5akfI.0.rota.pdb location: 2051']
+12:26:58,807 root INFO report_list_1 [[-96.998, 5.758, 48.247], 46, 2.1674173440319735, '2vs7A_5akfI.0.rota.pdb location: 2054']
+12:26:58,807 root INFO report_list_1 [[-96.203, 16.394, 35.7], 47, 2.304386673360887, '2vs7A_5akfI.0.rota.pdb location: 2055']
+12:26:58,807 root INFO report_list_1 [[-114.988, 0.383, 31.473], 48, 2.199189221264518, '2vs7A_5akfI.0.rota.pdb location: 2059']
+12:26:58,807 root INFO report_list_1 [[-112.51, 0.861, 39.457], 20, 2.088149607315427, '2vs7A_5akfI.0.rota.pdb location: 2061']
+12:26:58,807 root INFO report_list_1 [[-112.495, -6.441, 35.842], 21, 2.1127405449999115, '2vs7A_5akfI.0.rota.pdb location: 2062']
+12:26:58,807 root INFO report_list_1 [[-99.178, -13.845, 35.892], 49, 2.1009144663835846, '2vs7A_5akfI.0.rota.pdb location: 2063']
+12:26:58,807 root INFO report_list_1 [[-97.313, -13.241, 38.395], 50, 2.18801789589322, '2vs7A_5akfI.0.rota.pdb location: 2064']
+12:26:58,807 root INFO report_list_1 [[-105.336, -3.372, 48.846], 24, 2.0931924072173516, '2vs7A_5akfI.0.rota.pdb location: 2070']
+12:26:58,807 root INFO report_list_1 [[-109.283, -6.286, 41.572], 25, 2.14811288462662, '2vs7A_5akfI.0.rota.pdb location: 2072']
+12:26:58,808 root INFO report_list_1 [[-111.5, -2.546, 44.395], 51, 2.1678298231501905, '2vs7A_5akfI.0.rota.pdb location: 2073']
+12:26:58,808 root INFO report_list_1 [[-105.965, -7.335, 46.615], 52, 2.304316650003315, '2vs7A_5akfI.0.rota.pdb location: 2074']
+12:26:58,808 root INFO report_list_1 [[-112.071, -6.021, 38.603], 53, 2.2524080819625745, '2vs7A_5akfI.0.rota.pdb location: 2076']
+12:26:58,808 root INFO report_list_1 [[-107.347, -13.885, 42.125], 54, 2.2967219433478268, '2vs7A_5akfI.0.rota.pdb location: 2077']
+12:26:58,808 root INFO report_list_1 [[-110.486, -11.355, 31.251], 55, 2.154266826893326, '2vs7A_5akfI.0.rota.pdb location: 2079']
+12:26:58,808 root INFO report_list_1 [[-112.55, -14.989, 34.8], 56, 2.264945252440356, '2vs7A_5akfI.0.rota.pdb location: 2080']
+12:26:58,808 root INFO report_list_1 [[-111.165, -13.547, 30.699], 57, 2.2022735313394994, '2vs7A_5akfI.0.rota.pdb location: 2081']
+12:26:58,808 root INFO report_list_1 [[-98.674, -14.697, 40.244], 58, 2.205896263266796, '2vs7A_5akfI.0.rota.pdb location: 2084']
+12:26:58,808 root INFO report_list_1 [[-114.919, -0.537, 40.26], 59, 2.1484513972614216, '2vs7A_5akfI.0.rota.pdb location: 2085']
+12:26:58,808 root INFO report_list_1 [[-113.494, -6.039, 46.124], 28, 2.236434559933018, '2vs7A_5akfI.0.rota.pdb location: 2002']
+12:26:58,808 root INFO report_list_1 [[-119.27, -11.487, 41.034], 60, 2.291125567356712, '2vs7A_5akfI.0.rota.pdb location: 2003']
+12:26:58,808 root INFO report_list_1 [[-113.808, -17.118, 39.537], 61, 2.3528052295382023, '2vs7A_5akfI.0.rota.pdb location: 2005']
+12:26:58,808 root INFO report_list_1 [[-98.57, -8.511, 23.615], 62, 2.0880575779459325, '2vs7A_5akfI.0.rota.pdb location: 2012']
+12:26:58,808 root INFO report_list_1 [[-95.952, -8.498, 28.539], 29, 2.170710995836445, '2vs7A_5akfI.0.rota.pdb location: 2001']
+12:26:58,808 root INFO report_list_1 [[-91.01, -13.578, 18.405], 63, 2.262819446241261, '2vs7A_5akfI.0.rota.pdb location: 2005']
+12:26:58,808 root INFO report_list_1 [[-85.562, -10.27, 22.713], 64, 2.13676878419476, '2vs7A_5akfI.0.rota.pdb location: 2006']
+12:26:58,808 root INFO report_list_1 [[-64.9, -6.435, 20.695], 31, 2.253818432868851, '2vs7A_5akfI.0.rota.pdb location: 2002']
+12:26:58,808 root INFO report_list_1 [[-69.719, -7.799, 25.996], 65, 2.3141370040044222, '2vs7A_5akfI.0.rota.pdb location: 2003']
+12:26:58,808 root INFO report_list_1 [[-96.577, -8.771, 30.83], 32, 2.152501671148387, '2vs7A_5akfI.0.rota.pdb location: 2011']
+12:26:58,808 root INFO report_list_1 [[-64.327, 1.68, 50.905], 0, 1.95919808924581, '2vs7A_5a0wG.0.rota.pdb location: 2016']
+12:26:58,808 root INFO report_list_1 [[-77.968, 3.587, 36.796], 66, 2.107031392369097, '2vs7A_5a0wG.0.rota.pdb location: 2017']
+12:26:58,808 root INFO report_list_1 [[-69.315, 1.339, 34.781], 67, 2.3036861956217116, '2vs7A_5a0wG.0.rota.pdb location: 2036']
+12:26:58,808 root INFO report_list_1 [[-76.672, 3.819, 32.672], 2, 2.0729826824527136, '2vs7A_5a0wG.0.rota.pdb location: 2037']
+12:26:58,808 root INFO report_list_1 [[-76.347, 7.592, 34.401], 68, 2.226686992559801, '2vs7A_5a0wG.0.rota.pdb location: 2038']
+12:26:58,808 root INFO report_list_1 [[-69.703, -0.306, 28.488], 69, 2.192505323075461, '2vs7A_5a0wG.0.rota.pdb location: 2039']
+12:26:58,808 root INFO report_list_1 [[-76.949, 2.238, 34.868], 3, 2.0783250144405456, '2vs7A_5a0wG.0.rota.pdb location: 2040']
+12:26:58,808 root INFO report_list_1 [[-70.779, -4.989, 30.038], 41, 2.1933039782444497, '2vs7A_5a0wG.0.rota.pdb location: 2041']
+12:26:58,808 root INFO report_list_1 [[-68.668, -4.747, 33.402], 70, 2.228217612260586, '2vs7A_5a0wG.0.rota.pdb location: 2002']
+12:26:58,808 root INFO report_list_1 [[-67.097, -1.288, 36.34], 1, 2.160537511973075, '2vs7A_5a0wG.0.rota.pdb location: 2003']
+12:26:58,808 root INFO report_list_1 [[-95.89, -7.555, 28.902], 29, 2.1914658665215785, '2vs7A_5a0wG.0.rota.pdb location: 2003']
+12:26:58,808 root INFO report_list_1 [[-93.09, -5.009, 29.02], 35, 2.216357817018663, '2vs7A_5a0wG.0.rota.pdb location: 2004']
+12:26:58,808 root INFO report_list_1 [[-97.086, -5.025, 29.569], 71, 2.098289478854401, '2vs7A_5a0wG.0.rota.pdb location: 2005']
+12:26:58,808 root INFO report_list_1 [[-99.83, -2.717, 27.461], 6, 1.836734619885693, '2vs7A_5a0wG.0.rota.pdb location: 2006']
+12:26:58,808 root INFO report_list_1 [[-102.218, 2.608, 26.556], 7, 2.0467842275158707, '2vs7A_5a0wG.0.rota.pdb location: 2007']
+12:26:58,808 root INFO report_list_1 [[-83.968, -9.5, 26.22], 8, 2.212002218317483, '2vs7A_5a0wG.0.rota.pdb location: 2009']
+12:26:58,808 root INFO report_list_1 [[-72.245, -8.408, 24.739], 72, 2.2524080819625745, '2vs7A_5a0wG.0.rota.pdb location: 2010']
+12:26:58,808 root INFO report_list_1 [[-78.513, -11.973, 13.949], 73, 2.204244431797183, '2vs7A_5a0wG.0.rota.pdb location: 2011']
+12:26:58,808 root INFO report_list_1 [[-82.473, -0.372, 16.344], 10, 2.0136243547243198, '2vs7A_5a0wG.0.rota.pdb location: 2014']
+12:26:58,808 root INFO report_list_1 [[-77.491, -0.862, 21.359], 11, 1.990698591642388, '2vs7A_5a0wG.0.rota.pdb location: 2015']
+12:26:58,808 root INFO report_list_1 [[-73.665, -5.999, 29.27], 38, 2.170464460351382, '2vs7A_5a0wG.0.rota.pdb location: 2016']
+12:26:58,808 root INFO report_list_1 [[-87.53, -3.473, 19.488], 12, 2.012488107995376, '2vs7A_5a0wG.0.rota.pdb location: 2017']
+12:26:58,808 root INFO report_list_1 [[-100.782, 2.165, 13.909], 40, 2.274700856281279, '2vs7A_5a0wG.0.rota.pdb location: 2019']
+12:26:58,808 root INFO report_list_1 [[-105.621, 8.022, 31.634], 74, 2.280761211828523, '2vs7A_5a0wG.0.rota.pdb location: 2020']
+12:26:58,808 root INFO report_list_1 [[-86.762, 13.794, 19.87], 75, 2.2426949898113997, '2vs7A_5a0wG.0.rota.pdb location: 2026']
+12:26:58,808 root INFO report_list_1 [[-83.303, 11.636, 18.864], 13, 2.1201651260434766, '2vs7A_5a0wG.0.rota.pdb location: 2027']
+12:26:58,808 root INFO report_list_1 [[-80.139, 12.533, 20.772], 76, 2.2699823226987217, '2vs7A_5a0wG.0.rota.pdb location: 2028']
+12:26:58,808 root INFO report_list_1 [[-74.981, 6.557, 24.886], 77, 2.148028232531908, '2vs7A_5a0wG.0.rota.pdb location: 2032']
+12:26:58,808 root INFO report_list_1 [[-81.439, 4.359, 18.826], 14, 2.0352256401119293, '2vs7A_5a0wG.0.rota.pdb location: 2033']
+12:26:58,809 root INFO report_list_1 [[-86.815, 7.543, 13.449], 78, 2.2143384719753207, '2vs7A_5a0wG.0.rota.pdb location: 2034']
+12:26:58,809 root INFO report_list_1 [[-85.412, 4.347, 12.984], 79, 2.2022735313394994, '2vs7A_5a0wG.0.rota.pdb location: 2036']
+12:26:58,809 root INFO report_list_1 [[-95.63, -4.694, 14.902], 80, 2.1660959184385735, '2vs7A_5a0wG.0.rota.pdb location: 2037']
+12:26:58,809 root INFO report_list_1 [[-74.775, 3.484, 25.316], 15, 2.062073085642864, '2vs7A_5a0wG.0.rota.pdb location: 2038']
+12:26:58,809 root INFO report_list_1 [[-80.068, -6.749, 33.066], 16, 2.247714866557901, '2vs7A_5a0wG.0.rota.pdb location: 2039']
+12:26:58,809 root INFO report_list_1 [[-80.594, 3.754, 37.148], 17, 1.9438117365008531, '2vs7A_5a0wG.0.rota.pdb location: 2040']
+12:26:58,809 root INFO report_list_1 [[-84.116, -4.902, 35.794], 43, 2.083810838250893, '2vs7A_5a0wG.0.rota.pdb location: 2041']
+12:26:58,809 root INFO report_list_1 [[-81.035, 2.931, 39.613], 81, 2.095927623974199, '2vs7A_5a0wG.0.rota.pdb location: 2042']
+12:26:58,809 root INFO report_list_1 [[-86.759, -3.722, 44.188], 44, 2.0637925107777404, '2vs7A_5a0wG.0.rota.pdb location: 2043']
+12:26:58,809 root INFO report_list_1 [[-105.442, 4.678, 30.169], 82, 2.3039664518528626, '2vs7A_5a0wG.0.rota.pdb location: 2048']
+12:26:58,809 root INFO report_list_1 [[-114.945, 0.299, 31.911], 48, 2.256188509413852, '2vs7A_5a0wG.0.rota.pdb location: 2049']
+12:26:58,809 root INFO report_list_1 [[-111.515, -0.619, 30.042], 19, 2.1567813360134576, '2vs7A_5a0wG.0.rota.pdb location: 2050']
+12:26:58,809 root INFO report_list_1 [[-105.025, 0.563, 24.237], 83, 2.224846499755135, '2vs7A_5a0wG.0.rota.pdb location: 2051']
+12:26:58,809 root INFO report_list_1 [[-112.262, -6.293, 38.435], 53, 2.162034798254088, '2vs7A_5a0wG.0.rota.pdb location: 2053']
+12:26:58,809 root INFO report_list_1 [[-112.532, 0.066, 39.799], 20, 2.0179435337084293, '2vs7A_5a0wG.0.rota.pdb location: 2054']
+12:26:58,809 root INFO report_list_1 [[-112.51, -6.691, 35.918], 21, 2.0600614287034595, '2vs7A_5a0wG.0.rota.pdb location: 2055']
+12:26:58,809 root INFO report_list_1 [[-98.555, -7.957, 31.41], 84, 2.1555251275404546, '2vs7A_5a0wG.0.rota.pdb location: 2057']
+12:26:58,809 root INFO report_list_1 [[-97.239, -13.546, 38.067], 50, 2.0357238954557038, '2vs7A_5a0wG.0.rota.pdb location: 2058']
+12:26:58,809 root INFO report_list_1 [[-91.108, -7.747, 39.882], 22, 2.350476198361113, '2vs7A_5a0wG.0.rota.pdb location: 2060']
+12:26:58,809 root INFO report_list_1 [[-94.124, -8.062, 45.366], 45, 2.1122072560775083, '2vs7A_5a0wG.0.rota.pdb location: 2061']
+12:26:58,809 root INFO report_list_1 [[-102.886, -6.407, 47.838], 23, 2.277086704268426, '2vs7A_5a0wG.0.rota.pdb location: 2062']
+12:26:58,809 root INFO report_list_1 [[-105.208, -4.542, 49.164], 24, 2.089528573912401, '2vs7A_5a0wG.0.rota.pdb location: 2063']
+12:26:58,809 root INFO report_list_1 [[-109.09, -7.166, 41.946], 25, 2.094287787000767, '2vs7A_5a0wG.0.rota.pdb location: 2066']
+12:26:58,809 root INFO report_list_1 [[-112.731, -15.435, 34.718], 56, 2.128557719612041, '2vs7A_5a0wG.0.rota.pdb location: 2069']
+12:26:58,809 root INFO report_list_1 [[-111.17, -15.813, 32.528], 26, 2.1283838602324954, '2vs7A_5a0wG.0.rota.pdb location: 2070']
+12:26:58,809 root INFO report_list_1 [[-110.473, -11.361, 30.927], 55, 2.136080858009092, '2vs7A_5a0wG.0.rota.pdb location: 2071']
+12:26:58,809 root INFO report_list_1 [[-98.445, -15.189, 39.707], 58, 2.138914425595175, '2vs7A_5a0wG.0.rota.pdb location: 2073']
+12:26:58,809 root INFO report_list_1 [[-114.815, -1.097, 40.958], 59, 2.0505914575721587, '2vs7A_5a0wG.0.rota.pdb location: 2074']
+12:26:58,809 root INFO report_list_1 [[-96.63, 16.454, 34.509], 47, 2.3413715538679702, '2vs7A_5a0wG.0.rota.pdb location: 2078']
+12:26:58,809 root INFO report_list_1 [[-113.551, -7.104, 46.172], 28, 2.1862479708703946, '2vs7A_5a0wG.0.rota.pdb location: 2001']
+12:26:58,809 root INFO report_list_1 [[-114.621, -4.926, 22.815], 85, 2.3552611738047373, '2vs7A_5a0wG.0.rota.pdb location: 2005']
+12:26:58,809 root INFO report_list_1 [[-98.626, -8.059, 23.13], 62, 2.1267301216653163, '2vs7A_5a0wG.0.rota.pdb location: 2008']
+12:26:58,809 root INFO report_list_1 [[-97.837, -8.5, 27.552], 86, 2.2182174044327994, '2vs7A_5a0wG.0.rota.pdb location: 2009']
+12:26:58,809 root INFO report_list_1 [[-96.561, -8.986, 25.258], 87, 2.1117625434171767, '2vs7A_5a0wG.0.rota.pdb location: 2010']
+12:26:58,809 root INFO report_list_1 [[-93.517, -12.599, 21.179], 30, 2.255670616122491, '2vs7A_5a0wG.0.rota.pdb location: 2011']
+12:26:58,809 root INFO report_list_1 [[-95.54, -10.565, 22.49], 88, 2.144464152611519, '2vs7A_5a0wG.0.rota.pdb location: 2012']
+12:26:58,809 root INFO report_list_1 [[-90.798, -12.725, 18.332], 63, 2.1900243611666674, '2vs7A_5a0wG.0.rota.pdb location: 2013']
+12:26:58,809 root INFO report_list_1 [[-85.436, -9.653, 23.002], 64, 2.2500274647618284, '2vs7A_5a0wG.0.rota.pdb location: 2014']
+12:26:58,809 root INFO report_list_1 [[-68.004, -1.916, 20.612], 89, 2.176522822685504, '2vs7A_5a0wG.0.rota.pdb location: 2016']
+12:26:58,809 root INFO report_list_1 [[-99.042, -10.508, 25.645], 90, 2.155776536274896, '2vs7A_5a0wG.0.rota.pdb location: 2019']
+12:26:58,809 root INFO report_list_1 [[-66.63, -9.062, 13.398], 91, 2.156697653662783, '2vs7A_5a0wG.0.rota.pdb location: 2003']
+12:26:58,809 root INFO report_list_1 [[-64.557, -5.767, 21.303], 31, 2.189463064924465, '2vs7A_5a0wG.0.rota.pdb location: 2005']
+12:26:58,809 root INFO report_list_1 [[-74.38, 2.722, 13.392], 92, 2.292119889650804, '2vs7A_5a0wG.0.rota.pdb location: 2008']
+12:26:58,809 root INFO report_list_1 [[-93.691, -5.012, 12.982], 93, 2.2123141070243237, '2vs7A_5a0wG.0.rota.pdb location: 2009']
+12:26:58,809 root INFO report_list_1 [[-109.335, -3.535, 23.396], 33, 2.13142043287807, '2vs7A_5a0wG.0.rota.pdb location: 2011']
+12:26:58,809 root INFO report_list_1 [[-107.854, -0.806, 23.737], 94, 2.1788028862163675, '2vs7A_5a0wG.0.rota.pdb location: 2012']
+12:26:58,809 root INFO report_list_1 [[-119.15, -6.981, 27.552], 95, 2.144889342064546, '2vs7A_5a0wG.0.rota.pdb location: 2013']
+12:26:58,809 root INFO report_list_1 [[-96.108, -7.088, 29.09], 29, 2.226763590845122, '2vs7A_5a0wD.0.rota.pdb location: 2002']
+12:26:58,809 root INFO report_list_1 [[-66.927, -12.454, 14.593], 96, 2.2436713311991956, '2vs7A_5a0wD.0.rota.pdb location: 2004']
+12:26:58,809 root INFO report_list_1 [[-97.18, -4.809, 30.015], 71, 2.175625249638239, '2vs7A_5a0wD.0.rota.pdb location: 2005']
+12:26:58,809 root INFO report_list_1 [[-99.921, -2.531, 27.566], 6, 1.850720504529012, '2vs7A_5a0wD.0.rota.pdb location: 2006']
+12:26:58,810 root INFO report_list_1 [[-102.169, 2.677, 26.215], 7, 1.9539643805848264, '2vs7A_5a0wD.0.rota.pdb location: 2007']
+12:26:58,810 root INFO report_list_1 [[-80.071, -6.937, 32.423], 16, 2.2326404980978865, '2vs7A_5a0wD.0.rota.pdb location: 2010']
+12:26:58,810 root INFO report_list_1 [[-81.127, -11.994, 22.157], 39, 2.1742360445781252, '2vs7A_5a0wD.0.rota.pdb location: 2012']
+12:26:58,810 root INFO report_list_1 [[-81.756, -11.348, 19.096], 97, 2.1734995729850173, '2vs7A_5a0wD.0.rota.pdb location: 2013']
+12:26:58,810 root INFO report_list_1 [[-72.548, -8.309, 25.117], 72, 2.201246747172032, '2vs7A_5a0wD.0.rota.pdb location: 2014']
+12:26:58,810 root INFO report_list_1 [[-72.652, -14.644, 18.556], 98, 2.2599523179278678, '2vs7A_5a0wD.0.rota.pdb location: 2015']
+12:26:58,810 root INFO report_list_1 [[-69.03, -8.802, 14.621], 99, 2.0646505553150414, '2vs7A_5a0wD.0.rota.pdb location: 2017']
+12:26:58,810 root INFO report_list_1 [[-66.259, -11.993, 17.499], 100, 2.1532586729650656, '2vs7A_5a0wD.0.rota.pdb location: 2019']
+12:26:58,810 root INFO report_list_1 [[-82.29, -0.067, 16.5], 10, 2.0120744043966745, '2vs7A_5a0wD.0.rota.pdb location: 2022']
+12:26:58,810 root INFO report_list_1 [[-77.504, -0.687, 21.909], 11, 1.9443936646892925, '2vs7A_5a0wD.0.rota.pdb location: 2023']
+12:26:58,810 root INFO report_list_1 [[-73.79, -5.914, 29.753], 38, 2.1384000402731096, '2vs7A_5a0wD.0.rota.pdb location: 2024']
+12:26:58,810 root INFO report_list_1 [[-87.445, -3.282, 19.74], 12, 1.9296536861098228, '2vs7A_5a0wD.0.rota.pdb location: 2025']
+12:26:58,810 root INFO report_list_1 [[-77.764, 4.042, 37.219], 66, 2.116197243913529, '2vs7A_5a0wD.0.rota.pdb location: 2026']
+12:26:58,810 root INFO report_list_1 [[-84.911, -5.517, 32.976], 34, 2.174317831515931, '2vs7A_5a0wD.0.rota.pdb location: 2027']
+12:26:58,810 root INFO report_list_1 [[-101.149, 1.977, 13.829], 40, 2.2651648653047407, '2vs7A_5a0wD.0.rota.pdb location: 2030']
+12:26:58,810 root INFO report_list_1 [[-80.602, 12.201, 20.794], 76, 2.1933039782444497, '2vs7A_5a0wD.0.rota.pdb location: 2033']
+12:26:58,810 root INFO report_list_1 [[-83.287, 11.702, 18.885], 13, 2.0658880010292875, '2vs7A_5a0wD.0.rota.pdb location: 2034']
+12:26:58,810 root INFO report_list_1 [[-86.827, 13.763, 19.248], 75, 2.115046867663335, '2vs7A_5a0wD.0.rota.pdb location: 2035']
+12:26:58,810 root INFO report_list_1 [[-74.735, 7.194, 25.162], 77, 2.1703000595257933, '2vs7A_5a0wD.0.rota.pdb location: 2037']
+12:26:58,810 root INFO report_list_1 [[-81.384, 4.461, 18.952], 14, 2.010727932293387, '2vs7A_5a0wD.0.rota.pdb location: 2038']
+12:26:58,810 root INFO report_list_1 [[-87.084, 7.17, 13.405], 78, 2.150310486807121, '2vs7A_5a0wD.0.rota.pdb location: 2039']
+12:26:58,810 root INFO report_list_1 [[-90.94, 2.55, 9.95], 101, 2.1860868709873658, '2vs7A_5a0wD.0.rota.pdb location: 2040']
+12:26:58,810 root INFO report_list_1 [[-94.919, -4.68, 14.849], 80, 2.2162026601576175, '2vs7A_5a0wD.0.rota.pdb location: 2041']
+12:26:58,810 root INFO report_list_1 [[-91.344, -1.81, 15.212], 102, 2.062073085642864, '2vs7A_5a0wD.0.rota.pdb location: 2042']
+12:26:58,810 root INFO report_list_1 [[-74.691, 3.762, 25.702], 15, 2.0728885787421993, '2vs7A_5a0wD.0.rota.pdb location: 2043']
+12:26:58,810 root INFO report_list_1 [[-71.363, -4.416, 30.62], 41, 2.1234113031413555, '2vs7A_5a0wD.0.rota.pdb location: 2044']
+12:26:58,810 root INFO report_list_1 [[-70.068, -0.313, 29.053], 69, 2.211378081239621, '2vs7A_5a0wD.0.rota.pdb location: 2045']
+12:26:58,810 root INFO report_list_1 [[-76.782, 4.048, 32.831], 2, 2.1412247420995714, '2vs7A_5a0wD.0.rota.pdb location: 2046']
+12:26:58,810 root INFO report_list_1 [[-77.03, 2.689, 35.048], 3, 1.988335358123355, '2vs7A_5a0wD.0.rota.pdb location: 2047']
+12:26:58,810 root INFO report_list_1 [[-80.787, 4.326, 37.224], 17, 1.9780195524898865, '2vs7A_5a0wD.0.rota.pdb location: 2048']
+12:26:58,810 root INFO report_list_1 [[-84.486, -4.34, 36.378], 43, 2.1305541286147207, '2vs7A_5a0wD.0.rota.pdb location: 2049']
+12:26:58,810 root INFO report_list_1 [[-81.39, 3.589, 39.861], 81, 2.1315070068776487, '2vs7A_5a0wD.0.rota.pdb location: 2050']
+12:26:58,810 root INFO report_list_1 [[-88.043, -4.812, 40.739], 103, 2.2644326054483606, '2vs7A_5a0wD.0.rota.pdb location: 2051']
+12:26:58,810 root INFO report_list_1 [[-87.208, -2.337, 44.677], 44, 2.0704372460814815, '2vs7A_5a0wD.0.rota.pdb location: 2052']
+12:26:58,810 root INFO report_list_1 [[-83.994, 5.099, 41.988], 18, 2.3095534423219384, '2vs7A_5a0wD.0.rota.pdb location: 2053']
+12:26:58,810 root INFO report_list_1 [[-97.418, 6.673, 48.711], 46, 2.076268062727793, '2vs7A_5a0wD.0.rota.pdb location: 2055']
+12:26:58,810 root INFO report_list_1 [[-104.472, 2.54, 28.825], 104, 2.2158922579177713, '2vs7A_5a0wD.0.rota.pdb location: 2056']
+12:26:58,810 root INFO report_list_1 [[-105.185, 0.621, 24.529], 83, 2.1214829041373817, '2vs7A_5a0wD.0.rota.pdb location: 2057']
+12:26:58,810 root INFO report_list_1 [[-112.747, 1.406, 39.469], 20, 2.0542797573583313, '2vs7A_5a0wD.0.rota.pdb location: 2058']
+12:26:58,810 root INFO report_list_1 [[-98.768, -7.558, 31.829], 84, 2.1700533924779384, '2vs7A_5a0wD.0.rota.pdb location: 2059']
+12:26:58,810 root INFO report_list_1 [[-99.504, -13.441, 35.505], 49, 2.2609090883151954, '2vs7A_5a0wD.0.rota.pdb location: 2060']
+12:26:58,810 root INFO report_list_1 [[-94.389, -6.826, 45.731], 45, 2.2177529040238433, '2vs7A_5a0wD.0.rota.pdb location: 2061']
+12:26:58,810 root INFO report_list_1 [[-105.519, -3.06, 49.088], 24, 2.166922076252712, '2vs7A_5a0wD.0.rota.pdb location: 2062']
+12:26:58,810 root INFO report_list_1 [[-99.933, 5.137, 55.227], 105, 2.1983171331684574, '2vs7A_5a0wD.0.rota.pdb location: 2065']
+12:26:58,810 root INFO report_list_1 [[-109.636, -5.877, 41.779], 25, 2.2240784145715558, '2vs7A_5a0wD.0.rota.pdb location: 2066']
+12:26:58,810 root INFO report_list_1 [[-111.536, -12.882, 30.58], 57, 2.2160474737962645, '2vs7A_5a0wD.0.rota.pdb location: 2067']
+12:26:58,810 root INFO report_list_1 [[-115.139, 0.242, 40.644], 59, 2.071003733082491, '2vs7A_5a0wD.0.rota.pdb location: 2068']
+12:26:58,810 root INFO report_list_1 [[-114.196, 10.455, 45.172], 106, 2.251069804166005, '2vs7A_5a0wD.0.rota.pdb location: 2069']
+12:26:58,810 root INFO report_list_1 [[-115.357, -4.615, 22.827], 85, 2.321519489974218, '2vs7A_5a0wD.0.rota.pdb location: 2005']
+12:26:58,810 root INFO report_list_1 [[-99.156, -7.881, 23.456], 62, 2.041376648770355, '2vs7A_5a0wD.0.rota.pdb location: 2006']
+12:26:58,810 root INFO report_list_1 [[-98.63, -7.731, 27.796], 86, 2.18801789589322, '2vs7A_5a0wD.0.rota.pdb location: 2007']
+12:26:58,810 root INFO report_list_1 [[-96.469, -9.219, 25.363], 87, 2.2374182003542376, '2vs7A_5a0wD.0.rota.pdb location: 2008']
+12:26:58,811 root INFO report_list_1 [[-95.465, -10.094, 22.652], 88, 2.1847968814068137, '2vs7A_5a0wD.0.rota.pdb location: 2009']
+12:26:58,811 root INFO report_list_1 [[-92.983, -12.911, 21.15], 30, 2.2720906688614995, '2vs7A_5a0wD.0.rota.pdb location: 2010']
+12:26:58,811 root INFO report_list_1 [[-85.465, -9.475, 23.165], 64, 2.1352200451102186, '2vs7A_5a0wD.0.rota.pdb location: 2012']
+12:26:58,811 root INFO report_list_1 [[-77.05, 0.738, 9.261], 107, 2.172188555817268, '2vs7A_5a0wD.0.rota.pdb location: 2015']
+12:26:58,811 root INFO report_list_1 [[-74.403, 2.853, 13.583], 92, 2.2403622135645405, '2vs7A_5a0wD.0.rota.pdb location: 2016']
+12:26:58,811 root INFO report_list_1 [[-68.644, -5.163, 11.667], 108, 2.114249367965538, '2vs7A_5a0wD.0.rota.pdb location: 2017']
+12:26:58,811 root INFO report_list_1 [[-66.363, -8.721, 13.845], 91, 2.11743404777239, '2vs7A_5a0wD.0.rota.pdb location: 2001']
+12:26:58,811 root INFO report_list_1 [[-64.493, -4.925, 21.68], 109, 2.2203815955664954, '2vs7A_5a0wD.0.rota.pdb location: 2003']
+12:26:58,811 root INFO report_list_1 [[-88.595, -9.186, 11.246], 110, 2.104878538676071, '2vs7A_5a0wD.0.rota.pdb location: 2005']
+12:26:58,811 root INFO report_list_1 [[-109.24, -3.071, 22.891], 33, 2.3072529777379853, '2vs7A_5a0wD.0.rota.pdb location: 2008']
+12:26:58,811 root INFO report_list_1 [[-107.411, -0.376, 23.652], 94, 2.1745631405135364, '2vs7A_5a0wD.0.rota.pdb location: 2009']
+12:26:58,811 root INFO report_list_1 [[-64.389, 0.852, 51.592], 0, 2.0136243547243198, '2vs7A_5a0wD.0.rota.pdb location: 2014']
+12:26:58,811 root INFO report_list_1 [[-69.763, 0.83, 34.199], 67, 2.2732517153651317, '2vs7A_5a0wD.0.rota.pdb location: 2017']
+12:26:58,811 root INFO report_list_1 [[-67.857, 2.474, 41.438], 4, 2.228217612260586, '2vs7A_5a0wD.0.rota.pdb location: 2006']
+12:26:58,811 root INFO report_list_1 [[-96.038, -6.989, 28.991], 29, 2.1334090493450844, '2vs7A_5a0wA.0.rota.pdb location: 2002']
+12:26:58,811 root INFO report_list_1 [[-70.246, -7.794, 26.622], 65, 2.255892608762397, '2vs7A_5a0wA.0.rota.pdb location: 2004']
+12:26:58,811 root INFO report_list_1 [[-66.77, -12.891, 14.326], 96, 2.2220009996434555, '2vs7A_5a0wA.0.rota.pdb location: 2005']
+12:26:58,811 root INFO report_list_1 [[-96.884, -4.772, 29.541], 71, 2.058909153000182, '2vs7A_5a0wA.0.rota.pdb location: 2006']
+12:26:58,811 root INFO report_list_1 [[-99.901, -2.619, 27.567], 6, 1.8203317903470144, '2vs7A_5a0wA.0.rota.pdb location: 2007']
+12:26:58,811 root INFO report_list_1 [[-102.176, 2.566, 26.512], 7, 2.0034260548854776, '2vs7A_5a0wA.0.rota.pdb location: 2008']
+12:26:58,811 root INFO report_list_1 [[-89.302, -6.3, 28.603], 36, 2.172188555817268, '2vs7A_5a0wA.0.rota.pdb location: 2009']
+12:26:58,811 root INFO report_list_1 [[-83.828, -7.181, 29.49], 37, 2.20282587118554, '2vs7A_5a0wA.0.rota.pdb location: 2010']
+12:26:58,811 root INFO report_list_1 [[-84.121, -9.119, 26.473], 8, 2.186811560702233, '2vs7A_5a0wA.0.rota.pdb location: 2011']
+12:26:58,811 root INFO report_list_1 [[-72.343, -8.336, 24.696], 72, 2.1929846127008132, '2vs7A_5a0wA.0.rota.pdb location: 2012']
+12:26:58,811 root INFO report_list_1 [[-68.961, -8.791, 14.078], 99, 2.034028229735061, '2vs7A_5a0wA.0.rota.pdb location: 2013']
+12:26:58,811 root INFO report_list_1 [[-65.955, -11.488, 16.913], 100, 2.213716126854247, '2vs7A_5a0wA.0.rota.pdb location: 2014']
+12:26:58,811 root INFO report_list_1 [[-78.472, -11.656, 13.647], 73, 2.3137212666961755, '2vs7A_5a0wA.0.rota.pdb location: 2015']
+12:26:58,811 root INFO report_list_1 [[-82.429, -0.249, 16.312], 10, 1.95919808924581, '2vs7A_5a0wA.0.rota.pdb location: 2016']
+12:26:58,811 root INFO report_list_1 [[-77.459, -0.912, 21.445], 11, 1.930847946219303, '2vs7A_5a0wA.0.rota.pdb location: 2017']
+12:26:58,811 root INFO report_list_1 [[-73.611, -6.029, 28.95], 38, 2.0924611913944084, '2vs7A_5a0wA.0.rota.pdb location: 2018']
+12:26:58,811 root INFO report_list_1 [[-87.604, -3.559, 19.624], 12, 2.0090666495635014, '2vs7A_5a0wA.0.rota.pdb location: 2019']
+12:26:58,811 root INFO report_list_1 [[-77.846, 3.5, 37.107], 66, 2.1075685823103663, '2vs7A_5a0wA.0.rota.pdb location: 2020']
+12:26:58,811 root INFO report_list_1 [[-84.901, -5.711, 33.146], 34, 2.2017997943443444, '2vs7A_5a0wA.0.rota.pdb location: 2021']
+12:26:58,811 root INFO report_list_1 [[-80.168, -6.509, 33.392], 16, 2.210675352653646, '2vs7A_5a0wA.0.rota.pdb location: 2023']
+12:26:58,811 root INFO report_list_1 [[-85.284, -3.398, 46.962], 111, 2.1884999132056357, '2vs7A_5a0wA.0.rota.pdb location: 2025']
+12:26:58,811 root INFO report_list_1 [[-100.799, 2.298, 14.498], 40, 2.2446465440180354, '2vs7A_5a0wA.0.rota.pdb location: 2027']
+12:26:58,811 root INFO report_list_1 [[-80.355, 11.911, 20.832], 76, 2.1592041118469716, '2vs7A_5a0wA.0.rota.pdb location: 2030']
+12:26:58,811 root INFO report_list_1 [[-83.366, 11.569, 18.93], 13, 2.0889773184687233, '2vs7A_5a0wA.0.rota.pdb location: 2031']
+12:26:58,811 root INFO report_list_1 [[-81.511, 4.456, 18.772], 14, 2.0141401355623993, '2vs7A_5a0wA.0.rota.pdb location: 2035']
+12:26:58,811 root INFO report_list_1 [[-84.787, 4.451, 12.836], 79, 2.1677473450551945, '2vs7A_5a0wA.0.rota.pdb location: 2036']
+12:26:58,811 root INFO report_list_1 [[-91.062, 2.695, 9.867], 101, 2.141822538520802, '2vs7A_5a0wA.0.rota.pdb location: 2037']
+12:26:58,811 root INFO report_list_1 [[-95.56, -4.657, 14.759], 80, 2.157366853575719, '2vs7A_5a0wA.0.rota.pdb location: 2040']
+12:26:58,811 root INFO report_list_1 [[-91.499, -2.057, 15.158], 102, 2.165765205745227, '2vs7A_5a0wA.0.rota.pdb location: 2041']
+12:26:58,811 root INFO report_list_1 [[-74.693, 3.42, 25.43], 15, 2.12463579419348, '2vs7A_5a0wA.0.rota.pdb location: 2042']
+12:26:58,811 root INFO report_list_1 [[-70.591, -4.624, 30.226], 41, 2.1463331743087344, '2vs7A_5a0wA.0.rota.pdb location: 2043']
+12:26:58,811 root INFO report_list_1 [[-76.766, 3.691, 32.916], 2, 2.023249619164595, '2vs7A_5a0wA.0.rota.pdb location: 2044']
+12:26:58,811 root INFO report_list_1 [[-76.971, 1.973, 34.911], 3, 1.95635979008852, '2vs7A_5a0wA.0.rota.pdb location: 2045']
+12:26:58,811 root INFO report_list_1 [[-80.572, 3.594, 37.182], 17, 1.9631476758369133, '2vs7A_5a0wA.0.rota.pdb location: 2046']
+12:26:58,811 root INFO report_list_1 [[-84.226, -4.938, 36.034], 43, 2.146248320329231, '2vs7A_5a0wA.0.rota.pdb location: 2047']
+12:26:58,811 root INFO report_list_1 [[-88.045, -5.107, 40.087], 103, 2.1949785424582737, '2vs7A_5a0wA.0.rota.pdb location: 2050']
+12:26:58,811 root INFO report_list_1 [[-86.897, -3.129, 44.418], 44, 2.0502019984186868, '2vs7A_5a0wA.0.rota.pdb location: 2052']
+12:26:58,812 root INFO report_list_1 [[-94.26, -7.49, 45.749], 45, 2.1870529756587813, '2vs7A_5a0wA.0.rota.pdb location: 2056']
+12:26:58,812 root INFO report_list_1 [[-97.134, 5.834, 48.84], 46, 2.101817357993741, '2vs7A_5a0wA.0.rota.pdb location: 2060']
+12:26:58,812 root INFO report_list_1 [[-104.56, 2.444, 28.89], 104, 2.085845168430567, '2vs7A_5a0wA.0.rota.pdb location: 2061']
+12:26:58,812 root INFO report_list_1 [[-105.333, 4.917, 30.335], 82, 2.251144208135563, '2vs7A_5a0wA.0.rota.pdb location: 2062']
+12:26:58,812 root INFO report_list_1 [[-111.832, -0.179, 30.087], 19, 2.114515300100585, '2vs7A_5a0wA.0.rota.pdb location: 2063']
+12:26:58,812 root INFO report_list_1 [[-114.968, 0.498, 32.142], 48, 2.2592156157298255, '2vs7A_5a0wA.0.rota.pdb location: 2064']
+12:26:58,812 root INFO report_list_1 [[-104.704, 0.796, 24.485], 83, 2.1055071329497554, '2vs7A_5a0wA.0.rota.pdb location: 2065']
+12:26:58,812 root INFO report_list_1 [[-112.497, 0.718, 39.868], 20, 1.9139990139556646, '2vs7A_5a0wA.0.rota.pdb location: 2068']
+12:26:58,812 root INFO report_list_1 [[-112.328, -6.428, 36.157], 21, 2.0368186849712067, '2vs7A_5a0wA.0.rota.pdb location: 2069']
+12:26:58,812 root INFO report_list_1 [[-98.544, -7.635, 31.635], 84, 2.139428453083843, '2vs7A_5a0wA.0.rota.pdb location: 2072']
+12:26:58,812 root INFO report_list_1 [[-99.226, -14.132, 35.13], 49, 2.182129558475202, '2vs7A_5a0wA.0.rota.pdb location: 2073']
+12:26:58,812 root INFO report_list_1 [[-96.91, -12.892, 38.838], 50, 2.197761671649769, '2vs7A_5a0wA.0.rota.pdb location: 2074']
+12:26:58,812 root INFO report_list_1 [[-105.081, -3.751, 49.513], 24, 2.097563606019069, '2vs7A_5a0wA.0.rota.pdb location: 2078']
+12:26:58,812 root INFO report_list_1 [[-99.622, 4.926, 55.283], 105, 2.0873208993857233, '2vs7A_5a0wA.0.rota.pdb location: 2081']
+12:26:58,812 root INFO report_list_1 [[-109.181, -6.381, 42.131], 25, 2.1905852589023342, '2vs7A_5a0wA.0.rota.pdb location: 2082']
+12:26:58,812 root INFO report_list_1 [[-111.413, -2.662, 44.751], 51, 2.1787215703313936, '2vs7A_5a0wA.0.rota.pdb location: 2083']
+12:26:58,812 root INFO report_list_1 [[-105.737, -7.27, 47.357], 52, 2.1748900983755077, '2vs7A_5a0wA.0.rota.pdb location: 2084']
+12:26:58,812 root INFO report_list_1 [[-107.595, -13.596, 42.73], 54, 2.263553073995806, '2vs7A_5a0wA.0.rota.pdb location: 2086']
+12:26:58,812 root INFO report_list_1 [[-110.265, -10.952, 31.594], 55, 2.173335817383948, '2vs7A_5a0wA.0.rota.pdb location: 2087']
+12:26:58,812 root INFO report_list_1 [[-111.32, -13.368, 31.234], 57, 2.184877567869928, '2vs7A_5a0wA.0.rota.pdb location: 2089']
+12:26:58,812 root INFO report_list_1 [[-112.084, -5.197, 38.557], 53, 2.208171813449603, '2vs7A_5a0wA.0.rota.pdb location: 2095']
+12:26:58,812 root INFO report_list_1 [[-114.796, -0.451, 40.952], 59, 2.1088204422746584, '2vs7A_5a0wA.0.rota.pdb location: 2096']
+12:26:58,812 root INFO report_list_1 [[-114.141, 10.066, 45.46], 106, 2.158536532810995, '2vs7A_5a0wA.0.rota.pdb location: 2098']
+12:26:58,812 root INFO report_list_1 [[-111.461, 10.497, 47.005], 27, 2.2041656885227203, '2vs7A_5a0wA.0.rota.pdb location: 2102']
+12:26:58,812 root INFO report_list_1 [[-96.275, 16.695, 35.137], 47, 2.3085781990153333, '2vs7A_5a0wA.0.rota.pdb location: 2105']
+12:26:58,812 root INFO report_list_1 [[-119.256, -11.893, 40.83], 60, 2.21899098634373, '2vs7A_5a0wA.0.rota.pdb location: 2009']
+12:26:58,812 root INFO report_list_1 [[-113.544, -17.223, 39.202], 61, 2.1587034826386597, '2vs7A_5a0wA.0.rota.pdb location: 2010']
+12:26:58,812 root INFO report_list_1 [[-112.915, -15.481, 35.421], 56, 2.1813194810351813, '2vs7A_5a0wA.0.rota.pdb location: 2011']
+12:26:58,812 root INFO report_list_1 [[-109.494, -3.294, 23.331], 33, 2.1946598499048946, '2vs7A_5a0wA.0.rota.pdb location: 2016']
+12:26:58,812 root INFO report_list_1 [[-98.931, -8.157, 23.305], 62, 2.0861221097575937, '2vs7A_5a0wA.0.rota.pdb location: 2018']
+12:26:58,812 root INFO report_list_1 [[-98.21, -8.223, 27.822], 86, 2.247191793295007, '2vs7A_5a0wA.0.rota.pdb location: 2019']
+12:26:58,812 root INFO report_list_1 [[-96.504, -9.149, 25.296], 87, 2.1792093383531213, '2vs7A_5a0wA.0.rota.pdb location: 2020']
+12:26:58,812 root INFO report_list_1 [[-95.524, -10.075, 22.611], 88, 2.1509010500522754, '2vs7A_5a0wA.0.rota.pdb location: 2021']
+12:26:58,812 root INFO report_list_1 [[-91.033, -12.462, 18.314], 63, 2.205974837465127, '2vs7A_5a0wA.0.rota.pdb location: 2023']
+12:26:58,812 root INFO report_list_1 [[-85.387, -9.62, 22.72], 64, 2.072606188614882, '2vs7A_5a0wA.0.rota.pdb location: 2024']
+12:26:58,812 root INFO report_list_1 [[-82.092, -11.892, 18.669], 97, 2.1895432745324874, '2vs7A_5a0wA.0.rota.pdb location: 2025']
+12:26:58,812 root INFO report_list_1 [[-77.201, 0.161, 8.758], 107, 2.1761149636192423, '2vs7A_5a0wA.0.rota.pdb location: 2030']
+12:26:58,812 root INFO report_list_1 [[-74.628, 2.306, 13.313], 92, 2.145993700479796, '2vs7A_5a0wA.0.rota.pdb location: 2032']
+12:26:58,812 root INFO report_list_1 [[-68.595, -4.884, 11.001], 108, 2.207152532561369, '2vs7A_5a0wA.0.rota.pdb location: 2035']
+12:26:58,812 root INFO report_list_1 [[-99.125, -10.293, 25.999], 90, 2.142931455715556, '2vs7A_5a0wA.0.rota.pdb location: 2043']
+12:26:58,812 root INFO report_list_1 [[-64.465, -4.635, 21.268], 109, 2.228217612260586, '2vs7A_5a0wA.0.rota.pdb location: 2002']
+12:26:58,812 root INFO report_list_1 [[-68.129, -1.537, 21.051], 89, 2.160537511973075, '2vs7A_5a0wA.0.rota.pdb location: 2003']
+12:26:58,812 root INFO report_list_1 [[-88.656, -9.104, 10.492], 110, 2.241717515927432, '2vs7A_5a0wA.0.rota.pdb location: 2005']
+12:26:58,812 root INFO report_list_1 [[-93.71, -4.766, 12.763], 93, 2.119021098115367, '2vs7A_5a0wA.0.rota.pdb location: 2006']
+12:26:58,812 root INFO report_list_1 [[-92.337, -13.259, 20.706], 30, 2.267138878211385, '2vs7A_5a0wA.0.rota.pdb location: 2007']
+12:26:58,812 root INFO report_list_1 [[-119.396, -7.353, 27.913], 95, 2.1375419341839494, '2vs7A_5a0wA.0.rota.pdb location: 2011']
+12:26:58,812 root INFO report_list_1 [[-76.516, 7.173, 35.082], 68, 2.235525556339067, '2vs7A_5a0wA.0.rota.pdb location: 2019']
+12:26:58,812 root INFO report_list_1 [[-68.831, -4.327, 32.828], 70, 2.2203815955664954, '2vs7A_5a0wA.0.rota.pdb location: 2003']
+12:26:58,812 root INFO report_list_1 [[-96.314, -5.209, 30.719], 5, 2.163446205637665, '2vs7.pdb location: 2002']
+12:26:58,812 root INFO report_list_1 [[-92.749, -4.825, 29.273], 35, 2.1381427131907973, '2vs7.pdb location: 2003']
+12:26:58,812 root INFO report_list_1 [[-77.357, -7.873, 31.776], 42, 2.1957747154594767, '2vs7.pdb location: 2006']
+12:26:58,812 root INFO report_list_1 [[-83.659, -9.331, 26.426], 8, 2.432975660523214, '2vs7.pdb location: 2008']
+12:26:58,813 root INFO report_list_1 [[-81.082, -11.996, 21.334], 39, 2.2394574630274358, '2vs7.pdb location: 2010']
+12:26:58,813 root INFO report_list_1 [[-72.229, -14.22, 18.325], 98, 2.2104409743845967, '2vs7.pdb location: 2011']
+12:26:58,813 root INFO report_list_1 [[-69.026, -8.511, 13.994], 99, 2.1159319365349445, '2vs7.pdb location: 2013']
+12:26:58,813 root INFO report_list_1 [[-66.613, -12.249, 14.042], 96, 2.3411697232662863, '2vs7.pdb location: 2014']
+12:26:58,813 root INFO report_list_1 [[-78.516, -11.192, 13.497], 73, 2.2555966057762795, '2vs7.pdb location: 2015']
+12:26:58,813 root INFO report_list_1 [[-80.895, 2.764, 40.202], 81, 2.3175941565135574, '2vs7.pdb location: 2018']
+12:26:58,813 root INFO report_list_1 [[-77.798, 3.447, 37.042], 66, 2.1433575218489413, '2vs7.pdb location: 2019']
+12:26:58,813 root INFO report_list_1 [[-84.919, -5.569, 32.899], 34, 2.292687576561356, '2vs7.pdb location: 2020']
+12:26:58,813 root INFO report_list_1 [[-85.358, -3.578, 46.716], 111, 2.2619382687045757, '2vs7.pdb location: 2021']
+12:26:58,813 root INFO report_list_1 [[-101.946, 2.882, 26.456], 7, 2.0529233340715707, '2vs7.pdb location: 2022']
+12:26:58,813 root INFO report_list_1 [[-105.2, 7.824, 31.418], 74, 2.2707099153011825, '2vs7.pdb location: 2023']
+12:26:58,813 root INFO ______________________________!!!!!!!!!!!!!!!!!!______________________________
+12:28:00,852 root INFO RUN PROBIS ['/Users/admin/.probisH2O/Probis_H2O/probis.exe', '-ncpu', '8', '-extract', '-f1', '2vs7.pdb', '-c1', 'A', '-srffile', '2vs7.srf']
+12:28:09,722 root INFO RUN PROBIS ['/Users/admin/.probisH2O/Probis_H2O/probis.exe', '-ncpu', '8', '-extract', '-f1', '2vs7.pdb', '-c1', 'A', '-srffile', '2vs7.srf']
+12:28:23,267 root INFO pyMOL_fetch_system 2 [False, '2vs7']
+12:28:25,921 root INFO report_list_1 ProBiS H2O REPORT file
+12:28:25,921 root INFO report_list_1 -------------------------
+
+
+12:28:25,921 root INFO report_list_1 
+
+
+Examined complex: 2vs7
+12:28:25,921 root INFO report_list_1 Whole chain setting used: True
+12:28:25,921 root INFO report_list_1 Whole chain selection: A
+12:28:25,921 root INFO report_list_1 Binding site selection: / (not used)
+12:28:25,921 root INFO report_list_1 Chain selection: A
+12:28:25,921 root INFO report_list_1 Used PDB clusters with: Custom Cluster %
+12:28:25,921 root INFO report_list_1 Unique structures in identified cluster: ['4UT0', '5AKF', '2VS7', '5A0W']
+
+
+
+12:28:25,921 root INFO report_list_1 4 compl. in cluster no.:[1] (sequence identity pre-cluster)
+12:28:25,921 root INFO report_list_1 Maximum occupied cluster contains 3 H2O molecules 
+ binding site: no binding site used in analysis
+12:28:25,921 root INFO report_list_1 Maximum occupied cluster contains 3 H2O molecules 
+ binding site: no binding site used in analysis
+12:28:25,921 root INFO report_list_1 Maximum occupied cluster contains 5 H2O molecules 
+ binding site: no binding site used in analysis
+12:28:25,921 root INFO report_list_1 Master water list includes 1564 waters
+12:28:25,921 root INFO report_list_1 System volume is: 127649 cubic A
+
+
+12:28:25,921 root INFO report_list_1 -------------------------
+12:28:25,921 root INFO report_list_1 112 clusters with 2 H2O molecules. consv. 0.33         [***       ]
+12:28:25,921 root INFO report_list_1 62 clusters with 3 H2O molecules. consv. 0.5           [*****     ]
+12:28:25,921 root INFO report_list_1 29 clusters with 4 H2O molecules. consv. 0.67          [*******   ]
+12:28:25,921 root INFO report_list_1 5 clusters with 5 H2O molecules. consv. 0.83           [********  ]
+12:28:25,921 root INFO report_list_1 -------------------------
+12:28:25,921 root INFO report_list_1 
+Binding site info (name, avg x, y, z, min x, max x, min y, max y, min z, max z; box 4 A around extremes): 
+['no binding site used in analysis']
+12:28:25,921 root INFO report_list_1 
+Examined cluster with 2 H2O molecules
+
+12:28:25,921 root INFO report_list_1 -------------------------
+12:28:25,921 root INFO report_list_1 [[-64.417, 1.255, 51.0], 0, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2005']
+12:28:25,921 root INFO report_list_1 [[-67.157, -1.72, 36.494], 1, 2.1408829275819254, '2vs7A_4ut0K.0.rota.pdb location: 2002']
+12:28:25,921 root INFO report_list_1 [[-76.404, 3.26, 32.884], 2, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2003']
+12:28:25,921 root INFO report_list_1 [[-76.711, 1.628, 34.596], 3, 2.1149583005152075, '2vs7A_4ut0K.0.rota.pdb location: 2004']
+12:28:25,921 root INFO report_list_1 [[-68.06, 1.99, 41.076], 4, 2.236131668537994, '2vs7A_4ut0K.0.rota.pdb location: 2001']
+12:28:25,921 root INFO report_list_1 [[-96.265, -5.342, 31.028], 5, 2.0530203148866724, '2vs7A_4ut0K.0.rota.pdb location: 2002']
+12:28:25,921 root INFO report_list_1 [[-100.349, -2.733, 27.299], 6, 2.067597600764662, '2vs7A_4ut0K.0.rota.pdb location: 2003']
+12:28:25,921 root INFO report_list_1 [[-101.516, 2.872, 26.147], 7, 2.1046089694628183, '2vs7A_4ut0K.0.rota.pdb location: 2004']
+12:28:25,921 root INFO report_list_1 [[-83.921, -9.738, 26.107], 8, 2.169724380118345, '2vs7A_4ut0K.0.rota.pdb location: 2005']
+12:28:25,921 root INFO report_list_1 [[-66.68, -13.599, 16.802], 9, 2.288349801088658, '2vs7A_4ut0K.0.rota.pdb location: 2006']
+12:28:25,921 root INFO report_list_1 [[-82.228, 0.045, 16.325], 10, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2007']
+12:28:25,921 root INFO report_list_1 [[-77.258, -1.447, 21.387], 11, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2008']
+12:28:25,922 root INFO report_list_1 [[-87.468, -3.224, 19.261], 12, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2009']
+12:28:25,922 root INFO report_list_1 [[-82.564, 11.71, 18.736], 13, 2.222847986987829, '2vs7A_4ut0K.0.rota.pdb location: 2010']
+12:28:25,922 root INFO report_list_1 [[-81.265, 4.81, 18.783], 14, 2.1882589413933955, '2vs7A_4ut0K.0.rota.pdb location: 2011']
+12:28:25,922 root INFO report_list_1 [[-74.276, 2.891, 25.226], 15, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2012']
+12:28:25,922 root INFO report_list_1 [[-80.289, -7.234, 32.735], 16, 2.2213844602732733, '2vs7A_4ut0K.0.rota.pdb location: 2013']
+12:28:25,922 root INFO report_list_1 [[-80.216, 3.372, 37.374], 17, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2014']
+12:28:25,922 root INFO report_list_1 [[-83.809, 4.903, 42.056], 18, 2.3516081540231744, '2vs7A_4ut0K.0.rota.pdb location: 2015']
+12:28:25,922 root INFO report_list_1 [[-111.887, -0.616, 29.815], 19, 2.1689835876223844, '2vs7A_4ut0K.0.rota.pdb location: 2016']
+12:28:25,922 root INFO report_list_1 [[-112.324, 0.657, 39.888], 20, 2.1496349876948884, '2vs7A_4ut0K.0.rota.pdb location: 2017']
+12:28:25,922 root INFO report_list_1 [[-112.498, -6.65, 35.957], 21, 2.247341275747568, '2vs7A_4ut0K.0.rota.pdb location: 2018']
+12:28:25,922 root INFO report_list_1 [[-90.863, -7.03, 39.879], 22, 2.298344715413421, '2vs7A_4ut0K.0.rota.pdb location: 2020']
+12:28:25,922 root INFO report_list_1 [[-102.946, -6.456, 48.079], 23, 2.2897031792714713, '2vs7A_4ut0K.0.rota.pdb location: 2021']
+12:28:25,922 root INFO report_list_1 [[-105.279, -4.237, 49.146], 24, 2.227682217340542, '2vs7A_4ut0K.0.rota.pdb location: 2022']
+12:28:25,922 root INFO report_list_1 [[-109.309, -7.07, 41.891], 25, 2.118316175300685, '2vs7A_4ut0K.0.rota.pdb location: 2023']
+12:28:25,922 root INFO report_list_1 [[-111.031, -15.597, 32.296], 26, 2.238702758691618, '2vs7A_4ut0K.0.rota.pdb location: 2024']
+12:28:25,922 root INFO report_list_1 [[-111.578, 10.226, 46.965], 27, 2.301932621190973, '2vs7A_4ut0K.0.rota.pdb location: 2025']
+12:28:25,922 root INFO report_list_1 [[-113.464, -6.888, 46.115], 28, 2.2452461157308172, '2vs7A_4ut0K.0.rota.pdb location: 2001']
+12:28:25,922 root INFO report_list_1 [[-96.252, -7.787, 28.602], 29, 2.2052673936717926, '2vs7A_4ut0K.0.rota.pdb location: 2001']
+12:28:25,922 root INFO report_list_1 [[-93.857, -12.825, 21.878], 30, 2.1909055932991515, '2vs7A_4ut0K.0.rota.pdb location: 2002']
+12:28:25,922 root INFO report_list_1 [[-64.519, -6.148, 21.32], 31, 2.2242320888693152, '2vs7A_4ut0K.0.rota.pdb location: 2001']
+12:28:25,922 root INFO report_list_1 [[-96.464, -8.954, 30.247], 32, 2.1701356236055664, '2vs7A_4ut0K.0.rota.pdb location: 2002']
+12:28:25,922 root INFO report_list_1 [[-109.537, -3.279, 23.316], 33, 2.1852808758292657, '2vs7A_4ut0K.0.rota.pdb location: 2001']
+12:28:25,922 root INFO report_list_1 [[-85.107, -6.009, 32.267], 34, 2.226380528418571, '2vs7A_5akfI.0.rota.pdb location: 2006']
+12:28:25,922 root INFO report_list_1 [[-93.04, -5.091, 28.775], 35, 2.200693318004398, '2vs7A_5akfI.0.rota.pdb location: 2008']
+12:28:25,922 root INFO report_list_1 [[-95.949, -5.683, 31.032], 5, 2.0263914779552423, '2vs7A_5akfI.0.rota.pdb location: 2009']
+12:28:25,922 root INFO report_list_1 [[-100.182, -3.061, 26.838], 6, 2.066078173245368, '2vs7A_5akfI.0.rota.pdb location: 2011']
+12:28:25,922 root INFO report_list_1 [[-89.398, -6.601, 28.134], 36, 2.063506249349588, '2vs7A_5akfI.0.rota.pdb location: 2016']
+12:28:25,922 root INFO report_list_1 [[-83.96, -7.438, 29.287], 37, 2.263992951640766, '2vs7A_5akfI.0.rota.pdb location: 2017']
+12:28:25,922 root INFO report_list_1 [[-73.871, -6.347, 28.348], 38, 2.1647722095992994, '2vs7A_5akfI.0.rota.pdb location: 2018']
+12:28:25,922 root INFO report_list_1 [[-81.425, -12.685, 21.651], 39, 2.2036142695599366, '2vs7A_5akfI.0.rota.pdb location: 2020']
+12:28:25,922 root INFO report_list_1 [[-67.188, -13.896, 16.338], 9, 2.176522822685504, '2vs7A_5akfI.0.rota.pdb location: 2021']
+12:28:25,922 root INFO report_list_1 [[-101.147, 1.37, 13.705], 40, 2.245171192527574, '2vs7A_5akfI.0.rota.pdb location: 2028']
+12:28:25,922 root INFO report_list_1 [[-74.853, 2.879, 24.549], 15, 2.158286039150311, '2vs7A_5akfI.0.rota.pdb location: 2041']
+12:28:25,922 root INFO report_list_1 [[-70.824, -5.232, 29.372], 41, 2.1651861145977227, '2vs7A_5akfI.0.rota.pdb location: 2042']
+12:28:25,922 root INFO report_list_1 [[-80.231, -7.003, 32.568], 16, 2.175216918338742, '2vs7A_5akfI.0.rota.pdb location: 2043']
+12:28:25,922 root INFO report_list_1 [[-77.158, -7.724, 31.319], 42, 2.149888371169319, '2vs7A_5akfI.0.rota.pdb location: 2045']
+12:28:25,922 root INFO report_list_1 [[-83.992, -5.103, 35.118], 43, 2.1379711119532834, '2vs7A_5akfI.0.rota.pdb location: 2047']
+12:28:25,922 root INFO report_list_1 [[-86.771, -2.579, 43.892], 44, 2.1198133111099047, '2vs7A_5akfI.0.rota.pdb location: 2048']
+12:28:25,922 root INFO report_list_1 [[-94.257, -7.073, 45.154], 45, 2.094014104136049, '2vs7A_5akfI.0.rota.pdb location: 2051']
+12:28:25,922 root INFO report_list_1 [[-96.998, 5.758, 48.247], 46, 2.1674173440319735, '2vs7A_5akfI.0.rota.pdb location: 2054']
+12:28:25,922 root INFO report_list_1 [[-96.203, 16.394, 35.7], 47, 2.304386673360887, '2vs7A_5akfI.0.rota.pdb location: 2055']
+12:28:25,922 root INFO report_list_1 [[-114.988, 0.383, 31.473], 48, 2.199189221264518, '2vs7A_5akfI.0.rota.pdb location: 2059']
+12:28:25,922 root INFO report_list_1 [[-112.51, 0.861, 39.457], 20, 2.088149607315427, '2vs7A_5akfI.0.rota.pdb location: 2061']
+12:28:25,923 root INFO report_list_1 [[-112.495, -6.441, 35.842], 21, 2.1127405449999115, '2vs7A_5akfI.0.rota.pdb location: 2062']
+12:28:25,923 root INFO report_list_1 [[-99.178, -13.845, 35.892], 49, 2.1009144663835846, '2vs7A_5akfI.0.rota.pdb location: 2063']
+12:28:25,923 root INFO report_list_1 [[-97.313, -13.241, 38.395], 50, 2.18801789589322, '2vs7A_5akfI.0.rota.pdb location: 2064']
+12:28:25,923 root INFO report_list_1 [[-105.336, -3.372, 48.846], 24, 2.0931924072173516, '2vs7A_5akfI.0.rota.pdb location: 2070']
+12:28:25,923 root INFO report_list_1 [[-109.283, -6.286, 41.572], 25, 2.14811288462662, '2vs7A_5akfI.0.rota.pdb location: 2072']
+12:28:25,923 root INFO report_list_1 [[-111.5, -2.546, 44.395], 51, 2.1678298231501905, '2vs7A_5akfI.0.rota.pdb location: 2073']
+12:28:25,923 root INFO report_list_1 [[-105.965, -7.335, 46.615], 52, 2.304316650003315, '2vs7A_5akfI.0.rota.pdb location: 2074']
+12:28:25,923 root INFO report_list_1 [[-112.071, -6.021, 38.603], 53, 2.2524080819625745, '2vs7A_5akfI.0.rota.pdb location: 2076']
+12:28:25,923 root INFO report_list_1 [[-107.347, -13.885, 42.125], 54, 2.2967219433478268, '2vs7A_5akfI.0.rota.pdb location: 2077']
+12:28:25,923 root INFO report_list_1 [[-110.486, -11.355, 31.251], 55, 2.154266826893326, '2vs7A_5akfI.0.rota.pdb location: 2079']
+12:28:25,923 root INFO report_list_1 [[-112.55, -14.989, 34.8], 56, 2.264945252440356, '2vs7A_5akfI.0.rota.pdb location: 2080']
+12:28:25,923 root INFO report_list_1 [[-111.165, -13.547, 30.699], 57, 2.2022735313394994, '2vs7A_5akfI.0.rota.pdb location: 2081']
+12:28:25,923 root INFO report_list_1 [[-98.674, -14.697, 40.244], 58, 2.205896263266796, '2vs7A_5akfI.0.rota.pdb location: 2084']
+12:28:25,923 root INFO report_list_1 [[-114.919, -0.537, 40.26], 59, 2.1484513972614216, '2vs7A_5akfI.0.rota.pdb location: 2085']
+12:28:25,923 root INFO report_list_1 [[-113.494, -6.039, 46.124], 28, 2.236434559933018, '2vs7A_5akfI.0.rota.pdb location: 2002']
+12:28:25,923 root INFO report_list_1 [[-119.27, -11.487, 41.034], 60, 2.291125567356712, '2vs7A_5akfI.0.rota.pdb location: 2003']
+12:28:25,923 root INFO report_list_1 [[-113.808, -17.118, 39.537], 61, 2.3528052295382023, '2vs7A_5akfI.0.rota.pdb location: 2005']
+12:28:25,923 root INFO report_list_1 [[-98.57, -8.511, 23.615], 62, 2.0880575779459325, '2vs7A_5akfI.0.rota.pdb location: 2012']
+12:28:25,923 root INFO report_list_1 [[-95.952, -8.498, 28.539], 29, 2.170710995836445, '2vs7A_5akfI.0.rota.pdb location: 2001']
+12:28:25,923 root INFO report_list_1 [[-91.01, -13.578, 18.405], 63, 2.262819446241261, '2vs7A_5akfI.0.rota.pdb location: 2005']
+12:28:25,923 root INFO report_list_1 [[-85.562, -10.27, 22.713], 64, 2.13676878419476, '2vs7A_5akfI.0.rota.pdb location: 2006']
+12:28:25,923 root INFO report_list_1 [[-64.9, -6.435, 20.695], 31, 2.253818432868851, '2vs7A_5akfI.0.rota.pdb location: 2002']
+12:28:25,923 root INFO report_list_1 [[-69.719, -7.799, 25.996], 65, 2.3141370040044222, '2vs7A_5akfI.0.rota.pdb location: 2003']
+12:28:25,923 root INFO report_list_1 [[-96.577, -8.771, 30.83], 32, 2.152501671148387, '2vs7A_5akfI.0.rota.pdb location: 2011']
+12:28:25,923 root INFO report_list_1 [[-64.327, 1.68, 50.905], 0, 1.95919808924581, '2vs7A_5a0wG.0.rota.pdb location: 2016']
+12:28:25,923 root INFO report_list_1 [[-77.968, 3.587, 36.796], 66, 2.107031392369097, '2vs7A_5a0wG.0.rota.pdb location: 2017']
+12:28:25,923 root INFO report_list_1 [[-69.315, 1.339, 34.781], 67, 2.3036861956217116, '2vs7A_5a0wG.0.rota.pdb location: 2036']
+12:28:25,923 root INFO report_list_1 [[-76.672, 3.819, 32.672], 2, 2.0729826824527136, '2vs7A_5a0wG.0.rota.pdb location: 2037']
+12:28:25,923 root INFO report_list_1 [[-76.347, 7.592, 34.401], 68, 2.226686992559801, '2vs7A_5a0wG.0.rota.pdb location: 2038']
+12:28:25,923 root INFO report_list_1 [[-69.703, -0.306, 28.488], 69, 2.192505323075461, '2vs7A_5a0wG.0.rota.pdb location: 2039']
+12:28:25,923 root INFO report_list_1 [[-76.949, 2.238, 34.868], 3, 2.0783250144405456, '2vs7A_5a0wG.0.rota.pdb location: 2040']
+12:28:25,923 root INFO report_list_1 [[-70.779, -4.989, 30.038], 41, 2.1933039782444497, '2vs7A_5a0wG.0.rota.pdb location: 2041']
+12:28:25,923 root INFO report_list_1 [[-68.668, -4.747, 33.402], 70, 2.228217612260586, '2vs7A_5a0wG.0.rota.pdb location: 2002']
+12:28:25,923 root INFO report_list_1 [[-67.097, -1.288, 36.34], 1, 2.160537511973075, '2vs7A_5a0wG.0.rota.pdb location: 2003']
+12:28:25,923 root INFO report_list_1 [[-95.89, -7.555, 28.902], 29, 2.1914658665215785, '2vs7A_5a0wG.0.rota.pdb location: 2003']
+12:28:25,923 root INFO report_list_1 [[-93.09, -5.009, 29.02], 35, 2.216357817018663, '2vs7A_5a0wG.0.rota.pdb location: 2004']
+12:28:25,923 root INFO report_list_1 [[-97.086, -5.025, 29.569], 71, 2.098289478854401, '2vs7A_5a0wG.0.rota.pdb location: 2005']
+12:28:25,923 root INFO report_list_1 [[-99.83, -2.717, 27.461], 6, 1.836734619885693, '2vs7A_5a0wG.0.rota.pdb location: 2006']
+12:28:25,923 root INFO report_list_1 [[-102.218, 2.608, 26.556], 7, 2.0467842275158707, '2vs7A_5a0wG.0.rota.pdb location: 2007']
+12:28:25,923 root INFO report_list_1 [[-83.968, -9.5, 26.22], 8, 2.212002218317483, '2vs7A_5a0wG.0.rota.pdb location: 2009']
+12:28:25,923 root INFO report_list_1 [[-72.245, -8.408, 24.739], 72, 2.2524080819625745, '2vs7A_5a0wG.0.rota.pdb location: 2010']
+12:28:25,923 root INFO report_list_1 [[-78.513, -11.973, 13.949], 73, 2.204244431797183, '2vs7A_5a0wG.0.rota.pdb location: 2011']
+12:28:25,924 root INFO report_list_1 [[-82.473, -0.372, 16.344], 10, 2.0136243547243198, '2vs7A_5a0wG.0.rota.pdb location: 2014']
+12:28:25,924 root INFO report_list_1 [[-77.491, -0.862, 21.359], 11, 1.990698591642388, '2vs7A_5a0wG.0.rota.pdb location: 2015']
+12:28:25,924 root INFO report_list_1 [[-73.665, -5.999, 29.27], 38, 2.170464460351382, '2vs7A_5a0wG.0.rota.pdb location: 2016']
+12:28:25,924 root INFO report_list_1 [[-87.53, -3.473, 19.488], 12, 2.012488107995376, '2vs7A_5a0wG.0.rota.pdb location: 2017']
+12:28:25,924 root INFO report_list_1 [[-100.782, 2.165, 13.909], 40, 2.274700856281279, '2vs7A_5a0wG.0.rota.pdb location: 2019']
+12:28:25,924 root INFO report_list_1 [[-105.621, 8.022, 31.634], 74, 2.280761211828523, '2vs7A_5a0wG.0.rota.pdb location: 2020']
+12:28:25,924 root INFO report_list_1 [[-86.762, 13.794, 19.87], 75, 2.2426949898113997, '2vs7A_5a0wG.0.rota.pdb location: 2026']
+12:28:25,924 root INFO report_list_1 [[-83.303, 11.636, 18.864], 13, 2.1201651260434766, '2vs7A_5a0wG.0.rota.pdb location: 2027']
+12:28:25,924 root INFO report_list_1 [[-80.139, 12.533, 20.772], 76, 2.2699823226987217, '2vs7A_5a0wG.0.rota.pdb location: 2028']
+12:28:25,924 root INFO report_list_1 [[-74.981, 6.557, 24.886], 77, 2.148028232531908, '2vs7A_5a0wG.0.rota.pdb location: 2032']
+12:28:25,924 root INFO report_list_1 [[-81.439, 4.359, 18.826], 14, 2.0352256401119293, '2vs7A_5a0wG.0.rota.pdb location: 2033']
+12:28:25,924 root INFO report_list_1 [[-86.815, 7.543, 13.449], 78, 2.2143384719753207, '2vs7A_5a0wG.0.rota.pdb location: 2034']
+12:28:25,924 root INFO report_list_1 [[-85.412, 4.347, 12.984], 79, 2.2022735313394994, '2vs7A_5a0wG.0.rota.pdb location: 2036']
+12:28:25,924 root INFO report_list_1 [[-95.63, -4.694, 14.902], 80, 2.1660959184385735, '2vs7A_5a0wG.0.rota.pdb location: 2037']
+12:28:25,924 root INFO report_list_1 [[-74.775, 3.484, 25.316], 15, 2.062073085642864, '2vs7A_5a0wG.0.rota.pdb location: 2038']
+12:28:25,924 root INFO report_list_1 [[-80.068, -6.749, 33.066], 16, 2.247714866557901, '2vs7A_5a0wG.0.rota.pdb location: 2039']
+12:28:25,924 root INFO report_list_1 [[-80.594, 3.754, 37.148], 17, 1.9438117365008531, '2vs7A_5a0wG.0.rota.pdb location: 2040']
+12:28:25,924 root INFO report_list_1 [[-84.116, -4.902, 35.794], 43, 2.083810838250893, '2vs7A_5a0wG.0.rota.pdb location: 2041']
+12:28:25,924 root INFO report_list_1 [[-81.035, 2.931, 39.613], 81, 2.095927623974199, '2vs7A_5a0wG.0.rota.pdb location: 2042']
+12:28:25,924 root INFO report_list_1 [[-86.759, -3.722, 44.188], 44, 2.0637925107777404, '2vs7A_5a0wG.0.rota.pdb location: 2043']
+12:28:25,924 root INFO report_list_1 [[-105.442, 4.678, 30.169], 82, 2.3039664518528626, '2vs7A_5a0wG.0.rota.pdb location: 2048']
+12:28:25,924 root INFO report_list_1 [[-114.945, 0.299, 31.911], 48, 2.256188509413852, '2vs7A_5a0wG.0.rota.pdb location: 2049']
+12:28:25,924 root INFO report_list_1 [[-111.515, -0.619, 30.042], 19, 2.1567813360134576, '2vs7A_5a0wG.0.rota.pdb location: 2050']
+12:28:25,924 root INFO report_list_1 [[-105.025, 0.563, 24.237], 83, 2.224846499755135, '2vs7A_5a0wG.0.rota.pdb location: 2051']
+12:28:25,924 root INFO report_list_1 [[-112.262, -6.293, 38.435], 53, 2.162034798254088, '2vs7A_5a0wG.0.rota.pdb location: 2053']
+12:28:25,924 root INFO report_list_1 [[-112.532, 0.066, 39.799], 20, 2.0179435337084293, '2vs7A_5a0wG.0.rota.pdb location: 2054']
+12:28:25,924 root INFO report_list_1 [[-112.51, -6.691, 35.918], 21, 2.0600614287034595, '2vs7A_5a0wG.0.rota.pdb location: 2055']
+12:28:25,924 root INFO report_list_1 [[-98.555, -7.957, 31.41], 84, 2.1555251275404546, '2vs7A_5a0wG.0.rota.pdb location: 2057']
+12:28:25,924 root INFO report_list_1 [[-97.239, -13.546, 38.067], 50, 2.0357238954557038, '2vs7A_5a0wG.0.rota.pdb location: 2058']
+12:28:25,924 root INFO report_list_1 [[-91.108, -7.747, 39.882], 22, 2.350476198361113, '2vs7A_5a0wG.0.rota.pdb location: 2060']
+12:28:25,924 root INFO report_list_1 [[-94.124, -8.062, 45.366], 45, 2.1122072560775083, '2vs7A_5a0wG.0.rota.pdb location: 2061']
+12:28:25,924 root INFO report_list_1 [[-102.886, -6.407, 47.838], 23, 2.277086704268426, '2vs7A_5a0wG.0.rota.pdb location: 2062']
+12:28:25,924 root INFO report_list_1 [[-105.208, -4.542, 49.164], 24, 2.089528573912401, '2vs7A_5a0wG.0.rota.pdb location: 2063']
+12:28:25,924 root INFO report_list_1 [[-109.09, -7.166, 41.946], 25, 2.094287787000767, '2vs7A_5a0wG.0.rota.pdb location: 2066']
+12:28:25,924 root INFO report_list_1 [[-112.731, -15.435, 34.718], 56, 2.128557719612041, '2vs7A_5a0wG.0.rota.pdb location: 2069']
+12:28:25,924 root INFO report_list_1 [[-111.17, -15.813, 32.528], 26, 2.1283838602324954, '2vs7A_5a0wG.0.rota.pdb location: 2070']
+12:28:25,924 root INFO report_list_1 [[-110.473, -11.361, 30.927], 55, 2.136080858009092, '2vs7A_5a0wG.0.rota.pdb location: 2071']
+12:28:25,924 root INFO report_list_1 [[-98.445, -15.189, 39.707], 58, 2.138914425595175, '2vs7A_5a0wG.0.rota.pdb location: 2073']
+12:28:25,924 root INFO report_list_1 [[-114.815, -1.097, 40.958], 59, 2.0505914575721587, '2vs7A_5a0wG.0.rota.pdb location: 2074']
+12:28:25,924 root INFO report_list_1 [[-96.63, 16.454, 34.509], 47, 2.3413715538679702, '2vs7A_5a0wG.0.rota.pdb location: 2078']
+12:28:25,924 root INFO report_list_1 [[-113.551, -7.104, 46.172], 28, 2.1862479708703946, '2vs7A_5a0wG.0.rota.pdb location: 2001']
+12:28:25,924 root INFO report_list_1 [[-114.621, -4.926, 22.815], 85, 2.3552611738047373, '2vs7A_5a0wG.0.rota.pdb location: 2005']
+12:28:25,924 root INFO report_list_1 [[-98.626, -8.059, 23.13], 62, 2.1267301216653163, '2vs7A_5a0wG.0.rota.pdb location: 2008']
+12:28:25,924 root INFO report_list_1 [[-97.837, -8.5, 27.552], 86, 2.2182174044327994, '2vs7A_5a0wG.0.rota.pdb location: 2009']
+12:28:25,925 root INFO report_list_1 [[-96.561, -8.986, 25.258], 87, 2.1117625434171767, '2vs7A_5a0wG.0.rota.pdb location: 2010']
+12:28:25,925 root INFO report_list_1 [[-93.517, -12.599, 21.179], 30, 2.255670616122491, '2vs7A_5a0wG.0.rota.pdb location: 2011']
+12:28:25,925 root INFO report_list_1 [[-95.54, -10.565, 22.49], 88, 2.144464152611519, '2vs7A_5a0wG.0.rota.pdb location: 2012']
+12:28:25,925 root INFO report_list_1 [[-90.798, -12.725, 18.332], 63, 2.1900243611666674, '2vs7A_5a0wG.0.rota.pdb location: 2013']
+12:28:25,925 root INFO report_list_1 [[-85.436, -9.653, 23.002], 64, 2.2500274647618284, '2vs7A_5a0wG.0.rota.pdb location: 2014']
+12:28:25,925 root INFO report_list_1 [[-68.004, -1.916, 20.612], 89, 2.176522822685504, '2vs7A_5a0wG.0.rota.pdb location: 2016']
+12:28:25,925 root INFO report_list_1 [[-99.042, -10.508, 25.645], 90, 2.155776536274896, '2vs7A_5a0wG.0.rota.pdb location: 2019']
+12:28:25,925 root INFO report_list_1 [[-66.63, -9.062, 13.398], 91, 2.156697653662783, '2vs7A_5a0wG.0.rota.pdb location: 2003']
+12:28:25,925 root INFO report_list_1 [[-64.557, -5.767, 21.303], 31, 2.189463064924465, '2vs7A_5a0wG.0.rota.pdb location: 2005']
+12:28:25,925 root INFO report_list_1 [[-74.38, 2.722, 13.392], 92, 2.292119889650804, '2vs7A_5a0wG.0.rota.pdb location: 2008']
+12:28:25,925 root INFO report_list_1 [[-93.691, -5.012, 12.982], 93, 2.2123141070243237, '2vs7A_5a0wG.0.rota.pdb location: 2009']
+12:28:25,925 root INFO report_list_1 [[-109.335, -3.535, 23.396], 33, 2.13142043287807, '2vs7A_5a0wG.0.rota.pdb location: 2011']
+12:28:25,925 root INFO report_list_1 [[-107.854, -0.806, 23.737], 94, 2.1788028862163675, '2vs7A_5a0wG.0.rota.pdb location: 2012']
+12:28:25,925 root INFO report_list_1 [[-119.15, -6.981, 27.552], 95, 2.144889342064546, '2vs7A_5a0wG.0.rota.pdb location: 2013']
+12:28:25,925 root INFO report_list_1 [[-96.108, -7.088, 29.09], 29, 2.226763590845122, '2vs7A_5a0wD.0.rota.pdb location: 2002']
+12:28:25,925 root INFO report_list_1 [[-66.927, -12.454, 14.593], 96, 2.2436713311991956, '2vs7A_5a0wD.0.rota.pdb location: 2004']
+12:28:25,925 root INFO report_list_1 [[-97.18, -4.809, 30.015], 71, 2.175625249638239, '2vs7A_5a0wD.0.rota.pdb location: 2005']
+12:28:25,925 root INFO report_list_1 [[-99.921, -2.531, 27.566], 6, 1.850720504529012, '2vs7A_5a0wD.0.rota.pdb location: 2006']
+12:28:25,925 root INFO report_list_1 [[-102.169, 2.677, 26.215], 7, 1.9539643805848264, '2vs7A_5a0wD.0.rota.pdb location: 2007']
+12:28:25,925 root INFO report_list_1 [[-80.071, -6.937, 32.423], 16, 2.2326404980978865, '2vs7A_5a0wD.0.rota.pdb location: 2010']
+12:28:25,925 root INFO report_list_1 [[-81.127, -11.994, 22.157], 39, 2.1742360445781252, '2vs7A_5a0wD.0.rota.pdb location: 2012']
+12:28:25,925 root INFO report_list_1 [[-81.756, -11.348, 19.096], 97, 2.1734995729850173, '2vs7A_5a0wD.0.rota.pdb location: 2013']
+12:28:25,925 root INFO report_list_1 [[-72.548, -8.309, 25.117], 72, 2.201246747172032, '2vs7A_5a0wD.0.rota.pdb location: 2014']
+12:28:25,925 root INFO report_list_1 [[-72.652, -14.644, 18.556], 98, 2.2599523179278678, '2vs7A_5a0wD.0.rota.pdb location: 2015']
+12:28:25,925 root INFO report_list_1 [[-69.03, -8.802, 14.621], 99, 2.0646505553150414, '2vs7A_5a0wD.0.rota.pdb location: 2017']
+12:28:25,925 root INFO report_list_1 [[-66.259, -11.993, 17.499], 100, 2.1532586729650656, '2vs7A_5a0wD.0.rota.pdb location: 2019']
+12:28:25,925 root INFO report_list_1 [[-82.29, -0.067, 16.5], 10, 2.0120744043966745, '2vs7A_5a0wD.0.rota.pdb location: 2022']
+12:28:25,925 root INFO report_list_1 [[-77.504, -0.687, 21.909], 11, 1.9443936646892925, '2vs7A_5a0wD.0.rota.pdb location: 2023']
+12:28:25,925 root INFO report_list_1 [[-73.79, -5.914, 29.753], 38, 2.1384000402731096, '2vs7A_5a0wD.0.rota.pdb location: 2024']
+12:28:25,925 root INFO report_list_1 [[-87.445, -3.282, 19.74], 12, 1.9296536861098228, '2vs7A_5a0wD.0.rota.pdb location: 2025']
+12:28:25,925 root INFO report_list_1 [[-77.764, 4.042, 37.219], 66, 2.116197243913529, '2vs7A_5a0wD.0.rota.pdb location: 2026']
+12:28:25,925 root INFO report_list_1 [[-84.911, -5.517, 32.976], 34, 2.174317831515931, '2vs7A_5a0wD.0.rota.pdb location: 2027']
+12:28:25,925 root INFO report_list_1 [[-101.149, 1.977, 13.829], 40, 2.2651648653047407, '2vs7A_5a0wD.0.rota.pdb location: 2030']
+12:28:25,925 root INFO report_list_1 [[-80.602, 12.201, 20.794], 76, 2.1933039782444497, '2vs7A_5a0wD.0.rota.pdb location: 2033']
+12:28:25,925 root INFO report_list_1 [[-83.287, 11.702, 18.885], 13, 2.0658880010292875, '2vs7A_5a0wD.0.rota.pdb location: 2034']
+12:28:25,925 root INFO report_list_1 [[-86.827, 13.763, 19.248], 75, 2.115046867663335, '2vs7A_5a0wD.0.rota.pdb location: 2035']
+12:28:25,925 root INFO report_list_1 [[-74.735, 7.194, 25.162], 77, 2.1703000595257933, '2vs7A_5a0wD.0.rota.pdb location: 2037']
+12:28:25,925 root INFO report_list_1 [[-81.384, 4.461, 18.952], 14, 2.010727932293387, '2vs7A_5a0wD.0.rota.pdb location: 2038']
+12:28:25,925 root INFO report_list_1 [[-87.084, 7.17, 13.405], 78, 2.150310486807121, '2vs7A_5a0wD.0.rota.pdb location: 2039']
+12:28:25,925 root INFO report_list_1 [[-90.94, 2.55, 9.95], 101, 2.1860868709873658, '2vs7A_5a0wD.0.rota.pdb location: 2040']
+12:28:25,925 root INFO report_list_1 [[-94.919, -4.68, 14.849], 80, 2.2162026601576175, '2vs7A_5a0wD.0.rota.pdb location: 2041']
+12:28:25,925 root INFO report_list_1 [[-91.344, -1.81, 15.212], 102, 2.062073085642864, '2vs7A_5a0wD.0.rota.pdb location: 2042']
+12:28:25,925 root INFO report_list_1 [[-74.691, 3.762, 25.702], 15, 2.0728885787421993, '2vs7A_5a0wD.0.rota.pdb location: 2043']
+12:28:25,925 root INFO report_list_1 [[-71.363, -4.416, 30.62], 41, 2.1234113031413555, '2vs7A_5a0wD.0.rota.pdb location: 2044']
+12:28:25,926 root INFO report_list_1 [[-70.068, -0.313, 29.053], 69, 2.211378081239621, '2vs7A_5a0wD.0.rota.pdb location: 2045']
+12:28:25,926 root INFO report_list_1 [[-76.782, 4.048, 32.831], 2, 2.1412247420995714, '2vs7A_5a0wD.0.rota.pdb location: 2046']
+12:28:25,926 root INFO report_list_1 [[-77.03, 2.689, 35.048], 3, 1.988335358123355, '2vs7A_5a0wD.0.rota.pdb location: 2047']
+12:28:25,926 root INFO report_list_1 [[-80.787, 4.326, 37.224], 17, 1.9780195524898865, '2vs7A_5a0wD.0.rota.pdb location: 2048']
+12:28:25,926 root INFO report_list_1 [[-84.486, -4.34, 36.378], 43, 2.1305541286147207, '2vs7A_5a0wD.0.rota.pdb location: 2049']
+12:28:25,926 root INFO report_list_1 [[-81.39, 3.589, 39.861], 81, 2.1315070068776487, '2vs7A_5a0wD.0.rota.pdb location: 2050']
+12:28:25,926 root INFO report_list_1 [[-88.043, -4.812, 40.739], 103, 2.2644326054483606, '2vs7A_5a0wD.0.rota.pdb location: 2051']
+12:28:25,926 root INFO report_list_1 [[-87.208, -2.337, 44.677], 44, 2.0704372460814815, '2vs7A_5a0wD.0.rota.pdb location: 2052']
+12:28:25,926 root INFO report_list_1 [[-83.994, 5.099, 41.988], 18, 2.3095534423219384, '2vs7A_5a0wD.0.rota.pdb location: 2053']
+12:28:25,926 root INFO report_list_1 [[-97.418, 6.673, 48.711], 46, 2.076268062727793, '2vs7A_5a0wD.0.rota.pdb location: 2055']
+12:28:25,926 root INFO report_list_1 [[-104.472, 2.54, 28.825], 104, 2.2158922579177713, '2vs7A_5a0wD.0.rota.pdb location: 2056']
+12:28:25,926 root INFO report_list_1 [[-105.185, 0.621, 24.529], 83, 2.1214829041373817, '2vs7A_5a0wD.0.rota.pdb location: 2057']
+12:28:25,926 root INFO report_list_1 [[-112.747, 1.406, 39.469], 20, 2.0542797573583313, '2vs7A_5a0wD.0.rota.pdb location: 2058']
+12:28:25,926 root INFO report_list_1 [[-98.768, -7.558, 31.829], 84, 2.1700533924779384, '2vs7A_5a0wD.0.rota.pdb location: 2059']
+12:28:25,926 root INFO report_list_1 [[-99.504, -13.441, 35.505], 49, 2.2609090883151954, '2vs7A_5a0wD.0.rota.pdb location: 2060']
+12:28:25,926 root INFO report_list_1 [[-94.389, -6.826, 45.731], 45, 2.2177529040238433, '2vs7A_5a0wD.0.rota.pdb location: 2061']
+12:28:25,926 root INFO report_list_1 [[-105.519, -3.06, 49.088], 24, 2.166922076252712, '2vs7A_5a0wD.0.rota.pdb location: 2062']
+12:28:25,926 root INFO report_list_1 [[-99.933, 5.137, 55.227], 105, 2.1983171331684574, '2vs7A_5a0wD.0.rota.pdb location: 2065']
+12:28:25,926 root INFO report_list_1 [[-109.636, -5.877, 41.779], 25, 2.2240784145715558, '2vs7A_5a0wD.0.rota.pdb location: 2066']
+12:28:25,926 root INFO report_list_1 [[-111.536, -12.882, 30.58], 57, 2.2160474737962645, '2vs7A_5a0wD.0.rota.pdb location: 2067']
+12:28:25,926 root INFO report_list_1 [[-115.139, 0.242, 40.644], 59, 2.071003733082491, '2vs7A_5a0wD.0.rota.pdb location: 2068']
+12:28:25,926 root INFO report_list_1 [[-114.196, 10.455, 45.172], 106, 2.251069804166005, '2vs7A_5a0wD.0.rota.pdb location: 2069']
+12:28:25,926 root INFO report_list_1 [[-115.357, -4.615, 22.827], 85, 2.321519489974218, '2vs7A_5a0wD.0.rota.pdb location: 2005']
+12:28:25,926 root INFO report_list_1 [[-99.156, -7.881, 23.456], 62, 2.041376648770355, '2vs7A_5a0wD.0.rota.pdb location: 2006']
+12:28:25,926 root INFO report_list_1 [[-98.63, -7.731, 27.796], 86, 2.18801789589322, '2vs7A_5a0wD.0.rota.pdb location: 2007']
+12:28:25,926 root INFO report_list_1 [[-96.469, -9.219, 25.363], 87, 2.2374182003542376, '2vs7A_5a0wD.0.rota.pdb location: 2008']
+12:28:25,926 root INFO report_list_1 [[-95.465, -10.094, 22.652], 88, 2.1847968814068137, '2vs7A_5a0wD.0.rota.pdb location: 2009']
+12:28:25,926 root INFO report_list_1 [[-92.983, -12.911, 21.15], 30, 2.2720906688614995, '2vs7A_5a0wD.0.rota.pdb location: 2010']
+12:28:25,926 root INFO report_list_1 [[-85.465, -9.475, 23.165], 64, 2.1352200451102186, '2vs7A_5a0wD.0.rota.pdb location: 2012']
+12:28:25,926 root INFO report_list_1 [[-77.05, 0.738, 9.261], 107, 2.172188555817268, '2vs7A_5a0wD.0.rota.pdb location: 2015']
+12:28:25,926 root INFO report_list_1 [[-74.403, 2.853, 13.583], 92, 2.2403622135645405, '2vs7A_5a0wD.0.rota.pdb location: 2016']
+12:28:25,926 root INFO report_list_1 [[-68.644, -5.163, 11.667], 108, 2.114249367965538, '2vs7A_5a0wD.0.rota.pdb location: 2017']
+12:28:25,926 root INFO report_list_1 [[-66.363, -8.721, 13.845], 91, 2.11743404777239, '2vs7A_5a0wD.0.rota.pdb location: 2001']
+12:28:25,926 root INFO report_list_1 [[-64.493, -4.925, 21.68], 109, 2.2203815955664954, '2vs7A_5a0wD.0.rota.pdb location: 2003']
+12:28:25,926 root INFO report_list_1 [[-88.595, -9.186, 11.246], 110, 2.104878538676071, '2vs7A_5a0wD.0.rota.pdb location: 2005']
+12:28:25,926 root INFO report_list_1 [[-109.24, -3.071, 22.891], 33, 2.3072529777379853, '2vs7A_5a0wD.0.rota.pdb location: 2008']
+12:28:25,926 root INFO report_list_1 [[-107.411, -0.376, 23.652], 94, 2.1745631405135364, '2vs7A_5a0wD.0.rota.pdb location: 2009']
+12:28:25,926 root INFO report_list_1 [[-64.389, 0.852, 51.592], 0, 2.0136243547243198, '2vs7A_5a0wD.0.rota.pdb location: 2014']
+12:28:25,926 root INFO report_list_1 [[-69.763, 0.83, 34.199], 67, 2.2732517153651317, '2vs7A_5a0wD.0.rota.pdb location: 2017']
+12:28:25,926 root INFO report_list_1 [[-67.857, 2.474, 41.438], 4, 2.228217612260586, '2vs7A_5a0wD.0.rota.pdb location: 2006']
+12:28:25,926 root INFO report_list_1 [[-96.038, -6.989, 28.991], 29, 2.1334090493450844, '2vs7A_5a0wA.0.rota.pdb location: 2002']
+12:28:25,926 root INFO report_list_1 [[-70.246, -7.794, 26.622], 65, 2.255892608762397, '2vs7A_5a0wA.0.rota.pdb location: 2004']
+12:28:25,926 root INFO report_list_1 [[-66.77, -12.891, 14.326], 96, 2.2220009996434555, '2vs7A_5a0wA.0.rota.pdb location: 2005']
+12:28:25,926 root INFO report_list_1 [[-96.884, -4.772, 29.541], 71, 2.058909153000182, '2vs7A_5a0wA.0.rota.pdb location: 2006']
+12:28:25,927 root INFO report_list_1 [[-99.901, -2.619, 27.567], 6, 1.8203317903470144, '2vs7A_5a0wA.0.rota.pdb location: 2007']
+12:28:25,927 root INFO report_list_1 [[-102.176, 2.566, 26.512], 7, 2.0034260548854776, '2vs7A_5a0wA.0.rota.pdb location: 2008']
+12:28:25,927 root INFO report_list_1 [[-89.302, -6.3, 28.603], 36, 2.172188555817268, '2vs7A_5a0wA.0.rota.pdb location: 2009']
+12:28:25,927 root INFO report_list_1 [[-83.828, -7.181, 29.49], 37, 2.20282587118554, '2vs7A_5a0wA.0.rota.pdb location: 2010']
+12:28:25,927 root INFO report_list_1 [[-84.121, -9.119, 26.473], 8, 2.186811560702233, '2vs7A_5a0wA.0.rota.pdb location: 2011']
+12:28:25,927 root INFO report_list_1 [[-72.343, -8.336, 24.696], 72, 2.1929846127008132, '2vs7A_5a0wA.0.rota.pdb location: 2012']
+12:28:25,927 root INFO report_list_1 [[-68.961, -8.791, 14.078], 99, 2.034028229735061, '2vs7A_5a0wA.0.rota.pdb location: 2013']
+12:28:25,927 root INFO report_list_1 [[-65.955, -11.488, 16.913], 100, 2.213716126854247, '2vs7A_5a0wA.0.rota.pdb location: 2014']
+12:28:25,927 root INFO report_list_1 [[-78.472, -11.656, 13.647], 73, 2.3137212666961755, '2vs7A_5a0wA.0.rota.pdb location: 2015']
+12:28:25,927 root INFO report_list_1 [[-82.429, -0.249, 16.312], 10, 1.95919808924581, '2vs7A_5a0wA.0.rota.pdb location: 2016']
+12:28:25,927 root INFO report_list_1 [[-77.459, -0.912, 21.445], 11, 1.930847946219303, '2vs7A_5a0wA.0.rota.pdb location: 2017']
+12:28:25,927 root INFO report_list_1 [[-73.611, -6.029, 28.95], 38, 2.0924611913944084, '2vs7A_5a0wA.0.rota.pdb location: 2018']
+12:28:25,927 root INFO report_list_1 [[-87.604, -3.559, 19.624], 12, 2.0090666495635014, '2vs7A_5a0wA.0.rota.pdb location: 2019']
+12:28:25,927 root INFO report_list_1 [[-77.846, 3.5, 37.107], 66, 2.1075685823103663, '2vs7A_5a0wA.0.rota.pdb location: 2020']
+12:28:25,927 root INFO report_list_1 [[-84.901, -5.711, 33.146], 34, 2.2017997943443444, '2vs7A_5a0wA.0.rota.pdb location: 2021']
+12:28:25,927 root INFO report_list_1 [[-80.168, -6.509, 33.392], 16, 2.210675352653646, '2vs7A_5a0wA.0.rota.pdb location: 2023']
+12:28:25,927 root INFO report_list_1 [[-85.284, -3.398, 46.962], 111, 2.1884999132056357, '2vs7A_5a0wA.0.rota.pdb location: 2025']
+12:28:25,927 root INFO report_list_1 [[-100.799, 2.298, 14.498], 40, 2.2446465440180354, '2vs7A_5a0wA.0.rota.pdb location: 2027']
+12:28:25,927 root INFO report_list_1 [[-80.355, 11.911, 20.832], 76, 2.1592041118469716, '2vs7A_5a0wA.0.rota.pdb location: 2030']
+12:28:25,927 root INFO report_list_1 [[-83.366, 11.569, 18.93], 13, 2.0889773184687233, '2vs7A_5a0wA.0.rota.pdb location: 2031']
+12:28:25,927 root INFO report_list_1 [[-81.511, 4.456, 18.772], 14, 2.0141401355623993, '2vs7A_5a0wA.0.rota.pdb location: 2035']
+12:28:25,927 root INFO report_list_1 [[-84.787, 4.451, 12.836], 79, 2.1677473450551945, '2vs7A_5a0wA.0.rota.pdb location: 2036']
+12:28:25,927 root INFO report_list_1 [[-91.062, 2.695, 9.867], 101, 2.141822538520802, '2vs7A_5a0wA.0.rota.pdb location: 2037']
+12:28:25,927 root INFO report_list_1 [[-95.56, -4.657, 14.759], 80, 2.157366853575719, '2vs7A_5a0wA.0.rota.pdb location: 2040']
+12:28:25,927 root INFO report_list_1 [[-91.499, -2.057, 15.158], 102, 2.165765205745227, '2vs7A_5a0wA.0.rota.pdb location: 2041']
+12:28:25,927 root INFO report_list_1 [[-74.693, 3.42, 25.43], 15, 2.12463579419348, '2vs7A_5a0wA.0.rota.pdb location: 2042']
+12:28:25,927 root INFO report_list_1 [[-70.591, -4.624, 30.226], 41, 2.1463331743087344, '2vs7A_5a0wA.0.rota.pdb location: 2043']
+12:28:25,927 root INFO report_list_1 [[-76.766, 3.691, 32.916], 2, 2.023249619164595, '2vs7A_5a0wA.0.rota.pdb location: 2044']
+12:28:25,927 root INFO report_list_1 [[-76.971, 1.973, 34.911], 3, 1.95635979008852, '2vs7A_5a0wA.0.rota.pdb location: 2045']
+12:28:25,927 root INFO report_list_1 [[-80.572, 3.594, 37.182], 17, 1.9631476758369133, '2vs7A_5a0wA.0.rota.pdb location: 2046']
+12:28:25,927 root INFO report_list_1 [[-84.226, -4.938, 36.034], 43, 2.146248320329231, '2vs7A_5a0wA.0.rota.pdb location: 2047']
+12:28:25,927 root INFO report_list_1 [[-88.045, -5.107, 40.087], 103, 2.1949785424582737, '2vs7A_5a0wA.0.rota.pdb location: 2050']
+12:28:25,927 root INFO report_list_1 [[-86.897, -3.129, 44.418], 44, 2.0502019984186868, '2vs7A_5a0wA.0.rota.pdb location: 2052']
+12:28:25,927 root INFO report_list_1 [[-94.26, -7.49, 45.749], 45, 2.1870529756587813, '2vs7A_5a0wA.0.rota.pdb location: 2056']
+12:28:25,927 root INFO report_list_1 [[-97.134, 5.834, 48.84], 46, 2.101817357993741, '2vs7A_5a0wA.0.rota.pdb location: 2060']
+12:28:25,927 root INFO report_list_1 [[-104.56, 2.444, 28.89], 104, 2.085845168430567, '2vs7A_5a0wA.0.rota.pdb location: 2061']
+12:28:25,927 root INFO report_list_1 [[-105.333, 4.917, 30.335], 82, 2.251144208135563, '2vs7A_5a0wA.0.rota.pdb location: 2062']
+12:28:25,927 root INFO report_list_1 [[-111.832, -0.179, 30.087], 19, 2.114515300100585, '2vs7A_5a0wA.0.rota.pdb location: 2063']
+12:28:25,927 root INFO report_list_1 [[-114.968, 0.498, 32.142], 48, 2.2592156157298255, '2vs7A_5a0wA.0.rota.pdb location: 2064']
+12:28:25,927 root INFO report_list_1 [[-104.704, 0.796, 24.485], 83, 2.1055071329497554, '2vs7A_5a0wA.0.rota.pdb location: 2065']
+12:28:25,927 root INFO report_list_1 [[-112.497, 0.718, 39.868], 20, 1.9139990139556646, '2vs7A_5a0wA.0.rota.pdb location: 2068']
+12:28:25,927 root INFO report_list_1 [[-112.328, -6.428, 36.157], 21, 2.0368186849712067, '2vs7A_5a0wA.0.rota.pdb location: 2069']
+12:28:25,927 root INFO report_list_1 [[-98.544, -7.635, 31.635], 84, 2.139428453083843, '2vs7A_5a0wA.0.rota.pdb location: 2072']
+12:28:25,927 root INFO report_list_1 [[-99.226, -14.132, 35.13], 49, 2.182129558475202, '2vs7A_5a0wA.0.rota.pdb location: 2073']
+12:28:25,927 root INFO report_list_1 [[-96.91, -12.892, 38.838], 50, 2.197761671649769, '2vs7A_5a0wA.0.rota.pdb location: 2074']
+12:28:25,928 root INFO report_list_1 [[-105.081, -3.751, 49.513], 24, 2.097563606019069, '2vs7A_5a0wA.0.rota.pdb location: 2078']
+12:28:25,928 root INFO report_list_1 [[-99.622, 4.926, 55.283], 105, 2.0873208993857233, '2vs7A_5a0wA.0.rota.pdb location: 2081']
+12:28:25,928 root INFO report_list_1 [[-109.181, -6.381, 42.131], 25, 2.1905852589023342, '2vs7A_5a0wA.0.rota.pdb location: 2082']
+12:28:25,928 root INFO report_list_1 [[-111.413, -2.662, 44.751], 51, 2.1787215703313936, '2vs7A_5a0wA.0.rota.pdb location: 2083']
+12:28:25,928 root INFO report_list_1 [[-105.737, -7.27, 47.357], 52, 2.1748900983755077, '2vs7A_5a0wA.0.rota.pdb location: 2084']
+12:28:25,928 root INFO report_list_1 [[-107.595, -13.596, 42.73], 54, 2.263553073995806, '2vs7A_5a0wA.0.rota.pdb location: 2086']
+12:28:25,928 root INFO report_list_1 [[-110.265, -10.952, 31.594], 55, 2.173335817383948, '2vs7A_5a0wA.0.rota.pdb location: 2087']
+12:28:25,928 root INFO report_list_1 [[-111.32, -13.368, 31.234], 57, 2.184877567869928, '2vs7A_5a0wA.0.rota.pdb location: 2089']
+12:28:25,928 root INFO report_list_1 [[-112.084, -5.197, 38.557], 53, 2.208171813449603, '2vs7A_5a0wA.0.rota.pdb location: 2095']
+12:28:25,928 root INFO report_list_1 [[-114.796, -0.451, 40.952], 59, 2.1088204422746584, '2vs7A_5a0wA.0.rota.pdb location: 2096']
+12:28:25,928 root INFO report_list_1 [[-114.141, 10.066, 45.46], 106, 2.158536532810995, '2vs7A_5a0wA.0.rota.pdb location: 2098']
+12:28:25,928 root INFO report_list_1 [[-111.461, 10.497, 47.005], 27, 2.2041656885227203, '2vs7A_5a0wA.0.rota.pdb location: 2102']
+12:28:25,928 root INFO report_list_1 [[-96.275, 16.695, 35.137], 47, 2.3085781990153333, '2vs7A_5a0wA.0.rota.pdb location: 2105']
+12:28:25,928 root INFO report_list_1 [[-119.256, -11.893, 40.83], 60, 2.21899098634373, '2vs7A_5a0wA.0.rota.pdb location: 2009']
+12:28:25,928 root INFO report_list_1 [[-113.544, -17.223, 39.202], 61, 2.1587034826386597, '2vs7A_5a0wA.0.rota.pdb location: 2010']
+12:28:25,928 root INFO report_list_1 [[-112.915, -15.481, 35.421], 56, 2.1813194810351813, '2vs7A_5a0wA.0.rota.pdb location: 2011']
+12:28:25,928 root INFO report_list_1 [[-109.494, -3.294, 23.331], 33, 2.1946598499048946, '2vs7A_5a0wA.0.rota.pdb location: 2016']
+12:28:25,928 root INFO report_list_1 [[-98.931, -8.157, 23.305], 62, 2.0861221097575937, '2vs7A_5a0wA.0.rota.pdb location: 2018']
+12:28:25,928 root INFO report_list_1 [[-98.21, -8.223, 27.822], 86, 2.247191793295007, '2vs7A_5a0wA.0.rota.pdb location: 2019']
+12:28:25,928 root INFO report_list_1 [[-96.504, -9.149, 25.296], 87, 2.1792093383531213, '2vs7A_5a0wA.0.rota.pdb location: 2020']
+12:28:25,928 root INFO report_list_1 [[-95.524, -10.075, 22.611], 88, 2.1509010500522754, '2vs7A_5a0wA.0.rota.pdb location: 2021']
+12:28:25,928 root INFO report_list_1 [[-91.033, -12.462, 18.314], 63, 2.205974837465127, '2vs7A_5a0wA.0.rota.pdb location: 2023']
+12:28:25,928 root INFO report_list_1 [[-85.387, -9.62, 22.72], 64, 2.072606188614882, '2vs7A_5a0wA.0.rota.pdb location: 2024']
+12:28:25,928 root INFO report_list_1 [[-82.092, -11.892, 18.669], 97, 2.1895432745324874, '2vs7A_5a0wA.0.rota.pdb location: 2025']
+12:28:25,928 root INFO report_list_1 [[-77.201, 0.161, 8.758], 107, 2.1761149636192423, '2vs7A_5a0wA.0.rota.pdb location: 2030']
+12:28:25,928 root INFO report_list_1 [[-74.628, 2.306, 13.313], 92, 2.145993700479796, '2vs7A_5a0wA.0.rota.pdb location: 2032']
+12:28:25,928 root INFO report_list_1 [[-68.595, -4.884, 11.001], 108, 2.207152532561369, '2vs7A_5a0wA.0.rota.pdb location: 2035']
+12:28:25,928 root INFO report_list_1 [[-99.125, -10.293, 25.999], 90, 2.142931455715556, '2vs7A_5a0wA.0.rota.pdb location: 2043']
+12:28:25,928 root INFO report_list_1 [[-64.465, -4.635, 21.268], 109, 2.228217612260586, '2vs7A_5a0wA.0.rota.pdb location: 2002']
+12:28:25,928 root INFO report_list_1 [[-68.129, -1.537, 21.051], 89, 2.160537511973075, '2vs7A_5a0wA.0.rota.pdb location: 2003']
+12:28:25,928 root INFO report_list_1 [[-88.656, -9.104, 10.492], 110, 2.241717515927432, '2vs7A_5a0wA.0.rota.pdb location: 2005']
+12:28:25,928 root INFO report_list_1 [[-93.71, -4.766, 12.763], 93, 2.119021098115367, '2vs7A_5a0wA.0.rota.pdb location: 2006']
+12:28:25,928 root INFO report_list_1 [[-92.337, -13.259, 20.706], 30, 2.267138878211385, '2vs7A_5a0wA.0.rota.pdb location: 2007']
+12:28:25,928 root INFO report_list_1 [[-119.396, -7.353, 27.913], 95, 2.1375419341839494, '2vs7A_5a0wA.0.rota.pdb location: 2011']
+12:28:25,928 root INFO report_list_1 [[-76.516, 7.173, 35.082], 68, 2.235525556339067, '2vs7A_5a0wA.0.rota.pdb location: 2019']
+12:28:25,928 root INFO report_list_1 [[-68.831, -4.327, 32.828], 70, 2.2203815955664954, '2vs7A_5a0wA.0.rota.pdb location: 2003']
+12:28:25,928 root INFO report_list_1 [[-96.314, -5.209, 30.719], 5, 2.163446205637665, '2vs7.pdb location: 2002']
+12:28:25,928 root INFO report_list_1 [[-92.749, -4.825, 29.273], 35, 2.1381427131907973, '2vs7.pdb location: 2003']
+12:28:25,928 root INFO report_list_1 [[-77.357, -7.873, 31.776], 42, 2.1957747154594767, '2vs7.pdb location: 2006']
+12:28:25,928 root INFO report_list_1 [[-83.659, -9.331, 26.426], 8, 2.432975660523214, '2vs7.pdb location: 2008']
+12:28:25,928 root INFO report_list_1 [[-81.082, -11.996, 21.334], 39, 2.2394574630274358, '2vs7.pdb location: 2010']
+12:28:25,928 root INFO report_list_1 [[-72.229, -14.22, 18.325], 98, 2.2104409743845967, '2vs7.pdb location: 2011']
+12:28:25,928 root INFO report_list_1 [[-69.026, -8.511, 13.994], 99, 2.1159319365349445, '2vs7.pdb location: 2013']
+12:28:25,928 root INFO report_list_1 [[-66.613, -12.249, 14.042], 96, 2.3411697232662863, '2vs7.pdb location: 2014']
+12:28:25,929 root INFO report_list_1 [[-78.516, -11.192, 13.497], 73, 2.2555966057762795, '2vs7.pdb location: 2015']
+12:28:25,929 root INFO report_list_1 [[-80.895, 2.764, 40.202], 81, 2.3175941565135574, '2vs7.pdb location: 2018']
+12:28:25,929 root INFO report_list_1 [[-77.798, 3.447, 37.042], 66, 2.1433575218489413, '2vs7.pdb location: 2019']
+12:28:25,929 root INFO report_list_1 [[-84.919, -5.569, 32.899], 34, 2.292687576561356, '2vs7.pdb location: 2020']
+12:28:25,929 root INFO report_list_1 [[-85.358, -3.578, 46.716], 111, 2.2619382687045757, '2vs7.pdb location: 2021']
+12:28:25,929 root INFO report_list_1 [[-101.946, 2.882, 26.456], 7, 2.0529233340715707, '2vs7.pdb location: 2022']
+12:28:25,929 root INFO report_list_1 [[-105.2, 7.824, 31.418], 74, 2.2707099153011825, '2vs7.pdb location: 2023']
+12:28:25,929 root INFO report_list_1 
+
+
+Examined complex: 2vs7
+12:28:25,929 root INFO report_list_1 Whole chain setting used: True
+12:28:25,929 root INFO report_list_1 Whole chain selection: A
+12:28:25,929 root INFO report_list_1 Binding site selection: / (not used)
+12:28:25,929 root INFO report_list_1 Chain selection: A
+12:28:25,929 root INFO report_list_1 Used PDB clusters with: Custom Cluster %
+12:28:25,929 root INFO report_list_1 Unique structures in identified cluster: ['5AKM', '1MOW', '2VS7', '4D6N']
+
+
+
+12:28:25,929 root INFO report_list_1 4 compl. in cluster no.:[1] (sequence identity pre-cluster)
+12:28:25,929 root INFO report_list_1 Master water list includes 654 waters
+12:28:25,929 root INFO report_list_1 System volume is: 107576 cubic A
+
+
+12:28:25,929 root INFO report_list_1 -------------------------
+12:28:25,929 root INFO report_list_1 17 clusters with 2 H2O molecules. consv. 0.5           [*****     ]
+12:28:25,929 root INFO report_list_1 2 clusters with 3 H2O molecules. consv. 0.75           [********  ]
+12:28:25,929 root INFO report_list_1 -------------------------
+12:28:25,929 root INFO report_list_1 
+
+
+Examined complex: 2vs7
+12:28:25,929 root INFO report_list_1 Whole chain setting used: True
+12:28:25,929 root INFO report_list_1 Whole chain selection: A
+12:28:25,929 root INFO report_list_1 Binding site selection: / (not used)
+12:28:25,929 root INFO report_list_1 Chain selection: A
+12:28:25,929 root INFO report_list_1 Used PDB clusters with: Custom Cluster %
+12:28:25,929 root INFO report_list_1 Unique structures in identified cluster: ['5AKM', '1MOW', '2VS7', '4D6N']
+
+
+
+12:28:25,929 root INFO report_list_1 4 compl. in cluster no.:[1] (sequence identity pre-cluster)
+12:28:25,929 root INFO report_list_1 Master water list includes 654 waters
+12:28:25,929 root INFO report_list_1 System volume is: 107576 cubic A
+
+
+12:28:25,929 root INFO report_list_1 -------------------------
+12:28:25,929 root INFO report_list_1 17 clusters with 2 H2O molecules. consv. 0.5           [*****     ]
+12:28:25,929 root INFO report_list_1 2 clusters with 3 H2O molecules. consv. 0.75           [********  ]
+12:28:25,929 root INFO report_list_1 -------------------------
+12:28:25,929 root INFO report_list_1 
+Binding site info (name, avg x, y, z, min x, max x, min y, max y, min z, max z; box 4 A around extremes): 
+['no binding site used in analysis']
+12:28:25,929 root INFO report_list_1 
+Examined cluster with 2 H2O molecules
+
+12:28:25,929 root INFO report_list_1 -------------------------
+12:28:25,929 root INFO report_list_1 [[-77.613, 3.454, 37.36], 0, 2.1147811332964017, '2vs7A_4d6nK.0.rota.pdb location: 2001']
+12:28:25,929 root INFO report_list_1 [[-96.184, -5.302, 31.104], 1, 2.103169521647951, '2vs7A_4d6nK.0.rota.pdb location: 2003']
+12:28:25,929 root INFO report_list_1 [[-101.474, 3.355, 26.39], 2, 2.154602578891656, '2vs7A_4d6nK.0.rota.pdb location: 2005']
+12:28:25,929 root INFO report_list_1 [[-73.625, -6.125, 29.376], 3, 2.148874322874232, '2vs7A_4d6nK.0.rota.pdb location: 2006']
+12:28:25,929 root INFO report_list_1 [[-82.094, 0.162, 16.686], 4, 2.0871366063406125, '2vs7A_4d6nK.0.rota.pdb location: 2008']
+12:28:25,929 root INFO report_list_1 [[-77.203, -0.969, 21.755], 5, 2.074486556244153, '2vs7A_4d6nK.0.rota.pdb location: 2009']
+12:28:25,929 root INFO report_list_1 [[-87.08, -3.298, 19.698], 6, 2.1088204422746584, '2vs7A_4d6nK.0.rota.pdb location: 2010']
+12:28:25,929 root INFO report_list_1 [[-81.231, 4.877, 19.023], 7, 2.1436981990079116, '2vs7A_4d6nK.0.rota.pdb location: 2014']
+12:28:25,929 root INFO report_list_1 [[-74.387, 3.683, 25.806], 8, 2.0878734822696083, '2vs7A_4d6nK.0.rota.pdb location: 2015']
+12:28:25,929 root INFO report_list_1 [[-81.212, 3.077, 40.095], 9, 2.14811288462662, '2vs7A_4d6nK.0.rota.pdb location: 2017']
+12:28:25,929 root INFO report_list_1 [[-109.538, -3.22, 23.56], 10, 2.245395942217101, '2vs7A_4d6nK.0.rota.pdb location: 2003']
+12:28:25,929 root INFO report_list_1 [[-87.569, -3.775, 19.685], 6, 2.0334286757194193, '2vs7A_1mowA.0.rota.pdb location: 2050']
+12:28:25,929 root INFO report_list_1 [[-77.529, -0.742, 21.28], 5, 2.023960453991824, '2vs7A_1mowA.0.rota.pdb location: 2039']
+12:28:25,930 root INFO report_list_1 [[-75.03, 3.452, 25.413], 8, 2.0690189300311514, '2vs7A_1mowA.0.rota.pdb location: 2055']
+12:28:25,930 root INFO report_list_1 [[-96.739, -5.134, 30.543], 1, 2.096291507724018, '2vs7A_1mowA.0.rota.pdb location: 2095']
+12:28:25,930 root INFO report_list_1 [[-109.115, -3.125, 24.068], 10, 2.2616443426026946, '2vs7A_1mowA.0.rota.pdb location: 2299']
+12:28:25,930 root INFO report_list_1 [[-82.385, -0.27, 16.386], 4, 2.0278052280514185, '2vs7A_1mowA.0.rota.pdb location: 2007']
+12:28:25,930 root INFO report_list_1 [[-81.603, 4.332, 18.674], 7, 2.0206022472731116, '2vs7A_1mowA.0.rota.pdb location: 2019']
+12:28:25,930 root INFO report_list_1 [[-101.993, 2.16, 26.203], 2, 1.9272570508003324, '2vs7A_1mowA.0.rota.pdb location: 2058']
+12:28:25,930 root INFO report_list_1 [[-92.719, -4.867, 29.623], 11, 2.101817357993741, '2vs7A_1mowA.0.rota.pdb location: 2113']
+12:28:25,930 root INFO report_list_1 [[-76.828, -7.598, 32.091], 12, 2.23119421374381, '2vs7A_1mowA.0.rota.pdb location: 2118']
+12:28:25,930 root INFO report_list_1 [[-78.726, -11.623, 13.837], 13, 2.196967483626468, '2vs7A_1mowA.0.rota.pdb location: 2125']
+12:28:25,930 root INFO report_list_1 [[-73.872, -6.193, 28.9], 3, 2.149803919525246, '2vs7A_1mowA.0.rota.pdb location: 2155']
+12:28:25,930 root INFO report_list_1 [[-80.973, -11.993, 21.38], 14, 2.272598816795077, '2vs7A_1mowA.0.rota.pdb location: 2199']
+12:28:25,930 root INFO report_list_1 [[-79.71, -11.773, 25.572], 15, 2.300316316157106, '2vs7A_1mowA.0.rota.pdb location: 2234']
+12:28:25,930 root INFO report_list_1 [[-83.796, -9.013, 26.993], 16, 2.27267138520277, '2vs7A_1mowA.0.rota.pdb location: 2320']
+12:28:25,930 root INFO report_list_1 [[-96.314, -5.209, 30.719], 1, 2.163446205637665, '2vs7.pdb location: 2002']
+12:28:25,930 root INFO report_list_1 [[-92.749, -4.825, 29.273], 11, 2.1381427131907973, '2vs7.pdb location: 2003']
+12:28:25,930 root INFO report_list_1 [[-77.357, -7.873, 31.776], 12, 2.1957747154594767, '2vs7.pdb location: 2006']
+12:28:25,930 root INFO report_list_1 [[-79.402, -11.552, 25.845], 15, 2.251292996565707, '2vs7.pdb location: 2007']
+12:28:25,930 root INFO report_list_1 [[-83.659, -9.331, 26.426], 16, 2.432975660523214, '2vs7.pdb location: 2008']
+12:28:25,930 root INFO report_list_1 [[-81.082, -11.996, 21.334], 14, 2.2394574630274358, '2vs7.pdb location: 2010']
+12:28:25,930 root INFO report_list_1 [[-78.516, -11.192, 13.497], 13, 2.2555966057762795, '2vs7.pdb location: 2015']
+12:28:25,930 root INFO report_list_1 [[-80.895, 2.764, 40.202], 9, 2.3175941565135574, '2vs7.pdb location: 2018']
+12:28:25,930 root INFO report_list_1 [[-77.798, 3.447, 37.042], 0, 2.1433575218489413, '2vs7.pdb location: 2019']
+12:28:25,930 root INFO report_list_1 [[-101.946, 2.882, 26.456], 2, 2.0529233340715707, '2vs7.pdb location: 2022']
+12:28:25,930 root INFO ______________________________!!!!!!!!!!!!!!!!!!______________________________

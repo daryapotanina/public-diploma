@@ -160,5 +160,3 @@ cython_debug/
 .DS_Store
 
 !probisH2O-logs/*.log
-
-pdb/

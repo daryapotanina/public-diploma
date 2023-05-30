@@ -58,9 +58,16 @@ from glob import glob
 from ftplib import FTP
 from itertools import groupby
 from pathlib import Path
+import logging
 
 from pymol.Qt import QtWidgets, QtGui, QtCore
 from pymol.Qt.utils import loadUi
+
+logging.basicConfig(filename="probis_py.log",
+                    filemode='a',
+                    format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
+                    datefmt='%H:%M:%S',
+                    level=logging.DEBUG)
 
 # ADDITIONAL MODULES----------------------------------------------------------------------=
 try:
@@ -368,9 +375,10 @@ class RSCB_contact:
             value += 1
             progress.progressBar.setValue(value)
 
-        print(("Database setup finished" + "\t thank you too RCSB protein data bank"))
-        if platform == "linux":
-            print("Platform: LINUX")
+        print(("FIXED  Database setup finished" + "\t thank you too RCSB protein data bank"))
+        # if platform == "linux":
+        if True:
+            print("Platform: LINUX!!!!!!! (mac os)")
             if os.path.isfile(probis_dir) == False:
                 RSCB_contact.fetch_probis()
             value += 1
@@ -430,7 +438,8 @@ class RSCB_contact:
                 check += "a"
         if check == "aaaaaaaaaaa":
             print("ProBis_H2O: Database OK")
-        if platform == "linux":
+        # if platform == "linux":
+        if True:
             if os.path.isfile(probis_dir) == False:
                 QtWidgets.QMessageBox.about(dialog, "ProBiS H2O Warning", "Please ensure probis is downloaded correctly using setup DB button in Settings tab on plugin GUI")
                 print("ProBiS_H2O: please ensure probis is downloaded correctly using setup DB button in Settings tab on plugin GUI")
@@ -471,7 +480,7 @@ class ClusterComplexManipulation:
 
         # try:
         global cluster_list_unique
-        print(ime_selekcije)
+        print("ime_selekcije: " + ime_selekcije + " " + "sekvenca_id: "+ sekvenca_id + " " + "target_complex: ")
         if ime_selekcije == "clusters":
 
             with open(ime_selekcije + sekvenca_id + ".txt", "rt") as infile:
@@ -493,6 +502,7 @@ Bioinformatics, 22:1658-9.
                 for line in line_list:
                     line_list_2 = line.split()
                     for element in line_list_2:
+                        print("__ element" + element)
                         cluster_list.append(element[0:4])
                 # make unique list set
                 cluster_list_unique = set(cluster_list)
@@ -927,6 +937,15 @@ class h20Analysis:
 
         #probis_starter=('start "" "{}"').format(probis_dir)
         probis_starter=probis_exe_dir
+
+        print("processors_available_local: " + processors_available_local)
+        print("protein: " + protein)
+        print("protein: " + protein)
+        # print("protein: " + )
+        logging.info("RUN PROBIS %s", [probis_starter, "-ncpu", processors_available_local, 
+                        "-extract", "-f1", "{}.pdb".format(protein), "-c1",
+                        whole_chain_compare_selection, "-srffile", 
+                        "{}.srf".format(protein)])
         
         if platform == "win32":
             if chain_sel == False:
@@ -1193,6 +1212,8 @@ class h20Analysis:
                     else:
                         pass
                 PDB_master_file_list.append(lista_h2o)
+        # print("PDB_master_file_list________________________")
+        # logging.info("PDB_master_file_list %s", PDB_master_file_list)
 
 
         MASTER_h2o_list = []
@@ -1492,6 +1513,8 @@ class h20Analysis:
                 QtWidgets.QMessageBox.about(dialog, "ProBiS H2O Warning",
                                         "Please ensure analized .pdb file includes water molecules")
 
+        # for linija in report_list_1:
+        #     print(" llll: " + linija)
         # cleanup
         if platform == "win32":
             os.system("DEL *.ent.gz /S")
@@ -1549,9 +1572,11 @@ class pyMOLinterface:
 
         if custom == True:
             target_complex_3 = os.path.split(dialog.LineProtein.text())[1].split(".")[0]
-            cmd.load(filename, target_complex_3)
+            logging.info("pyMOL_fetch_system 1 %s", [custom, filename, target_complex_3])
+            cmd.load(filename, target_complex_3, multiplex=1)
         else:
             target_complex_3 = dialog.LineProtein.text().lower()
+            logging.info("pyMOL_fetch_system 2 %s", [custom, target_complex_3])
             cmd.fetch(target_complex_3, target_complex_3)
 
         cmd.hide("everything", target_complex_3)
@@ -1791,8 +1816,10 @@ class pyMOLinterface:
             target = os.path.split(dialog.LineProtein.text())[1]
             nova_datoteka = open("report_"+ "custom_" + target.split(".")[0]+ ".txt", "w")
         for linija in report_list_1:
+            logging.info("report_list_1 %s", linija)
             nova_datoteka.write("%s\n" % linija)
         nova_datoteka.close()
+        logging.info("______________________________!!!!!!!!!!!!!!!!!!______________________________")
         print("report created...")
 
 # thanks Janez for Support!

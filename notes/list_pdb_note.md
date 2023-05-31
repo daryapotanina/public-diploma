@@ -1,0 +1,341 @@
+# Списки структур по семействам
+
+PF00961 LAGLIDADG_1
+PF14528 LAGLIDADG_3
+PF01381 HTH_3
+PF00352 TBP
+PF00870 P53
+
+Запрос
+
+```
+select pdbmap.entry_id
+from diploma.pdbmap
+         join diploma.dna_proteins on pdbmap.entry_id = dna_proteins.entry_id
+where number_of_water_molecules_per_deposited_model > 10
+  and resolution <= 2.5
+  and family_id like 'TBP'
+group by pdbmap.entry_id;
+```
+
+Скачивание
+https://www.rcsb.org/docs/programmatic-access/batch-downloads-with-shell-script
+
+```
+sh ./batch_download.sh -f list_file.txt -c -p
+
+```
+
+Выделение
+
+```
+select boo, solvent near_to 3.2 of polymer.protein
+select foo, boo near_to 3.2 of polymer.nucleic
+```
+
+## Один белок
+
+TBP и P53 - разные структуры одного белка (и LAGLIDADG_3)
+
+### TBP - 24
+
+Самое высокое разрешение 1YTB - 1.8
+Biological assembly: 0
+
+1AIS
+1CDW
+1D3U
+1NH2
+1NVP
+1QN3
+1QN4
+1QN5
+1QN6
+1QN7
+1QN8
+1QN9
+1QNA
+1QNB
+1QNC
+1QNE
+1RM1
+1VTO
+1YTB
+4ROC
+4ROE
+6UEO
+6UEP
+6UEQ
+
+Разбивка на группы:
+
+1YTB 1AIS 1CDW 1D3U
+
+1YTB 1NH2 1NVP 1QN3
+
+1YTB 1QN4 1QN5 1QN6
+
+1YTB 1QN7 1QN8 1QN9
+
+1YTB 1QNA 1QNB 1QNC
+
+1YTB 1QNE 1RM1 1VTO
+
+1YTB 4ROC 4ROE 6UEO
+
+1YTB 6UEP 6UEQ 1NVP
+
+### P53 - 29
+
+Самое высокое разрешение 5MCT - 1.446
+Biological assembly: 3IGK, 3IGL, 3KZ8, 4IBV, 4IBW, 5BUA, 5MCT, 5MCU, 5MCV, 5MCW, 5MF7, 5MG7
+
+1TSR
+1TUP
+2AC0
+2ADY
+2AHI
+2ATA
+2GEQ
+3D0A
+3EXJ
+3EXL
+3IGK
+3IGL
+3KMD
+3KZ8
+3Q05
+3QYN
+3US0
+4HJE
+4IBU
+4IBV
+4IBW
+5BUA
+5MCT
+5MCU
+5MCV
+5MCW
+5MF7
+5MG7
+6FJ5
+
+Разбивка на группы:
+
+5MCT 1TSR 1TUP 2AC0
+
+5MCT 2ADY 2AHI 2ATA
+
+5MCT 2GEQ 3D0A 3EXJ
+
+5MCT 3EXL 3IGK 3IGL
+
+5MCT 3KMD 3KZ8 3Q05
+
+5MCT 3QYN 3US0 4HJE
+
+5MCT 4IBU 4IBV 4IBW
+
+5MCT 5BUA 5MCU 5MCV
+
+5MCT 5MCW 5MF7 5MG7 6FJ5
+
+### LAGLIDADG_3 - 12
+
+Самое высокое разрешение 2VS7 - 2.05
+Biological assembly: 0
+
+1MOW
+2VS7
+2VS8
+4D6N
+4D6O
+4UNA
+4UNC
+4UT0
+5A0W
+5AKF
+5AKM
+5O6I
+
+Разбивка на группы:
+
+2VS7 1MOW 2VS8 5O6I
+
+2VS7 4D6O 4UNA 4UNC
+
+2VS7 4UT0 5A0W 5AKF
+
+2VS7 5AKM 4D6N 1MOW
+
+## Разные белки
+
+HTH_3 и LAGLIDADG_1 - изучаем (DNA_methylase, HLH) < 2,5A
+
+### HTH_3 - 22
+
+Самое высокое разрешение 2R1J - 1.53
+Biological assembly: 4Z58, 4Z59, 4Z5H
+
+1LLI
+1LMB
+1PER
+1RIO
+1RPE
+2OR1
+2R1J
+3CRO
+3JXB
+3JXC
+3JXD
+3S8Q
+3U3W
+4IWR
+4Z58
+4Z59
+4Z5C
+4Z5D
+4Z5H
+6LB3
+7CSW
+7CSY
+
+Разбивка на группы:
+
+2R1J 1LLI 1LMB 1PER
+
+2R1J 1RIO 1RPE 2OR1
+
+2R1J 3CRO 3JXB 3JXC
+
+2R1J 3JXD 3S8Q 3U3W
+
+2R1J 4IWR 4Z58 4Z59
+
+2R1J 4Z5C 4Z5D 4Z5H
+
+2R1J 6LB3 7CSW 7CSY
+
+### LAGLIDADG_1 - 39
+
+Biological assembly: 0
+
+Самое высокое разрешение 6BD0 - 1.45
+
+1G9Y
+1G9Z
+1M5X
+1MOW
+1N3E
+1N3F
+1T9I
+1T9J
+1U0C
+2EX5
+2FLD
+2I3P
+2I3Q
+2QOJ
+2VBJ
+2VBL
+2VBN
+2VBO
+3QQY
+4AAB
+4AAF
+4AQU
+4AQX
+4LOX
+4YHX
+5A74
+5A77
+5A78
+5E5O
+5E5S
+6BCE
+6BCI
+6BCN
+6BD0
+6BDA
+6BDB
+6FB0
+6FB5
+6FB8
+
+Разбивка на группы:
+
+6BD0 1G9Y 1G9Z 1M5X
+
+6BD0 1MOW 1N3E 1N3F
+
+6BD0 1T9I 1T9J 1U0C
+
+6BD0 2EX5 2FLD 2I3P
+
+6BD0 2I3Q 2QOJ 2VBJ
+
+6BD0 2VBL 2VBN 2VBO
+
+6BD0 3QQY 4AAB 4AAF
+
+6BD0 4AQU 4AQX 4LOX
+
+6BD0 4YHX 5A74 5A77
+
+6BD0 5A78 5E5O 5E5S
+
+6BD0 6BCE 6BCI 6BCN 6BDA
+
+6BD0 6BDB 6FB0 6FB5 6FB8
+
+Разбивка на группы: ref 1T9I - 1.6A
+
+1T9I 1G9Y 1G9Z 1M5X
+
+1T9I 1MOW 1N3E 1N3F
+
+1T9I 6BD0 1T9J 1U0C
+
+1T9I 2EX5 2FLD 2I3P
+
+1T9I 2I3Q 2QOJ 2VBJ
+
+1T9I 2VBL 2VBN 2VBO
+
+1T9I 3QQY 4AAB 4AAF
+
+1T9I 4AQU 4AQX 4LOX
+
+1T9I 4YHX 5A74 5A77
+
+1T9I 5A78 6BDA 5E5S
+
+1T9I 6BCE 6BCI 6BCN 5E5O
+
+1T9I 6BDB 6FB0 6FB5 6FB8
+
+Разбивка на группы: ref 6BCE - 1.75A
+
+6BCE 1G9Y 1N3E 1M5X
+
+6BCE 1MOW 1T9J 1N3F
+
+6BCE 6BD0 2FLD 1U0C
+
+6BCE 2EX5 2QOJ 2I3P
+
+6BCE 2I3Q 2VBN 2VBJ
+
+6BCE 2VBL 4AAB 2VBO
+
+6BCE 3QQY 4AQX 4AAF
+
+6BCE 4AQU 5A74 4LOX
+
+6BCE 4YHX 6BDA 5A77
+
+6BCE 5A78 6BCI 5E5S
+
+6BCE 1T9I 6FB0 6BCN 5E5O
+
+6BCE 6BDB 1G9Z 6FB5 6FB8

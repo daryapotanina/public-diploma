@@ -5,7 +5,7 @@
 
 Порядок работы с плагином ProBis H2O
 
-<img src=./assets/pic_3.png">
+<img src="./assets/pic_3.png">
 
 <br>
 

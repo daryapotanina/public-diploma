@@ -1,10 +1,11 @@
 # Консервативные молекулы воды в структурах ДНК-белковых комплексов
 ## Conserved water molecules in structures of DNA-protein complexes
 
+<br>
 
-| Порядок работы с плагином ProBis H2O |
-| ------------- |
-| <img src="./assets/pic_3.png"> |
+Порядок работы с плагином ProBis H2O
+
+<img src=./assets/pic_3.png">
 
 <br>
 

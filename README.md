@@ -35,6 +35,9 @@
 │   ├── pdb_resolution_water.csv
 │   ├── queries.sql
 │   └── readme.md
+├── notes
+│   ├── list_pdb_note.md
+│   └── pymol_scripts.md
 ├── pdb
 │   ├── 1AIS.cif
 │   ├── ....
